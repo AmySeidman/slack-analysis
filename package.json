@@ -11,6 +11,10 @@
   "license": "ISC",
   "dependencies": {
     "@slack/web-api": "^5.11.0",
-    "fs-path": "0.0.24"
+    "csv-parser": "^2.3.3",
+    "csv-write-stream": "^2.0.0",
+    "fs": "0.0.1-security",
+    "fs-path": "0.0.24",
+    "merkletreejs": "^0.2.9"
   }
 }
