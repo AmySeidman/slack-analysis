@@ -2,4 +2,5 @@ fetched_data
 .env
 .DS_STORE
 node_modules/
-scripts/fetched/*
+scripts/messages/*
+scripts/users/*
