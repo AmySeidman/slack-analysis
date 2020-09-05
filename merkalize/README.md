@@ -1,5 +1,8 @@
 try out: https://willing-river.surge.sh/
 
+Simple UI to check if you were a part of the Kernel Genesis block 😌
+(this was a joke).
+
 ## browserify
 
 ```bash
