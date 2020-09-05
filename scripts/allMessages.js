@@ -13,7 +13,35 @@ const fs = require('fs')
 const token = process.env.SLACK_TOKEN
 const web = new WebClient(token)
 const csvWriter = require('csv-write-stream')
-const path = require('path');
+const path = require('path')
+
+async function getAllReplies (channel, ts) {
+  let r, c = ''
+  let result = []
+  do {
+    try {
+      r = await web.conversations.replies({
+        channel, ts
+      })
+    } catch (e) { throw e }
+    result.push(...r.messages)
+  } while (r.response_metadata.next_cursor)
+  
+  return result
+}
+function getRequiredDetails(msg) {
+  return {
+    id: msg.ts,
+    text: msg.text, // message text
+    user: msg.user, // sent by
+    timestamp: new Date(Math.ceil(msg.ts)).toUTCString(), // timestamp - prim key
+    // mentioned_users: el, // elements of the message (see: https://api.slack.com/reference/block-kit/blocks)
+    // reply_users: message.reply_users, // replied by whom?
+    // thread_ts: message.thread_ts, // is a thread?
+    // reactions: message.reactions // all reactions,
+    in_reply_to: msg.thread_ts
+  }
+}
 
 /**
  * gets and stores all messages of a given channel
@@ -21,48 +49,45 @@ const path = require('path');
  * @param {string} name channel name
  */
 async function getMessages (_channel, name) {
-  let r
-  let c = ''
+  let r, c = ''
   do {
     try {
       r = await web.conversations.history({
-        limit: 500,
         channel: _channel,
         cursor: c
       })
     } catch (e) {
       console.log (e)
     }  
-    
-    let userMessages = r.messages.filter((message) => {
-      return !(message.bot_id)
+    let userMessages = r.messages.filter((message) => !(message.bot_id))
+    let allMessages = []
+    for (message in userMessages) {
+      let msg = userMessages[message]
+      allMessages.push(getRequiredDetails (msg)) 
+      // push replies
+      if (msg.thread_ts) {
+        // console.log ('fetching replies for', msg.thread_ts, 'in channel', name)
+        let responses = await getAllReplies(_channel, msg.ts)
+        responses.forEach((response) => {
+          allMessages.push(getRequiredDetails(response)) 
+        })
+      }
+    }
+    let headers =  ['id','user', 'text', 'timestamp', 'in_reply_to']
+    let storeAt = __dirname + `/messages/${name}.csv`
+    let exists = await fs.existsSync(storeAt)
+    let writer = csvWriter({ headers, sendHeaders: exists? false : true })
+    let writeStream = await fs.createWriteStream(storeAt, { flags: exists? 'a' : 'w' })
+    writer.pipe(writeStream)
+    allMessages.forEach((m) => {
+      writer.write(m)
     })
-    let allMessages = userMessages.map((message) => {
-        return {
-          // type: message.type,
-          text: message.text, // message text
-          user: message.user, // sent by
-          ts: new Date(Math.ceil(message.ts)).toUTCString(), // timestamp - prim key
-          // mentioned_users: el, // elements of the message (see: https://api.slack.com/reference/block-kit/blocks)
-          // reply_users: message.reply_users, // replied by whom?
-          // thread_ts: message.thread_ts, // is a thread?
-          // reactions: message.reactions // all reactions,
-        }
-      })
+    writeStream.end()
+    writer.end()
+    c = r.response_metadata.next_cursor
 
-      let storeAt = __dirname + `/messages/${name}.csv`
-      let exists = await fs.existsSync(storeAt)
-      let writer = csvWriter({ headers: ['user', 'text', 'ts'], sendHeaders: exists? false : true })
-      let writeStream = await fs.createWriteStream(storeAt, { flags: exists? 'a' : 'w' })
-      writer.pipe(writeStream)
-      allMessages.forEach((m) => {
-        writer.write(m)
-      })
-      writeStream.end()
-      writer.end()
-      c = r.response_metadata.next_cursor
-      
   } while (r.response_metadata.next_cursor)
+  return;
 }
 
 /**
@@ -90,11 +115,12 @@ async function getAllMessages () {
     })
     if (memberChannels.length) {
       // @todo cater to channels that are externally shared with other users or orgs (how to handle external identities?)
-      memberChannels.map(async (channel) => {
-        console.log ('fetching for channel', channel.name + ',', 'id:', channel.id)
-        await getMessages(channel.id, channel.name)
-        return 
-      })
+      for (channel in memberChannels) {
+        let channelName = memberChannels[channel].name
+        let channelId = memberChannels[channel].id
+        console.log ('fetching for channel', channelName + ',', 'id:', channelId)
+        await getMessages(channelId, channelName)        
+      }
     }
     c = r.response_metadata.next_cursor
   } while (r.response_metadata.next_cursor)
@@ -117,8 +143,6 @@ async function setup () {
     fs.mkdir(directory, (err) => { if (err) throw err })
   }
 }
-
-
 
 async function main () {
   await setup()
