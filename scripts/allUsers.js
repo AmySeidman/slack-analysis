@@ -4,12 +4,11 @@
  */
 
 const { WebClient } = require('@slack/web-api')
-const fs = require('fs-path')
-const _fs = require('fs')
+const fs = require('fs')
 const token = process.env.SLACK_TOKEN
 const web = new WebClient(token)
 const csvWriter = require('csv-write-stream')
-
+const path = require('path')
 
 async function getUsers () {
   let r
@@ -31,77 +30,50 @@ async function getUsers () {
 
     let reqDetails = onlyHumans.map((human) => {
       return {
+        user_id: human.id,
         name: human.profile.real_name_normalized,
         email: human.profile.email
       }
     })
 
-    fs.writeFile(
-      `fetched_data/users/members${c}.json`, 
-      JSON.stringify(reqDetails), 
-      'utf8', 
-        (err, data) => {
-        if (err) console.log (err)
-      })
+    let storeAt = __dirname + `/users/users.csv`
+    let exists = await fs.existsSync(storeAt)
+    let writer = csvWriter({ headers: ['user_id', 'name', 'email'], sendHeaders: exists? false : true })
+    let writeStream = await fs.createWriteStream(storeAt, { flags: exists? 'a' : 'w' })
+    writer.pipe(writeStream)
+    reqDetails.forEach((m) => {
+      writer.write(m)
+    })
+    writeStream.end()
+    writer.end()
     c = r.response_metadata.next_cursor
   } while (r.response_metadata.next_cursor)
 }
 
-async function getCsv() {
-  let dirname = `./fetched_data/users/`
-  _fs.readdir(dirname, function(err, filenames) {
-    if (err) {
-      console.log (err)
-      return
-    }
-    let writer = null
-    filenames.forEach(function(filename) {
-      let storeAt = './merkalize/data/users.csv'
-      _fs.readFile(dirname + filename, 'utf-8', async function(err, content) {
-        if (err) {
-          console.log (err)
-          return
-        }
-        try {
-          try {
-            let dataToWrite = JSON.parse(content)
-            if (writer == null) {
-                writer = csvWriter(
-                {
-                  headers: ["name", "email"],
-                  sendHeaders: true
-                }
-              )
-            }
-            writer.pipe(
-              _fs.createWriteStream(
-                storeAt, {flags: 'a'}
-              )
-            )
-            dataToWrite.forEach((person) => {
-              writer.write(person)
-            })
-            writer.end()
-            writer = csvWriter(
-              {
-                headers: ["name", "email"],
-                sendHeaders: false
-              }
-            )
-          } catch (err) {
-            console.error (err)
-          }
-        } catch (err) {
-          console.error(err);
-        }
+async function setup () {
+  let directory = path.join(__dirname,'users')
+  // console.log(directory)
+  let exists = await fs.existsSync(directory)
+
+  if (exists) {
+    fs.readdir(directory, (err, files) => {
+      if (err) throw err;
+      // console.log (files)
+      files.forEach((file) => {
+        fs.unlink(path.join(directory, file), err => {
+          if (err) throw err
+        })
       })
     })
-  })
+  } else {
+    fs.mkdir(directory, (err) => { if (err) throw err })
+  }
 }
 
+
 async function main () {
+  await setup()
   await getUsers()
-  await getCsv()
 }
 
 main ()
