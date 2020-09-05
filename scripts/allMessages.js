@@ -26,19 +26,32 @@ async function getAllReplies (channel, ts) {
     } catch (e) { throw e }
     result.push(...r.messages)
   } while (r.response_metadata.next_cursor)
-  
+  result.shift()
   return result
 }
 function getRequiredDetails(msg) {
+  let block, mentioned_users = []
+  if (msg.blocks) {
+    block = msg.blocks
+    let innerElements
+    block.forEach((obj) => {
+      for (element in obj.elements) {
+        innerElements = obj.elements[element].elements
+      }
+    })
+    
+    let mentioned_users_filter = innerElements.filter((el) => el.type == 'user')
+    for (user in mentioned_users_filter) {
+      mentioned_users.push(mentioned_users_filter[user].user_id)
+    }
+  }
   return {
-    id: msg.ts,
+    id: msg.ts, // timestamp - priv key
     text: msg.text, // message text
     user: msg.user, // sent by
-    timestamp: new Date(Math.ceil(msg.ts)).toUTCString(), // timestamp - prim key
-    // mentioned_users: el, // elements of the message (see: https://api.slack.com/reference/block-kit/blocks)
-    // reply_users: message.reply_users, // replied by whom?
-    // thread_ts: message.thread_ts, // is a thread?
-    // reactions: message.reactions // all reactions,
+    timestamp: new Date(Math.ceil(msg.ts)).toUTCString(),
+    mentioned_users, // elements of the message (see: https://api.slack.com/reference/block-kit/blocks)
+    reactions: msg.reactions, // all reactions
     in_reply_to: msg.thread_ts
   }
 }
@@ -73,7 +86,7 @@ async function getMessages (_channel, name) {
         })
       }
     }
-    let headers =  ['id','user', 'text', 'timestamp', 'in_reply_to']
+    let headers =  ['id','user', 'text', 'timestamp', 'in_reply_to', 'mentioned_users', 'reactions']
     let storeAt = __dirname + `/messages/${name}.csv`
     let exists = await fs.existsSync(storeAt)
     let writer = csvWriter({ headers, sendHeaders: exists? false : true })
