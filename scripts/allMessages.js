@@ -1,12 +1,6 @@
 /**
- * 
  * fetches all message history from all the channels the bot is added in 
  * make sure to export SLACK_TOKEN in the environment before running the script - this is the bot token
- * Make sure a `messages` directory is present in the same directory as this script
- * before re-running the script, make sure to delete any pre-existing .csv files in the `messages` directory
- * the script does not query for replies to threads - it only stores the horizontal channel history
- * The stored messages will be in reverse-chronological order
- * 
  */
 const { WebClient } = require('@slack/web-api')
 const fs = require('fs')
