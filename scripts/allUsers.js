@@ -52,13 +52,10 @@ async function getUsers () {
 
 async function setup () {
   let directory = path.join(__dirname,'users')
-  // console.log(directory)
   let exists = await fs.existsSync(directory)
-
   if (exists) {
     fs.readdir(directory, (err, files) => {
       if (err) throw err;
-      // console.log (files)
       files.forEach((file) => {
         fs.unlink(path.join(directory, file), err => {
           if (err) throw err
