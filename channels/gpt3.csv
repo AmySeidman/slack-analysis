@@ -1,0 +1,62 @@
+id,user,text,timestamp,in_reply_to,mentioned_users,reactions,total_reactions
+1598293492.006600,U016UNBDY5R,So invite everyone available this week for a <#C018EES9BSQ|gpt3> wrap-up and outlook for what could be next!,"Mon, 19 Jan 1970 11:58:13 GMT",,,"[{""name"":""+1"",""users"":[""U016R8N9NKX""],""count"":1}]",1
+1598290183.004600,U016UNBDY5R,One transcript is still missing due to the fact that my mic was on very low volume and I am reconstructing from paper notes.,"Mon, 19 Jan 1970 11:58:10 GMT",,,,0
+1598290100.002500,U016UNBDY5R,@here  Final week and it is still not enough of KERNEL. This should be 8x two weeks (or more hours!),"Mon, 19 Jan 1970 11:58:10 GMT",,,,0
+1597768770.018100,U016M08G1M4,<@U016M08G1M4> has joined the channel,"Mon, 19 Jan 1970 11:49:28 GMT",,,,0
+1597689238.017900,U016UNBDY5R,"OK, our table at airmeet (32) is limited to 2 seats and marked as DON'T USE - i take it updateding the event through slackbot never really worked :confused:
+For those interested in the GPT3/AI junto-&gt; <https://zoom.us/j/9851547883?pwd=K21RMklDcGsycUVTY1YvK21oNTM0dz09>","Mon, 19 Jan 1970 11:48:09 GMT",,,,0
+1597227462.017400,U0172CB3649,"<https://www.bbc.co.uk/newsround/53324763>
+Not exactly about text generation but…","Mon, 19 Jan 1970 11:40:27 GMT",,,,0
+1597216868.017000,U016Z293QVA,<@U016Z293QVA> has joined the channel,"Mon, 19 Jan 1970 11:40:16 GMT",,,,0
+1597152494.016800,U016UNBDY5R,"<!here> I hope you find the summaries informative. Earlier summaries will be posted in due course. *If you associate anything of note to any of the past talking points, I invite you to add it in the thread - our hive mind will be grateful!*","Mon, 19 Jan 1970 11:39:12 GMT",,,"[{""name"":""seedling"",""users"":[""U0172CB3649""],""count"":1}]",1
+1597152286.014200,U016UNBDY5R,"ICYMI: Talking points from Junto #4 (Aug 10th):
+• *NLU attack vectors on legacy and crypto value chains (AntsReview use-case)*: the cost-benefit trade-off of using AI to attack/subvert review processes and human-agent based validation processes. Can we devise hard protections against hybrid bot-human adversaries or do we need to rely on prohibitive cost as our main line of defense?
+• *2019 talk recap of SaaS autonomous agents x Token Engineering:*  AI agents following economic objectives are within grasp now. Why isn't adoption coming faster? Are ethical concerns holding people back? Is reinforcement learning a necessary part of on-chain agents?
+• *Content Validation in Reputation Systems - GPT3 as a baseline tool that is part of the ecosystem value flow?:* validation steps (e.g. certain roles/functions in a DAO setting) can be split into separate categories where AIaaS fills the roles of the more mundane aspects and human validators are pooled into ""resource pools"" for the more demanding and engaging tasks.","Mon, 19 Jan 1970 11:39:12 GMT",1597152286.014200,,"[{""name"":""+1"",""users"":[""U01691XLMD5""],""count"":1},{""name"":""seedling"",""users"":[""U0172CB3649""],""count"":1}]",2
+1597152377.015000,U016UNBDY5R,cc <@U0172CB3649> <@U016Q3JK0RH> <@U01691XLMD5>,"Mon, 19 Jan 1970 11:39:12 GMT",1597152286.014200,"U0172CB3649,U016Q3JK0RH,U01691XLMD5",,0
+1597140026.001600,U016UNBDY5R,"This is the slack thread that started it all:  <https://kernel-community.slack.com/archives/C0173F7UJ00/p1594993137155400>
+Inside you will find beautiful commentary, further links to amazing use-cases and also many opinions about how doomed we are. Or are we?","Mon, 19 Jan 1970 11:39:00 GMT",,,,0
+1597088961.004800,U0172CB3649,<@U0172CB3649> has joined the channel,"Mon, 19 Jan 1970 11:38:08 GMT",,,,0
+1597088942.004500,U01691XLMD5,<@U01691XLMD5> has joined the channel,"Mon, 19 Jan 1970 11:38:08 GMT",,,,0
+1597088915.004100,U016Q3JK0RH,<@U016Q3JK0RH> has joined the channel,"Mon, 19 Jan 1970 11:38:08 GMT",,,,0
+1597074155.003700,U016UNBDY5R,Hence the vision of the GPT3 junto:  *HOW EMERGENT TECH  can be a risk and an opportunity for us here in KERNEL.*,"Mon, 19 Jan 1970 11:37:54 GMT",1597070553.003100,,"[{""name"":""woman-raising-hand"",""users"":[""U0172CB3649""],""count"":1},{""name"":""seedling"",""users"":[""U0172CB3649""],""count"":1},{""name"":""brain"",""users"":[""U0172CB3649""],""count"":1}]",3
+1597070553.003100,U016Q117G67,"`GPT-3 is great at creating beautiful language that touches emotion, not hard logic and rational thinking.` such a crazy phenomena when you think about it :thinking_face:","Mon, 19 Jan 1970 11:37:50 GMT",1597070553.003100,,"[{""name"":""space_invader"",""users"":[""U016UNBDY5R""],""count"":1},{""name"":""fire"",""users"":[""U016R8N9NKX""],""count"":1}]",2
+1597072985.003400,U016UNBDY5R,"Go as deep as you need is the motto - in the limit deep transformer-based models are learning QnA on a model of the input data. If input ""all"" of human writing you will end up with a very good approximation of what drives humans, what humans express. So, not that crazy from a tech PoV.
+
+What is crazy are possible implications for the nature of work and life. In addition to the ""culture chasm"" building up in societies around the world but the west in particular, we now get a third factor that now is touching a lot more people than robotics did in the beginning.","Mon, 19 Jan 1970 11:37:52 GMT",1597070553.003100,,,0
+1597074155.003700,U016UNBDY5R,Hence the vision of the GPT3 junto:  *HOW EMERGENT TECH  can be a risk and an opportunity for us here in KERNEL.*,"Mon, 19 Jan 1970 11:37:54 GMT",1597070553.003100,,"[{""name"":""woman-raising-hand"",""users"":[""U0172CB3649""],""count"":1},{""name"":""seedling"",""users"":[""U0172CB3649""],""count"":1},{""name"":""brain"",""users"":[""U0172CB3649""],""count"":1}]",3
+1597092246.006000,U0172CB3649,<@U016UNBDY5R> I think we lost you… Nice session btw and thanks for the feedback on our project!,"Mon, 19 Jan 1970 11:38:12 GMT",1597070553.003100,U016UNBDY5R,,0
+1597069955.002400,U016UNBDY5R,Hello all - the *GPT3 (and all AI) Junto* is today at 3:10pm ET (the eventbot has the hours wrong and I can't fix it). Below is a short Summary of last weeks Junto. Bring/link any interesting readings or insights you had over the last week in this thread :arrow_down: . See you!,"Mon, 19 Jan 1970 11:37:49 GMT",1597069955.002400,,,0
+1597070189.002500,U016UNBDY5R,My favorite read: <https://liamp.substack.com/p/my-gpt-3-blog-got-26-thousand-visitors>,"Mon, 19 Jan 1970 11:37:50 GMT",1597069955.002400,,,0
+1596712403.027700,U016R8N9NKX,That seems a great idea.,"Mon, 19 Jan 1970 11:31:52 GMT",,,,0
+1596687103.027300,U016T0QSCMT,Used GPT3 regarding how it could be used to enhance blockchain tech and it suggested building AI customer service directly into a blockchain architecture to help users use it. Interesting,"Mon, 19 Jan 1970 11:31:27 GMT",,,,0
+1596616804.025400,U0174MMSKCL,<@U0174MMSKCL> has joined the channel,"Mon, 19 Jan 1970 11:30:16 GMT",,,,0
+1596616619.025200,U0169MFLKQF,<@U0169MFLKQF> has joined the channel,"Mon, 19 Jan 1970 11:30:16 GMT",,,,0
+1596569308.024100,U016PUP7D5Z,<@U016PUP7D5Z> has joined the channel,"Mon, 19 Jan 1970 11:29:29 GMT",,,,0
+1596559670.022600,U016R8N9NKX,This is possibly a good application: <https://twitter.com/p_e/status/1285334739017248769>,"Mon, 19 Jan 1970 11:29:19 GMT",,,"[{""name"":""+1"",""users"":[""U016Q0F66FM""],""count"":1}]",1
+1596555147.015200,U016Q0F66FM,"this stuff is really cool, it’s making me want to learn more of the actual math/theory behind the more advanced machine learning techniques. I took an introductory class a few years ago that did ‘simple’ stuff like your standard neural nets, markov models, naive bayes, K-means, logreg and stuff like that but I haven’t at all explored anything more advanced. Anyone have a reccomended textbook?","Mon, 19 Jan 1970 11:29:15 GMT",1596555147.015200,,,0
+1596556046.019900,U016R8N9NKX,"I think you already know enough to at least get started.
+
+BTW, this video is quite useful to understand the GPT-3 paper: <https://www.youtube.com/watch?v=SY5PvZrJhLE>","Mon, 19 Jan 1970 11:29:16 GMT",1596555147.015200,,,0
+1596556088.020500,U0172CM3049,"same! I dug in this rabbit hole about 3 weeks back, have been loving what I find every day. I highly (can’t stress it enough) recommend Kaggle’s courses (<https://www.kaggle.com/learn/overview>) if you’re technically inclined. If not, you can start exploration from this curated roadmap (<https://whimsical.com/CA7f3ykvXpnJ9Az32vYXva>).
+I feel one focussed goal (an idea you have in mind you’d like to implement) + highly focussed resources around it (requires figuring out the domain of the little problems you’d start solving when you start to implement your idea) will highly accelerate your learning (it did for me!)","Mon, 19 Jan 1970 11:29:16 GMT",1596555147.015200,,"[{""name"":""heart"",""users"":[""U016R8N9NKX"",""U016Q0F66FM""],""count"":2}]",2
+1596556106.021000,U016Q0F66FM,oh cool - I’ll watch this and then try to read the paper. I’ll come back and ask questions if I have them. Thanks Vasa!,"Mon, 19 Jan 1970 11:29:16 GMT",1596555147.015200,,"[{""name"":""+1"",""users"":[""U016R8N9NKX""],""count"":1}]",1
+1596556119.021200,U016Q0F66FM,"absolutely, being more direct is better :slightly_smiling_face:","Mon, 19 Jan 1970 11:29:16 GMT",1596555147.015200,,,0
+1597140330.002000,U016UNBDY5R,<@U016Q3JK0RH>,"Mon, 19 Jan 1970 11:39:00 GMT",1596555147.015200,U016Q3JK0RH,,0
+1596550622.008800,U016R8N9NKX,"<!here> A curated list of 100+ awesome GPT3 apps, tools, libraries, articles, and resources.
+<https://simpleaswater.com/gpt-3/>","Mon, 19 Jan 1970 11:29:10 GMT",,,"[{""name"":""party_parrot"",""users"":[""U016C8XH6NR"",""U016Q0F66FM"",""U01691XLMD5"",""U0172CB3649""],""count"":4},{""name"":""seedling"",""users"":[""U0172CB3649""],""count"":1}]",5
+1596550541.008100,U016R8N9NKX,I was looking into Healthcare applications related to genomics. <@U016T0QSCMT> Do you have any ideas on what low-hanging fruits can we solve here?,"Mon, 19 Jan 1970 11:29:10 GMT",1596550541.008100,U016T0QSCMT,,0
+1596553136.009200,U016T0QSCMT,Digging into this when I wake up . Keep trying to fall asleep and then waking up with gpt3 ideas.,"Mon, 19 Jan 1970 11:29:13 GMT",1596550541.008100,,,0
+1596553192.009400,U016R8N9NKX,:joy: I had the same issue last night,"Mon, 19 Jan 1970 11:29:13 GMT",1596550541.008100,,,0
+1596549411.006300,U016T0QSCMT,I pretty much get crispr gene editing now thanks to gpt3,"Mon, 19 Jan 1970 11:29:09 GMT",,,,0
+1596549349.005400,U016T0QSCMT,"Im learning so many things by just plugging in complex explanations of things into the ""explain to 2nd grader"" summary tool. Gpt3 Davinci does an amazing job with that. Book idea? ""100  complex things that AI can teach you better than professors.""","Mon, 19 Jan 1970 11:29:09 GMT",1596549349.005400,,"[{""name"":""open_mouth"",""users"":[""U016Q0F66FM""],""count"":1}]",1
+1596550427.006400,U016R8N9NKX,"Yeah, that's cool","Mon, 19 Jan 1970 11:29:10 GMT",1596549349.005400,,"[{""name"":""+1"",""users"":[""U016Q0F66FM""],""count"":1}]",1
+1596549234.002300,U016T0QSCMT,<@U016T0QSCMT> has joined the channel,"Mon, 19 Jan 1970 11:29:09 GMT",,,,0
+1596548609.002100,U016Q117G67,<@U016Q117G67> has joined the channel,"Mon, 19 Jan 1970 11:29:08 GMT",,,,0
+1596547398.001900,U0172CM3049,<@U0172CM3049> has joined the channel,"Mon, 19 Jan 1970 11:29:07 GMT",,,,0
+1596546399.001300,U016Q0F66FM,<@U016Q0F66FM> has joined the channel,"Mon, 19 Jan 1970 11:29:06 GMT",,,,0
+1596542421.001100,U016UNBDY5R,<@U016UNBDY5R> has joined the channel,"Mon, 19 Jan 1970 11:29:02 GMT",,,,0
+1596542393.000700,U016C8XH6NR,<@U016C8XH6NR> has joined the channel,"Mon, 19 Jan 1970 11:29:02 GMT",,,,0
+1596542360.000500,U017ECUHDGQ,<@U017ECUHDGQ> has joined the channel,"Mon, 19 Jan 1970 11:29:02 GMT",,,,0
+1596541030.000300,U016R8N9NKX,<@U016R8N9NKX> set the channel purpose: Web 3.0 meets GPT-3,"Mon, 19 Jan 1970 11:29:01 GMT",,,,0
+1596541029.000200,U016R8N9NKX,<@U016R8N9NKX> has joined the channel,"Mon, 19 Jan 1970 11:29:01 GMT",,,,0

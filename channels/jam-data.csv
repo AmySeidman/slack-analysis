@@ -1,0 +1,23 @@
+id,user,text,timestamp,in_reply_to,mentioned_users,reactions,total_reactions
+1597250288.000800,U017EF8VBS4,<https://kernel-community.slack.com/archives/C016DKV7MTQ/p1597250250341100>,"Mon, 19 Jan 1970 11:40:50 GMT",,,"[{""name"":""sparkles"",""users"":[""U0172CM3049"",""U016C8XH6NR""],""count"":2},{""name"":""heart"",""users"":[""U016C8XH6NR""],""count"":1}]",3
+1597216877.000500,U016Z293QVA,<@U016Z293QVA> has joined the channel,"Mon, 19 Jan 1970 11:40:16 GMT",,,,0
+1597172818.000200,U017DKW89DW,<@U017DKW89DW> has joined the channel,"Mon, 19 Jan 1970 11:39:32 GMT",,,,0
+1596148526.008300,U016H35D04W,<@U016H35D04W> has joined the channel,"Mon, 19 Jan 1970 11:22:28 GMT",,,,0
+1596121901.008100,U016C909613,adding Pranay in after a discussion with him this AM!,"Mon, 19 Jan 1970 11:22:01 GMT",,,"[{""name"":""+1"",""users"":[""U017EF8VBS4""],""count"":1}]",1
+1596121829.007700,U017EF8VBS4,<@U017EF8VBS4> has joined the channel,"Mon, 19 Jan 1970 11:22:01 GMT",,,,0
+1596117923.007500,U0172CM3049,"When are we planning to have the session? :grin:
+
+have added some bits of what I felt the structure could look like in the doc, probably <@U017RGJ7KAA> would be the best person for 1 (and some parts of 2? How a transaction causes data to move around in the Ethereum blockchain - is something I would love to read more about :D) and <@U01785AMRR9> for 3 (would love to listen to some interesting case studies around querying blockchain data and finding usability and value)","Mon, 19 Jan 1970 11:21:57 GMT",,"U017RGJ7KAA,U01785AMRR9",,0
+1596044168.003900,U016C8XH6NR,"I am really excited for the session, and eventually having a focused group of talented fellows in KERNEL to talk about “Data in Blockchain”.
+
+Let’s jam here async,
+<https://docs.google.com/document/d/1hOQRbUyh6pZ95ZycKxCn1nGlfj__QN4FvBsitkKEu_w/edit?usp=sharing>
+
+Thanks for doing this, <@U016MS3TBGE> <@U0172CM3049> <@U017RGJ7KAA> <@U01785AMRR9>","Mon, 19 Jan 1970 11:20:44 GMT",,"U016MS3TBGE,U0172CM3049,U017RGJ7KAA,U01785AMRR9",,0
+1596043791.001300,U016C909613,<@U016C909613> has joined the channel,"Mon, 19 Jan 1970 11:20:43 GMT",,,,0
+1596043791.001100,U0172CM3049,<@U0172CM3049> has joined the channel,"Mon, 19 Jan 1970 11:20:43 GMT",,,,0
+1596043790.000900,U016MS3TBGE,<@U016MS3TBGE> has joined the channel,"Mon, 19 Jan 1970 11:20:43 GMT",,,,0
+1596043790.000700,U01785AMRR9,<@U01785AMRR9> has joined the channel,"Mon, 19 Jan 1970 11:20:43 GMT",,,,0
+1596043790.000500,U017RGJ7KAA,<@U017RGJ7KAA> has joined the channel,"Mon, 19 Jan 1970 11:20:43 GMT",,,,0
+1596043771.000300,U016C8XH6NR,<@U016C8XH6NR> set the channel purpose: All things Data,"Mon, 19 Jan 1970 11:20:43 GMT",,,,0
+1596043771.000200,U016C8XH6NR,<@U016C8XH6NR> has joined the channel,"Mon, 19 Jan 1970 11:20:43 GMT",,,,0

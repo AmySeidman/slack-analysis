@@ -1,0 +1,101 @@
+id,user,text,timestamp,in_reply_to,mentioned_users,reactions,total_reactions
+1598182407.000500,U016BTBS3MM,I'm chilling in Airmeet at table 4 if anyone's interested.,"Mon, 19 Jan 1970 11:56:22 GMT",,,"[{""name"":""slightly_smiling_face"",""users"":[""U016QSTSQQM"",""U0172CB3649"",""U016UNBDY5R""],""count"":3}]",3
+1596705078.077300,U016C8XH6NR,"Retrospecting on this <@U016BTBS3MM> — donut is not working for us. (because of certain limitations) — would love to collect your thoughts on conducting happy hour everyday using <https://icebreaker.video/>
+
+Organised one on Saturday:
+&gt; <https://kernel-community.slack.com/archives/C016KRC50FN/p1596282767349300>","Mon, 19 Jan 1970 11:31:45 GMT",1596468555.073500,,"[{""name"":""heavy_check_mark"",""users"":[""U017E2A2KPS"",""U0172CM3049""],""count"":2},{""name"":""raised_hands"",""users"":[""U016QSTSQQM""],""count"":1}]",3
+1596546124.076200,U01748SCQ81,"Just finished chatting with someone with the most amazing name, (<@U016Q825Y3U>)Andrew Day,
+<@U016R8N9NKX> we chatted a little about dynamic playgrounds, would be cool to see if GPT-3 could do anything to help with the onboarding tool creation.","Mon, 19 Jan 1970 11:29:06 GMT",1596546124.076200,"U016Q825Y3U,U016R8N9NKX",,0
+1596546142.076300,U016C909613,cc <@U016Q825Y3U> :slightly_smiling_face:,"Mon, 19 Jan 1970 11:29:06 GMT",1596546124.076200,U016Q825Y3U,,0
+1596546217.076500,U016Q825Y3U,"sorry, yeah, that's me.  And thanks Andrew Redden for a lot of good things to chew on for the <#C018MCD2080|project-libp2ptutorial>","Mon, 19 Jan 1970 11:29:06 GMT",1596546124.076200,,"[{""name"":""100"",""users"":[""U01748SCQ81""],""count"":1}]",1
+1596494089.075100,U016Q825Y3U,Anybody up for virtual coffee between 6-9am tomorrow ET (GMT - 4)? Would love to meet  a few folks and hear about what you're working on!  <https://calendly.com/acolytec3/cafe>,"Mon, 19 Jan 1970 11:28:14 GMT",,,,0
+1596468555.073500,U016BTBS3MM,"<@U016C8XH6NR> I just got burnt by Donut because too many people were already paired up - apparently it can only handle 24 people at a time. I'm not sure how it picks who's in and who's out, may be as simple as alphabetical (go username that starts with 'w'). Is there some way to fix that?","Mon, 19 Jan 1970 11:27:48 GMT",1596468555.073500,U016C8XH6NR,"[{""name"":""heavy_plus_sign"",""users"":[""U016PEM9U5B""],""count"":1}]",1
+1596473002.074000,U016C8XH6NR,"Yesss, lemme figure it out. :slightly_smiling_face:","Mon, 19 Jan 1970 11:27:53 GMT",1596468555.073500,,"[{""name"":""+1"",""users"":[""U016BTBS3MM""],""count"":1}]",1
+1596473048.074200,U016C8XH6NR,cc: <@U016FDAC4LT>,"Mon, 19 Jan 1970 11:27:53 GMT",1596468555.073500,U016FDAC4LT,,0
+1596705078.077300,U016C8XH6NR,"Retrospecting on this <@U016BTBS3MM> — donut is not working for us. (because of certain limitations) — would love to collect your thoughts on conducting happy hour everyday using <https://icebreaker.video/>
+
+Organised one on Saturday:
+&gt; <https://kernel-community.slack.com/archives/C016KRC50FN/p1596282767349300>","Mon, 19 Jan 1970 11:31:45 GMT",1596468555.073500,,"[{""name"":""heavy_check_mark"",""users"":[""U017E2A2KPS"",""U0172CM3049""],""count"":2},{""name"":""raised_hands"",""users"":[""U016QSTSQQM""],""count"":1}]",3
+1596706605.077700,U016BTBS3MM,"I think it's a great idea, though Saturdays don't work for me. Sundays do, though!","Mon, 19 Jan 1970 11:31:46 GMT",1596468555.073500,,,0
+1596710731.077900,U016C8XH6NR,"Ohsom, and what about weekdays? <@U016BTBS3MM>","Mon, 19 Jan 1970 11:31:50 GMT",1596468555.073500,U016BTBS3MM,,0
+1596712415.078200,U016BTBS3MM,"Depends on the day - sometimes it'll work, sometimes not, depends on workload, commitments, etc. Hard to know in advance.","Mon, 19 Jan 1970 11:31:52 GMT",1596468555.073500,,,0
+1596716496.078500,U016C8XH6NR,"Yeah, i guess. How about doing it everyday — with scheduling looking something like,
+```""nth"" Day (where n 1-7) -&gt; ""nth"" hour in ET```","Mon, 19 Jan 1970 11:31:56 GMT",1596468555.073500,,,0
+1597080770.078900,U0172CTQ3A5,Nice - great idea. I’m not seeing event this in the shared calendar though?,"Mon, 19 Jan 1970 11:38:00 GMT",1596468555.073500,,,0
+1597083881.079100,U016BTBS3MM,"<@U0172CTQ3A5> I was supposed to have done some work for this over the weekend, but still haven't gotten to it.","Mon, 19 Jan 1970 11:38:03 GMT",1596468555.073500,U0172CTQ3A5,"[{""name"":""raised_hands"",""users"":[""U0172CTQ3A5""],""count"":1}]",1
+1596377327.072000,U016BTBS3MM,"I need to write some documentation, figure I'll hang out in Airmeet while I do it, feel free to chat me up.","Mon, 19 Jan 1970 11:26:17 GMT",,,,0
+1596198737.070900,U016PEM9U5B,":pray: :pray: :pray:  x :100: <@U01748SCQ81> - really nice to speak - thanks for clarifying our thinking on our potential to pursue a data pipeline play, seeing the relevance of including smart homes on the protocol, and spatial governance for autonomous vehicle networks. We’ll keep you posted! :sparkles:","Mon, 19 Jan 1970 11:23:18 GMT",1596198629.070800,U01748SCQ81,"[{""name"":""raised_hands"",""users"":[""U01748SCQ81""],""count"":1}]",1
+1596198629.070800,U01748SCQ81,"<@U016PEM9U5B> @jauo it was great chatting today about spatial data, mobile compute clusters are indeed coming to a future near you. I will follow up with Pawel(the gis developer) and connect you both if there is a good fit.
+
+I am very excited about what comes out of this for you two, great coffee, lets connect again soon.","Mon, 19 Jan 1970 11:23:18 GMT",1596198629.070800,U016PEM9U5B,,0
+1596198737.070900,U016PEM9U5B,":pray: :pray: :pray:  x :100: <@U01748SCQ81> - really nice to speak - thanks for clarifying our thinking on our potential to pursue a data pipeline play, seeing the relevance of including smart homes on the protocol, and spatial governance for autonomous vehicle networks. We’ll keep you posted! :sparkles:","Mon, 19 Jan 1970 11:23:18 GMT",1596198629.070800,U01748SCQ81,"[{""name"":""raised_hands"",""users"":[""U01748SCQ81""],""count"":1}]",1
+1596125700.067500,U01758R70F3,Any frontend folks looking for a quick project to contribute to?,"Mon, 19 Jan 1970 11:22:05 GMT",1596125700.067500,,,0
+1596142278.068600,U017J0ESE48,is it react?,"Mon, 19 Jan 1970 11:22:22 GMT",1596125700.067500,,,0
+1596143041.068800,U01758R70F3,yessir,"Mon, 19 Jan 1970 11:22:23 GMT",1596125700.067500,,,0
+1596143494.069000,U01758R70F3,<@U016YR3B70C> ^,"Mon, 19 Jan 1970 11:22:23 GMT",1596125700.067500,U016YR3B70C,,0
+1596049944.066500,U01748SCQ81,"<@U017EP3GQM6> <@U0174GM955H> what a great chat gentleman, do be sure to send me a link for your substack and ping me about the HackFS release/demo, If I find anything of good value for you about L2 needs, I’ll be sure and send it your way.","Mon, 19 Jan 1970 11:20:49 GMT",,"U017EP3GQM6,U0174GM955H","[{""name"":""raised_hands"",""users"":[""U0172CTQ3A5"",""U016H5ETT6J""],""count"":2}]",2
+1596040167.064000,U01748SCQ81,"<@U016WQPK6J0> thanks for the introduction to GG after talking I got thinking perhaps you and <@U0172BR9Q8H> should connect over how your ideas mechanically work, I believe there might be some synergies in terms of the underlying behaviour.
+
+If both apps built on the same idea of a programmable pool, and the contracts were designed where they pointed to an external logic contract that handled milestone management.
+
+<@U0172BR9Q8H> you could build CommitPool with rules to verify your rides, and <@U016WQPK6J0> GG could program the segments into the milestone management contract to control who gets flagged as a valid payout participant.","Mon, 19 Jan 1970 11:20:40 GMT",1596040167.064000,"U016WQPK6J0,U0172BR9Q8H,U0172BR9Q8H,U016WQPK6J0",,0
+1596040287.064400,U01748SCQ81,"This protocol could be designed like Balancer Pools where anyone can create a pool, during creation you specify the behaviour enforcer for the pool.
+
+Governance of this is something to consider and how it work work. Is there a way that this captures enough value it warrants Governance? or would it be more pure and uniswap like.
+
+Great chatting with you both today.","Mon, 19 Jan 1970 11:20:40 GMT",1596040167.064000,,,0
+1596040440.064600,U016WQPK6J0,"Ahh nice thanks for connecting us Andrew, actually myself and Spencer spoke at the beginning of the program, but its a good reminder to get back in contact :slightly_smiling_face:
+
+Spencer does it make sense to set up another call?","Mon, 19 Jan 1970 11:20:40 GMT",1596040167.064000,,,0
+1596041416.065000,U0172BR9Q8H,"Yes, I think so!","Mon, 19 Jan 1970 11:20:41 GMT",1596040167.064000,,,0
+1596095755.066700,U016WQPK6J0,"Nice :slightly_smiling_face:, tomorrow after noon (CEST) I have some availability, is there a time then that works for you?","Mon, 19 Jan 1970 11:21:35 GMT",1596040167.064000,,,0
+1596038214.061400,U01748SCQ81,<@U0172BR9Q8H> great chat today. Excited to see how CommitPool comes together.,"Mon, 19 Jan 1970 11:20:38 GMT",1596038214.061400,U0172BR9Q8H,,0
+1596038406.061500,U0172BR9Q8H,"thanks Andrew! It was great meeting you, and thanks for all the ideas :)","Mon, 19 Jan 1970 11:20:38 GMT",1596038214.061400,,,0
+1595943876.061000,U0172BR9Q8H,<@U0172BR9Q8H> has joined the channel,"Mon, 19 Jan 1970 11:19:03 GMT",,,,0
+1595934327.060600,U016M08G1M4,"ahhh, shame, I gotta run right now…","Mon, 19 Jan 1970 11:18:54 GMT",,,,0
+1595933888.060300,U01748SCQ81,I have an open morning if there is anyone for an Ad hoc coffee,"Mon, 19 Jan 1970 11:18:53 GMT",,,,0
+1595867387.055700,U016PEM9U5B,<@U016PEM9U5B> has joined the channel,"Mon, 19 Jan 1970 11:17:47 GMT",,,,0
+1595867387.055500,U017ECUHDGQ,<@U017ECUHDGQ> has joined the channel,"Mon, 19 Jan 1970 11:17:47 GMT",,,,0
+1595867387.055300,U016A43FT0F,<@U016A43FT0F> has joined the channel,"Mon, 19 Jan 1970 11:17:47 GMT",,,,0
+1595859301.054400,U016SKSLW9G,"Thanks so much <@U01748SCQ81>. For anyone interested, we’re starting to do some pre-alpha user demos/discussions here: <https://calendly.com/trueblocks/20-minute-chat?month=2020-07>","Mon, 19 Jan 1970 11:17:39 GMT",,U01748SCQ81,,0
+1595858280.053600,U01748SCQ81,"Had a great coffee with <@U016SKSLW9G> this morning, if you’re not up on what Trueblocks is doing, then you def should ask for a demo!","Mon, 19 Jan 1970 11:17:38 GMT",,U016SKSLW9G,"[{""name"":""100"",""users"":[""U016ZPHMHL4""],""count"":1}]",1
+1595794040.052700,U016Q825Y3U,"Who's up for Virtual coffee tomorrow at 5:30 am ET (GMT - 4)? <https://media.tenor.com/images/84bb1c164f7b01feb342af8ec909148a/tenor.gif|https://media.tenor.com/images/84bb1c164f7b01feb342af8ec909148a/tenor.gif>
+<https://calendly.com/acolytec3/cafe|https://calendly.com/acolytec3/cafe>","Mon, 19 Jan 1970 11:16:34 GMT",,,,0
+1595440266.050500,U01748SCQ81,Who’s up for coffee tomorrow? <https://calendly.com/andrewredden/cafe>,"Mon, 19 Jan 1970 11:10:40 GMT",1595440266.050500,,"[{""name"":""+1"",""users"":[""U016HFP7P2A"",""U016C909613""],""count"":2}]",2
+1595866616.054800,U01748SCQ81,<@U016C909613> ,"Mon, 19 Jan 1970 11:17:46 GMT",1595440266.050500,U016C909613,,0
+1595867382.055000,U016C909613,"cc <@U016M08G1M4> <@U016ZPHMHL4> <@U016PF28WVB> <@U016A43FT0F> <@U017ECUHDGQ> <@U016V1ACHKP> <@U016NEJETQV> <@U01692CEFQF> <@U017E2A2KPS> <@U016PEM9U5B> <@U016WQPK6J0>
+
+if *any* of you want to jam on your build week work, would defintely recommend jamming with andrew, he’s one of the quickest thinkers i’ve met in Web 3 on prototyping / ideation.
+
+tagged a bunch of project leads — would recommend sending Andrew a DM with more info before the call if you guys do end up jamming :slightly_smiling_face:","Mon, 19 Jan 1970 11:17:47 GMT",1595440266.050500,"U016M08G1M4,U016ZPHMHL4,U016PF28WVB,U016A43FT0F,U017ECUHDGQ,U016V1ACHKP,U016NEJETQV,U01692CEFQF,U017E2A2KPS,U016PEM9U5B,U016WQPK6J0","[{""name"":""+1"",""users"":[""U016V1ACHKP"",""U016ZPHMHL4"",""U016A43FT0F"",""U016WQPK6J0"",""U017E2A2KPS""],""count"":5},{""name"":""wave"",""users"":[""U016V1ACHKP"",""U017E2A2KPS""],""count"":2},{""name"":""heart"",""users"":[""U016M08G1M4"",""U017E2A2KPS""],""count"":2},{""name"":""pray"",""users"":[""U016M08G1M4"",""U017E2A2KPS""],""count"":2},{""name"":""raised_hands"",""users"":[""U016M08G1M4"",""U017E2A2KPS""],""count"":2}]",13
+1595867431.056300,U01748SCQ81,Thanks Vivek. Looking forward to the coffees! ,"Mon, 19 Jan 1970 11:17:47 GMT",1595440266.050500,,,0
+1595867855.056700,U016ZPHMHL4,"Thanks Vivek. Andrew, I’d love to get your thoughts on our product. DM heading your way!","Mon, 19 Jan 1970 11:17:47 GMT",1595440266.050500,,,0
+1595872049.057100,U016WQPK6J0,"Thanks, I've booked a spot for wed - added <@U016X7E5G4U> <@U017J0ESE48> <@U017F30AFRP> as well incase you want to join. :slightly_smiling_face:","Mon, 19 Jan 1970 11:17:52 GMT",1595440266.050500,"U016X7E5G4U,U017J0ESE48,U017F30AFRP",,0
+1595889095.057800,U016M08G1M4,"Thank you Vivek :slightly_smiling_face: I have booked Andy for tomorrow :slightly_smiling_face: I have just finished my lean canvas, really want to get the premise right before I jump into coding.","Mon, 19 Jan 1970 11:18:09 GMT",1595440266.050500,,,0
+1595895787.059500,U017E2A2KPS,"Thanks Vivek, will do.. Looking forward, <@U01748SCQ81>. Will send a DM.","Mon, 19 Jan 1970 11:18:15 GMT",1595440266.050500,U01748SCQ81,,0
+1595943775.060700,U016C909613,cc <@U0172BR9Q8H>,"Mon, 19 Jan 1970 11:19:03 GMT",1595440266.050500,U0172BR9Q8H,,0
+1594930372.047700,U016C909613,"great to see people using EventBot to schedule meetings in the KERNEL Airmeet
+
+it’s a few simple steps in the <#C016JL4385C|juntos> channel if you want to get a small group together at any hour :slightly_smiling_face:","Mon, 19 Jan 1970 11:02:10 GMT",1594930372.047700,,"[{""name"":""rocket"",""users"":[""U016C8XH6NR"",""U01733WAA1F"",""U0172G1A28H"",""U016HFP7P2A""],""count"":4}]",4
+1594977403.048300,U016UNBDY5R,Is this the same process as for. Juntos?,"Mon, 19 Jan 1970 11:02:57 GMT",1594930372.047700,,,0
+1594906174.045900,U016NEJETQV,"Hi friends, I am sitting at table 29 on airmeet. Keen to chat with anyone who is free :slightly_smiling_face:. I am working on <https://dao.care>. Would be happy to onboard you (and reimburse your gas) if you would like to join the dao :slightly_smiling_face: Otherwise I will be tinkering in the background :male-technologist:","Mon, 19 Jan 1970 11:01:46 GMT",1594906174.045900,,,0
+1594923592.046600,U016Q1TQAKV,Nice chat <@U016NEJETQV> it was well worth the time,"Mon, 19 Jan 1970 11:02:03 GMT",1594906174.045900,U016NEJETQV,"[{""name"":""raised_hands"",""users"":[""U016NEJETQV""],""count"":1}]",1
+1594833249.042200,U016UNBDY5R,"So, I havent received any donut matchings yet ( I use this bot in the AIguild slack)","Mon, 19 Jan 1970 11:00:33 GMT",1594833249.042200,,"[{""name"":""heavy_plus_sign"",""users"":[""U016Q1J7Y83"",""U016AMDF215""],""count"":2}]",2
+1594837480.042800,U0172CTQ3A5,same actually,"Mon, 19 Jan 1970 11:00:37 GMT",1594833249.042200,,,0
+1594899882.043400,U016HPVFV54,same here,"Mon, 19 Jan 1970 11:01:39 GMT",1594833249.042200,,,0
+1594829033.041100,U0172CTQ3A5,Any free for a virtual coffee? I’m free for the next 30 minutes and am needing one :slightly_smiling_face:,"Mon, 19 Jan 1970 11:00:29 GMT",,,"[{""name"":""coconut"",""users"":[""U016UNBDY5R""],""count"":1}]",1
+1594816618.040400,U016ND71JPP,"Reposting this here; proposal to gamify and incentivize these meetings! :game_die::slot_machine::handshake:
+<https://kernel-community.slack.com/archives/C0165LH4ZV5/p1594805777007000>","Mon, 19 Jan 1970 11:00:16 GMT",,,,0
+1594734940.037800,U01748SCQ81,anyone around now and want to grab a coffee for 20 mins?,"Mon, 19 Jan 1970 10:58:54 GMT",1594734940.037800,,,0
+1594734969.038000,U016C909613,big group joining the airmeet in 5 minutes,"Mon, 19 Jan 1970 10:58:54 GMT",1594734940.037800,,,0
+1594734974.038200,U016C909613,come thru there !,"Mon, 19 Jan 1970 10:58:54 GMT",1594734940.037800,,,0
+1594734978.038400,U01748SCQ81,nice will do,"Mon, 19 Jan 1970 10:58:54 GMT",1594734940.037800,,,0
+1594679468.036100,U017HFE51EU,"Hey everyone, as impressed as I am by the talents &amp; the diversity of backgrounds, I’m off to sleep as I live in France and won’t be in Pitch Day 2 (I was in Day 1).
+
+If anyone wants to chat personal tokens, whether as:
+• a new investment vehicle
+• a brand new, lightweight
+ way to engage fans
+• monetizing fans via products, discounts, etc
+
+Then I’m all ears! DM me here or telegram @AlexMasmej","Mon, 19 Jan 1970 10:57:59 GMT",,,"[{""name"":""sleeping"",""users"":[""U016QSTSQQM"",""U016PNPMFSN"",""U017E2A2KPS"",""U016HFP7P2A"",""U016VVA5S7N"",""U0172CB3649""],""count"":6},{""name"":""fire"",""users"":[""U016QSTSQQM"",""U016PNPMFSN"",""U017E2A2KPS"",""U016HFP7P2A"",""U017E8XAW0G"",""U0172CB3649"",""U016X212QMA""],""count"":7}]",13

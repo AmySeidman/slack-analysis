@@ -1,0 +1,144 @@
+id,user,text,timestamp,in_reply_to,mentioned_users,reactions,total_reactions
+1599136651.000500,U017T22FUBF,"Hello All, 
+We are excited to share that we’ve started building our Decentralized Authentication standard (dAuth) to enable app developers to sign users in without collecting/keeping emails or even crypto wallet addresses, delegating the authentication entirely to the user and enabling a higher level of security for everyone. 
+
+*We would love to connect with you if you would like to consider Silkey dAuth for your application. We are prepared to work with your team to implement it and take it to production.* 
+
+Join our <#C017UCDRS05|project-silkey> If you have any feedback for us or would like to stay updated on our project progress. 
+
+About Silkey dAuth 
+<https://silkey.io/developers/>
+
+Product demo
+<https://www.loom.com/share/5a88ee840f1447c58a690386232bae3e>","Mon, 19 Jan 1970 12:12:16 GMT",,,"[{""name"":""seedling"",""users"":[""U016C8XH6NR"",""U016SRX7V1R""],""count"":2}]",2
+1598547197.008500,U017DKW89DW,"<@U017N4HS1SN> and I talked a couple of weeks ago about a website that would list all blockchain projects and verify how true they are to core blockchain values.
+
+I interact with a lot of web2 people who assume all blockchain projects adhere to the fundamental blockchain values and adopt “centralized” platforms / frameworks / apps with decentralized tendencies or are labelled as blockchain (ex. Facebook’s Libra).
+
+A website that lists all blockchain projects and verify how decentralized it is would be helpful in educating people in web2 and web3 space. I don’t have the capacity to bring this life but if anyone is working on something similar or wants to work on this, please let me know!","Mon, 19 Jan 1970 12:02:27 GMT",1598547197.008500,U017N4HS1SN,"[{""name"":""+1"",""users"":[""U0169FVV2LF"",""U0169MFLKQF"",""U016X212QMA"",""U016BTBS3MM""],""count"":4}]",4
+1598551576.009900,U016X212QMA,"That's interesting, maybe it could be with a product hunt type of thing where user can upvote projects to get a ranking ","Mon, 19 Jan 1970 12:02:31 GMT",1598547197.008500,,"[{""name"":""+1"",""users"":[""U016HTJ5Q4W""],""count"":1}]",1
+1598554541.010500,U0169FVV2LF,Cool idea,"Mon, 19 Jan 1970 12:02:34 GMT",1598547197.008500,,,0
+1598618019.011200,U016HTJ5Q4W,I like the product hunt type idea,"Mon, 19 Jan 1970 12:03:38 GMT",1598547197.008500,,,0
+1598618041.011400,U016HTJ5Q4W,community curated list,"Mon, 19 Jan 1970 12:03:38 GMT",1598547197.008500,,,0
+1598387226.002500,U0173EZ90AD,"Finally created <#C018ZLQ3S5V|project-akropolis> for anyone interested - though I would not be able to full maintain it with long texts atm, work overload haha","Mon, 19 Jan 1970 11:59:47 GMT",,,"[{""name"":""+1"",""users"":[""U017DKW89DW""],""count"":1}]",1
+1597222770.001200,U016NEJETQV,How is everyone feeling with the current gas costs?,"Mon, 19 Jan 1970 11:40:22 GMT",1597222770.001200,,"[{""name"":""bear"",""users"":[""U016NEJETQV"",""U016C8XH6NR"",""U0169JV8C95"",""U016C909613"",""U017G0TNCFN"",""U0172CB3649""],""count"":6},{""name"":""cry"",""users"":[""U016WQPK6J0"",""U016C8XH6NR"",""U0169JV8C95"",""U016C909613"",""U016PUP7D5Z"",""U017G0TNCFN"",""U016Q1TSFSN"",""U016A43FT0F"",""U01732696SV"",""U016Z7XQC7N""],""count"":10},{""name"":""sadparrot"",""users"":[""U0172CM3049"",""U016C8XH6NR"",""U016C909613"",""U017G0TNCFN"",""U016WSQKPCL"",""U0172CB3649""],""count"":6}]",22
+1597222938.001700,U017EF8VBS4,<https://blog.blocknative.com/blog/mempool-forensics> we had a short discussion on this yesterday,"Mon, 19 Jan 1970 11:40:22 GMT",1597222770.001200,,,0
+1597223002.002000,U017EF8VBS4,theories on why gas price oracles could be getting biased via the mempool transactions.,"Mon, 19 Jan 1970 11:40:23 GMT",1597222770.001200,,,0
+1597223831.002300,U016HTJ5Q4W,"isn't that all current pursue of yield in defi? users are ready to pay tx costs because they hope to make even more. at the same time network becomes unusable for everybody else. or we wait till defi bubble bursts, or we move everything else to L2 or maybe even to a different chain (?)","Mon, 19 Jan 1970 11:40:23 GMT",1597222770.001200,,,0
+1597226875.003200,U016NEJETQV,"As far as I understand this 'leaderboard' table displays where the gas is going, currently it looks like the network is congested because of two scams
+<https://ethgasstation.info/>","Mon, 19 Jan 1970 11:40:26 GMT",1597222770.001200,,,0
+1598301530.001400,U016UNBDY5R,Tether moving to OMG had a positive effect. Wondering if other high volume projects should follow suit,"Mon, 19 Jan 1970 11:58:21 GMT",1597222770.001200,,"[{""name"":""+1"",""users"":[""U016NEJETQV""],""count"":1}]",1
+1596735837.162700,U01692ECHKR,I just created <#C018EE0AH9R|project-ryder> to make it easier to put all info together. Feel free to join even if you have no hardware experience. Any input is welcome and I would like to discuss and test UX very soon. Cooking something up on that front right now. We can also use the channel to discuss hardware and IoT in general. See you there!,"Mon, 19 Jan 1970 11:32:15 GMT",,,"[{""name"":""raised_hands"",""users"":[""U016A43FT0F"",""U016PVCCZDG"",""U0172G1A28H"",""U017DKW89DW""],""count"":4}]",4
+1596391608.159500,U017T22FUBF,"<#C017UCDRS05|project-silkey>
+Yesterday we concluded all user interviews totaling 5 sessions. We are thankful to those attended and those couldn’t for various reasons.
+
+The first round of user testing has helped us immensely, first validating our product value and second challenging the way we have thought of the product. As a result, we’re currently making serious iterations to overall user experience while building the core of Silkey MVP.
+
+If you would like to get a sense of the prototype and share your feedback, please visit <http://silkey.io> and then connect your wallet to create your Silkey account. Once inside the dashboard, and with your wallet connected, test Silkey on any of the three mock websites to get a sense of what we are building.
+
+If you would like to chat with us, join our project channel <#C017UCDRS05|project-silkey> in Kernel.
+
+FYI - We’re currently looking for a great product designer to join the team; we would love a referral!","Mon, 19 Jan 1970 11:26:31 GMT",,,"[{""name"":""heavy_check_mark"",""users"":[""U017E2A2KPS"",""U016VVA5S7N""],""count"":2},{""name"":""raised_hands"",""users"":[""U0169MFLKQF""],""count"":1}]",3
+1596027122.154500,U016HPVFV54,"#project-DeLance is shutting down. Unfortunately, it’s not in my heart to continue. I’ll be working on mapz.guide for the rest of the Fellowship. Prototype here: <http://powerful-refuge-30956.herokuapp.com/|powerful-refuge-30956.herokuapp.com/> 
+
+It’s a map for free and low-cost resources starting in Baltimore with potential to expand across the world. 
+
+i will open source all the code and pitch deck in case anyone else wants to take it on. Lmk via DM. ","Mon, 19 Jan 1970 11:20:27 GMT",,,"[{""name"":""+1"",""users"":[""U016SKSLW9G"",""U016Q1TQAKV"",""U016Q1TSFSN"",""U016Q1J7Y83"",""U016SKSS8AW"",""U016C909613"",""U016PUK3G9Z"",""U017G0TNCFN"",""U01732696SV"",""U016HAELGES"",""U016C8XH6NR"",""U0169MFLKQF""],""count"":12}]",12
+1596012864.150400,U01733WAA1F,"shilling <#C017GD0FLET|project-game3js> !
+
+We started Game3.js with a vision:
+
+_5 to 10 years from now, what will fully realized Web 3.0 games look like?_
+
+Today’s blockchain games are just the early iterations of Web 3.0 games. A fully realized Web 3.0 game will need to be more compelling than web, mobile, console, and VR games. Their virtual economies will need to have the same utility as those of sovereign fiat currencies. They will need to provide more meaning in people’s lives than just being a vehicle for intrusive ads and forced in-app purchases.
+
+To achieve this vision, we need to bring in more builders, and make it as easy as possible for them to start building games in this new Web 3.0 world.
+
+<http://game3js.com/|Game3.js> aspires to be the game framework that will lead the way :fire:
+
+Thank you for joining us in this quest!","Mon, 19 Jan 1970 11:20:12 GMT",,,"[{""name"":""party_parrot"",""users"":[""U016C8XH6NR"",""U017G0TNCFN"",""U017E2A2KPS"",""U016Q117G67"",""U017GN6FHQA"",""U018PEEUSQJ""],""count"":6},{""name"":""raised_hands"",""users"":[""U017G0TNCFN"",""U017E2A2KPS""],""count"":2},{""name"":""rocket"",""users"":[""U016NEJETQV"",""U016A43FT0F"",""U016Q1J7Y83"",""U016SKSS8AW""],""count"":4}]",12
+1596011076.149100,U016C8XH6NR,"Hey y’all, checkout ohsom tweet library built by <@U016Q1TQAKV> and crew.
+<https://ethereum-tweets-library.netlify.app/>
+
+This is the MVP, help the team with feedbacks and suggestions. :rainbow:","Mon, 19 Jan 1970 11:20:11 GMT",,U016Q1TQAKV,"[{""name"":""clap"",""users"":[""U017DN0DZ08"",""U017E2A2KPS"",""U016NEJETQV"",""U01733WAA1F"",""U0172CM3049"",""U016AMDF215"",""U0172G1A28H""],""count"":7},{""name"":""heavy_check_mark"",""users"":[""U017E2A2KPS""],""count"":1}]",8
+1595958059.146700,U017T22FUBF,"Hello friends, please join #*project-silkey* channel to discuss identity and privacy, and stay updated on Silkey progress. <https://www.notion.so/Silkey-48166f37405a4df0bc8bf740e6c5aef1|Here is a bit about our project>.","Mon, 19 Jan 1970 11:19:18 GMT",,,"[{""name"":""raised_hands"",""users"":[""U017DN0DZ08"",""U016PVCCZDG"",""U01733WAA1F""],""count"":3}]",3
+1595948608.144200,U016SKSLW9G,"<#C017EJPJPGX|project-trueblocks>
+
+We’re building a fully-decentralized, sharded way to share an index of every appearance of every address as it appears anywhere on the chain. On top of this sharded index, which works on small, desktop machines with no web 2.0 servers, we’re building hyper-local, fully-private, web 3.0 native apps.
+
+Join us to discuss. Sign up for an alpha demo.","Mon, 19 Jan 1970 11:19:08 GMT",,,"[{""name"":""party_parrot"",""users"":[""U016C8XH6NR"",""U016C909613"",""U016A43FT0F"",""U016Q1J7Y83"",""U016HAELGES"",""U017G0TNCFN"",""U016ZPHMHL4""],""count"":7}]",7
+1595936305.141000,U017E2A2KPS,<https://join.slack.com/share/zt-g63r4kmr-vXRbqPZ3mPVS9ZxSLtPRVg|#project-rarebirds>,"Mon, 19 Jan 1970 11:18:56 GMT",,,"[{""name"":""clap"",""users"":[""U017DN0DZ08"",""U016C8XH6NR"",""U016VVB0R7E"",""U016C909613"",""U017G0TNCFN"",""U01733WAA1F"",""U016SKSS8AW"",""U0172G1A28H""],""count"":8},{""name"":""party_parrot"",""users"":[""U016C8XH6NR"",""U016C909613"",""U017G0TNCFN"",""U01733WAA1F"",""U016SKSS8AW""],""count"":5}]",13
+1595878936.140100,U016Z7XQC7N,"<#C017F166VT6|project-bflo-freeflo>
+
+We’ve had  a public project channel, guess it time to use it! So many channels, so little  time 
+
+Has anyone done research into how this causes the brain to fragment into many directions? 
+
+I feel it!
+
+lol! ","Mon, 19 Jan 1970 11:17:58 GMT",,,"[{""name"":""clap"",""users"":[""U017DN0DZ08"",""U016C909613""],""count"":2}]",2
+1595871216.133100,U016PNPMFSN,:party_parrot: <#C017T91GA9G|project-uni> :bouncingparrot:,"Mon, 19 Jan 1970 11:17:51 GMT",,,"[{""name"":""party_parrot"",""users"":[""U016C8XH6NR"",""U016C909613"",""U017DN0DZ08""],""count"":3}]",3
+1595869289.132100,U016ZPHMHL4,:wave: from <#C017JCRRZGS|project-decade> :joystick:,"Mon, 19 Jan 1970 11:17:49 GMT",,,"[{""name"":""party_parrot"",""users"":[""U016C8XH6NR"",""U016C909613"",""U017DN0DZ08""],""count"":3}]",3
+1595864996.130800,U016VTJACBW,Just created <#C0185KJRF6D|project-tasit>,"Mon, 19 Jan 1970 11:17:44 GMT",,,"[{""name"":""party_parrot"",""users"":[""U016C8XH6NR"",""U016C909613"",""U017DN0DZ08""],""count"":3}]",3
+1595857942.127300,U01691XLMD5,"Just created Ants-Review project channel <@U0172CB3649> <@U016XTFTULU> :point_down: 
+<#C017KV03AKY|project-antsreview>","Mon, 19 Jan 1970 11:17:37 GMT",,"U0172CB3649,U016XTFTULU","[{""name"":""woman-raising-hand"",""users"":[""U0172CB3649"",""U017DN0DZ08""],""count"":2},{""name"":""party_parrot"",""users"":[""U016C8XH6NR""],""count"":1}]",3
+1595856959.125400,U016C909613,"Heyo <!channel> — happy Monday — happy end of Week 2!
+
+In advance of Week 3, as things solidify, it’s time we `de-centralize’ <#C0165LH4ZV5|projects> to give space to all of the wonderful work happening.
+
+If interested, please create a project channel using the convention `#project-[name]` and include it in your update in <#C0175KTG8TU|kernel-project-updates> or simply, in this channel for interested fellows to join the channels to peek behind the scenes.
+
+Here are some of the projects already listed, for reference :point_down:
+
+<#C017T3Y1VQU|project-parcel>
+<#C0173GWUYKZ|project-epns>
+<#C017VAB4WJC|proj-web3-spatial>
+<#C017QF5JVT4|project-oya>
+<#C017M2XDB50|project-thrivy>
+
+Don’t feel the need to join *all* the channels, but do pick 2-3 that you’d meaningfully dive into (i.e. into the source code, into the docs, into the user testing feedback flow). We think rewarding conversations will result, given how great all of you are :slightly_smiling_face: :seedling:","Mon, 19 Jan 1970 11:17:36 GMT",1595856959.125400,,"[{""name"":""seedling"",""users"":[""U016KTNL5QW"",""U0169MPEV3R"",""U016HFP7P2A"",""U016A43FT0F"",""U017EP3GQM6"",""U01692CEFQF"",""U016PNPMFSN"",""U017DN0DZ08"",""U01691XLMD5"",""U017N4HS1SN"",""U017E2A2KPS"",""U01733WAA1F"",""U0169MFLKQF"",""U016Q1J7Y83"",""U016C909613"",""U017G0TNCFN"",""U016H5ETT6J"",""U016VTJACBW"",""U0172G1A28H"",""U016WQPK6J0""],""count"":20},{""name"":""raised_hands"",""users"":[""U016A43FT0F"",""U017EP3GQM6"",""U016PNPMFSN"",""U017DN0DZ08"",""U01691XLMD5"",""U017N4HS1SN"",""U017E2A2KPS"",""U01733WAA1F"",""U016C909613"",""U017G0TNCFN"",""U016H5ETT6J"",""U0169476M7Z""],""count"":12},{""name"":""heavy_check_mark"",""users"":[""U017E2A2KPS"",""U016C909613"",""U017G0TNCFN""],""count"":3},{""name"":""heart"",""users"":[""U016M08G1M4"",""U016BTBS3MM"",""U017G0TNCFN""],""count"":3},{""name"":""100"",""users"":[""U016VTJACBW""],""count"":1}]",39
+1595858427.129200,U0169MFLKQF,<#C017SMRE602|project-semsm>  :slightly_smiling_face:,"Mon, 19 Jan 1970 11:17:38 GMT",1595856959.125400,,"[{""name"":""party_parrot"",""users"":[""U016C909613""],""count"":1}]",1
+1595502481.116400,U016PF28WVB,"Hello hello!
+
+I know its a bit late but... Here is News Buff!
+
+News Buff is a censorship-resistant (decentralised) news platform. The current version is just that, a platform. Future versions will include incentivised content moderation through payment streams and a DAO. There will also be some cool and clever machine learning algos checking content that are currently being built by the fabulous <@U0172CM3049> :sparkles:
+
+The initial target in terms of users is ""Citizen Reporters"", i.e the people on the ground when news happens. I am specifically not targeting journalists or pre-existing news outlets as there are too many biases and incentives that have been created for them and by them that would need to be challenged (it's always easier to make something new than to change something established).
+
+Some important links:
+• <https://docs.google.com/forms/d/e/1FAIpQLSeX797wqs6qzLN_To0s8Ib3dGwSrhdtGbs5YhsX6GlZPMHOsg/viewform?usp=sf_link|User testing> (it will take you no longer than 10 minutes) 
+• <https://newsbuff.substack.com/invite|Sign up for our Kernel newsletter>
+• Light paper coming soon :tm: ","Mon, 19 Jan 1970 11:11:42 GMT",1595502481.116400,,"[{""name"":""heart"",""users"":[""U016C8XH6NR"",""U016BTBS3MM"",""U016C909613"",""U016AMDF215"",""U016ZPHMHL4"",""U017GN6FHQA"",""U0176U8M5J5""],""count"":7},{""name"":""bouncingparrot"",""users"":[""U0172CM3049"",""U016HAELGES"",""U016T0QSCMT""],""count"":3}]",10
+1595679206.119700,U017XT3GPT3,"Hi <@U016PF28WVB>, This idea is amazing :slightly_smiling_face:  I would be really interested in how i might be able to contribute towards this. What are the skills you need towards this project?","Mon, 19 Jan 1970 11:14:39 GMT",1595502481.116400,U016PF28WVB,,0
+1595760227.120000,U016PF28WVB,"So glad to hear! :sparkles: So the skills I could really use are along the lines of design, js (vue) and ts, helps if you have worked with Textile, IPFS or aweave (but thats the next version).","Mon, 19 Jan 1970 11:16:00 GMT",1595502481.116400,,,0
+1595413808.104000,U016M08G1M4,":dove_of_peace:
+
+_KERNEL fellows!_ *I am looking for team members to join the following project (Thrivy)*
+
+This idea came to me about 4 days ago, so it is very rough. But that means we can shape it together!
+
+We have a bunch of Defi apps, and a lot of other interesting dapps built on Ethereum. The use case is pretty confined to a very limited set of people, though. There are a number of reasons for that.
+
+We need retail adoption, to truly unlock the potential of blockchain / Ethereum. We need people buying groceries with crypto. We need them to pay for everyday services with crypto. The problem is immense, but someone has to solve it. And I am not going to give up, because I can see an incredible future if we do. Just think about how we can create better awareness, for example, about what people are buying in the shops (meat, poultry, etc.). What conditions those poor animals were in. By having traceability baked into the payments. This is absolutely *insane*. We will have to overcome regulatory hurdles. But from the technical perspective, I suppose we would start with some sorts of a reward system for retailers (to cut on their costs of maintaining any systems they may have / help them avoid printing paper and thus cutting down trees for those silly cards with stamps)
+
+I will be having an initial call today in 2 hours and 30 minutes (14:00 BST) with someone (outside of KERNEL) who has agreed to help brainstorm and solidify the idea. Would you like to jump on a call too? We will use Miro, of course :slightly_smiling_face:
+
+Retail adoption is just the first step
+
+But it is a necessary step
+
+I am so excited for what this will do and what other use cases and dapps this will spawn. We can create a better world *together*
+
+Status’s Keycard may work really well here","Mon, 19 Jan 1970 11:10:13 GMT",1595413808.104000,,"[{""name"":""eyes"",""users"":[""U0172CM3049"",""U017E8XAW0G"",""U018PEEUSQJ""],""count"":3},{""name"":""electric_plug"",""users"":[""U017EF8VBS4""],""count"":1}]",4
+1594151780.001400,U016PP38YLA,<@U016PP38YLA> has joined the channel,"Mon, 19 Jan 1970 10:49:11 GMT",,,,0
+1594151477.001200,U0172BR9Q8H,<@U0172BR9Q8H> has joined the channel,"Mon, 19 Jan 1970 10:49:11 GMT",,,,0
+1594151387.001000,U016PNPMFSN,<@U016PNPMFSN> has joined the channel,"Mon, 19 Jan 1970 10:49:11 GMT",,,,0
+1594151248.000800,U016PUP7D5Z,<@U016PUP7D5Z> has joined the channel,"Mon, 19 Jan 1970 10:49:11 GMT",,,,0
+1594151127.000600,U016PUK3G9Z,<@U016PUK3G9Z> has joined the channel,"Mon, 19 Jan 1970 10:49:11 GMT",,,,0
+1594150919.000400,U016VTJACBW,<@U016VTJACBW> has joined the channel,"Mon, 19 Jan 1970 10:49:10 GMT",,,,0
+1594150783.000200,U016VTDLG5S,<@U016VTDLG5S> has joined the channel,"Mon, 19 Jan 1970 10:49:10 GMT",,,,0
+1594042755.000800,U016FDAC4LT,<@U016FDAC4LT> has joined the channel,"Mon, 19 Jan 1970 10:47:22 GMT",,,,0
+1594042755.000600,U016C909613,<@U016C909613> has joined the channel,"Mon, 19 Jan 1970 10:47:22 GMT",,,,0
+1594042752.000300,U016C8XH6NR,<@U016C8XH6NR> set the channel purpose: For collaboration and discussion on projects.,"Mon, 19 Jan 1970 10:47:22 GMT",,,,0
+1594042751.000200,U016C8XH6NR,<@U016C8XH6NR> has joined the channel,"Mon, 19 Jan 1970 10:47:22 GMT",,,,0

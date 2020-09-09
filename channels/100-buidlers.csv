@@ -1,0 +1,99 @@
+id,user,text,timestamp,in_reply_to,mentioned_users,reactions,total_reactions
+1597072109.048800,U016WQPK6J0,Anyone here using POA or xDai?,"Mon, 19 Jan 1970 11:37:52 GMT",1597072109.048800,,,0
+1597098410.049100,U01693HHP9V,hey yes I've been building on xDai chain,"Mon, 19 Jan 1970 11:38:18 GMT",1597072109.048800,,,0
+1597098425.049400,U01693HHP9V,we are using it as our side-chain of choice,"Mon, 19 Jan 1970 11:38:18 GMT",1597072109.048800,,,0
+1597098431.049600,U01693HHP9V,what's up?,"Mon, 19 Jan 1970 11:38:18 GMT",1597072109.048800,,,0
+1597131884.049800,U016WQPK6J0,"ahh awesome, ill send you a DM","Mon, 19 Jan 1970 11:38:51 GMT",1597072109.048800,,,0
+1596706387.045200,U016BTBS3MM,"Let's say I have an event in a contract: `event ThingDone(address doer, address to, uint amount)`
+Is there any way to scrape historical data that returns every `doer`, `to`, and `amount`? I might be understanding logs wrong, but I feel like I'm only able to get the contract address back, not who interacted with it, who the contract interacted with, or what the interaction was. There's got to be some way to do this, though, right?","Mon, 19 Jan 1970 11:31:46 GMT",1596706387.045200,,,0
+1596721763.047500,U017E885WBA,"you can get all fields from the logs, but i think the location in the json payload depends if the field is indexed or not. Its been a while since i parsed logs manually, after i discovered <https://thegraph.com/>
+
+never looked back :blush:","Mon, 19 Jan 1970 11:32:01 GMT",1596706387.045200,,,0
+1596775955.047800,U0169JV8C95,I was just about to say this :sweat_smile:,"Mon, 19 Jan 1970 11:32:55 GMT",1596706387.045200,,,0
+1596794531.048000,U016BTBS3MM,"&gt; you can get all fields from the logs
+How? In Ethers, as far as I can tell, the logs only return the fields listed here: <https://docs.ethers.io/v5/api/providers/types/#providers-Log>
+The `address` is just the contract that fired off the event, but I don't see data points for who triggered the event, or other args of the event, or who the contract sent to, etc.
+I think you might mean that it's possible to get it out of the topics somehow, but f so, could you point me to a resource that explains how?","Mon, 19 Jan 1970 11:33:14 GMT",1596706387.045200,,,0
+1596810806.048200,U017E885WBA,"Havent done it with ethers.js but the logs have all the fields, when i did it on web3 the case was the topics (i think) did not have the all the fields or the indexed fields are located in a different path.
+
+Quick google i see eth scaffold has some code that uses ethers.js
+<https://github.com/austintgriffith/scaffold-eth/commit/2b8174d07582c75398ae16a94509f47444d1f34c>
+
+Could not find a concrete example with ethers. These days i just use thegraph for events so im a bit rusty in the mechanics.
+Hope this help.","Mon, 19 Jan 1970 11:33:30 GMT",1596706387.045200,,,0
+1596971118.048400,U016BTBS3MM,"Starting to make some headway on this, if I get somewhere I might try to make a blog post out of it.","Mon, 19 Jan 1970 11:36:11 GMT",1596706387.045200,,,0
+1597072741.048900,U016BTBS3MM,TIL that Ethers v5 has `decodeEventLog` which decodes the data (optionally using the topics) from a single log object. <https://docs.ethers.io/v5/api/utils/abi/interface/#Interface--decoding>,"Mon, 19 Jan 1970 11:37:52 GMT",1596706387.045200,,,0
+1596701740.042100,U016WQPK6J0,Does anyone know if there is a koavn DAI faucet?,"Mon, 19 Jan 1970 11:31:41 GMT",1596701740.042100,,,0
+1596706491.045300,U016BTBS3MM,"You probably already saw this, but this thread suggests using the Kovan faucet, then sending ETH to the Kovan DAI contract and lending against it: <https://www.reddit.com/r/MakerDAO/comments/9v4st1/how_to_get_kovan_dai/>","Mon, 19 Jan 1970 11:31:46 GMT",1596701740.042100,,,0
+1596706535.045600,U016BTBS3MM,"Again, probably not necessary, but there seems to be a Kovan faucet here: <https://faucet.kovan.network/>","Mon, 19 Jan 1970 11:31:46 GMT",1596701740.042100,,,0
+1596706538.045800,U016WQPK6J0,Ta muchly :slightly_smiling_face: <@U016BTBS3MM>,"Mon, 19 Jan 1970 11:31:46 GMT",1596701740.042100,U016BTBS3MM,"[{""name"":""+1"",""users"":[""U016BTBS3MM""],""count"":1}]",1
+1596707962.046500,U016BTBS3MM,"I'm in the middle of something else, unfortunately, but are you sure they're deployed to Kovan? (I assume you're interacting with contracts, so they'd need a Kovan deploy.)","Mon, 19 Jan 1970 11:31:47 GMT",1596701740.042100,,,0
+1596708415.046900,U016WQPK6J0,yep no problem,"Mon, 19 Jan 1970 11:31:48 GMT",1596701740.042100,,,0
+1596708461.047100,U016WQPK6J0,Sorry for all the questions!,"Mon, 19 Jan 1970 11:31:48 GMT",1596701740.042100,,,0
+1596709002.047300,U016BTBS3MM,"np always feel free to ask, I've got a bit more headspace now, too","Mon, 19 Jan 1970 11:31:49 GMT",1596701740.042100,,,0
+1596637680.041000,U016BTBS3MM,"Not my KERNEL project, but if anyone could give a hand with this, it would be a big help: <https://ethereum.stackexchange.com/questions/86509/ethers-js-why-arent-logs-filtering-query-returned-more-than-10000-results>","Mon, 19 Jan 1970 11:30:37 GMT",1596637680.041000,,,0
+1596671409.041200,U016Q825Y3U,Not sure on the specifics of why that particular method call isn't working but you could do the same thing with subspace <https://subspace.embarklabs.io/|https://subspace.embarklabs.io/>. They provide a nice wrapper around contract events and return them to you as an observable and I've always had good results with it,"Mon, 19 Jan 1970 11:31:11 GMT",1596637680.041000,,,0
+1596548289.039100,U016WQPK6J0,"However when I try and access one of the the keys on the object it doesnt work `console.log(""e"", Object.keys(e));` returns an empty array. When I logout the `typeof` error (e) message it also says object. I'm a bit stumped","Mon, 19 Jan 1970 11:29:08 GMT",1596548289.039100,,,0
+1596554769.039400,U016HTJ5Q4W,"I think what you see is just an `error.message` and not error data object, see the screenshot below where I tried to reproduce something similar","Mon, 19 Jan 1970 11:29:14 GMT",1596548289.039100,,,0
+1596554838.039800,U016HTJ5Q4W,"I assume what you need is to inspect tx receipt, something like described here <https://ethereum.stackexchange.com/a/59028>","Mon, 19 Jan 1970 11:29:14 GMT",1596548289.039100,,"[{""name"":""+1"",""users"":[""U016WQPK6J0""],""count"":1}]",1
+1596575995.040400,U016WQPK6J0,Thanks will check this out,"Mon, 19 Jan 1970 11:29:35 GMT",1596548289.039100,,,0
+1596548200.037500,U016WQPK6J0,"I can log out the whole revert message:
+```e Error: Transaction has been reverted by the EVM:
+{
+  ""blockHash"": ""0x335543599b07c983613469a8ea9c0889ce1e9d4b981228525e24c55837319bda"",
+  ""blockNumber"": 20030114,
+  ""contractAddress"": null,
+  ""cumulativeGasUsed"": 25885,
+  ""from"": ""0x2f4ce4f714c68a3fc871d1f543ffc24b9b3c2386"",
+  ""gasUsed"": 25885,
+  ""logsBloom"": ""0x00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"",
+  ""root"": null,
+  ""status"": false,
+  ""to"": ""0xeb11a5250fceaa79ec19030e49ca38e21ab92602"",
+  ""transactionHash"": ""0x1ba11ff6e695d15d8c6e32d973e8c5584ad80f275ba7b07604aea0fdb04cbf4a"",
+  ""transactionIndex"": 0,
+  ""events"": {}
+}```","Mon, 19 Jan 1970 11:29:08 GMT",,,,0
+1596548094.037100,U016WQPK6J0,I'm having some difficultly pulling the blockHash out of a revert error in the frontend with Web3js,"Mon, 19 Jan 1970 11:29:08 GMT",,,,0
+1596534250.035200,U016Q825Y3U,On it's way - 0x1ccb84867615c46ea5c0f134fdd2cfbf38482e32be5b148a0309d2fe1485fe25,"Mon, 19 Jan 1970 11:28:54 GMT",1596533766.034300,,,0
+1596533766.034300,U016BTBS3MM,Is the Rinkeby faucet down for anyone else?,"Mon, 19 Jan 1970 11:28:53 GMT",1596533766.034300,,,0
+1596534100.034400,U016Q825Y3U,"I'm getting errors trying to request ETH int he authenticated faucet so, maybe?  Looks like it's working for some people though as I see transactions going throughu","Mon, 19 Jan 1970 11:28:54 GMT",1596533766.034300,,,0
+1596534111.034600,U016Q825Y3U,Do you need some rETH?  I can send you some if so,"Mon, 19 Jan 1970 11:28:54 GMT",1596533766.034300,,,0
+1596534182.034800,U016BTBS3MM,Please! Thanks <@U016Q825Y3U>: 0xFC89A82191c1Ad191C81E15D5965b23c78F68D5c,"Mon, 19 Jan 1970 11:28:54 GMT",1596533766.034300,U016Q825Y3U,,0
+1596534239.035000,U016BTBS3MM,"Hadn't scrolled down, does seem like some people are getting through, still think something's wrong over there, though.","Mon, 19 Jan 1970 11:28:54 GMT",1596533766.034300,,,0
+1596534250.035200,U016Q825Y3U,On it's way - 0x1ccb84867615c46ea5c0f134fdd2cfbf38482e32be5b148a0309d2fe1485fe25,"Mon, 19 Jan 1970 11:28:54 GMT",1596533766.034300,,,0
+1596534259.035500,U016BTBS3MM,Already here! Thanks a bunch!,"Mon, 19 Jan 1970 11:28:54 GMT",1596533766.034300,,"[{""name"":""+1"",""users"":[""U016Q825Y3U""],""count"":1}]",1
+1596527588.033900,U016BTBS3MM,"Wait, wonder if it's this: <https://ethereum.stackexchange.com/a/39030/27270> ; the error in the question is similar, but not identical...","Mon, 19 Jan 1970 11:28:47 GMT",,,,0
+1596527310.033300,U016BTBS3MM,"I have MetaMask connected to a local dev chain, and I'm not able to send any txs (contract or just sending test eth), keep on getting this weird error:
+```
+MetaMask - RPC Error: Error: [ethjs-rpc] rpc error with payload {""id"":2084025564758,""jsonrpc"":""2.0"",""params"":[""0xf88902847735940082b6ae94254d97074fb0053437dffadd6bac5c3af19781a580a47048027500000000000000000000000056a32fff5e5a8b40d6a21538579fb8922df5258c820a95a0afdd402623efd96be41e863da2c38130f9d2092ea66b8a8aa2dd4ecf7864da3da024b3f0aad9be55b31b6dc035f0c3a9f22a8b2f7e2331668214abe9b1cde6239f""],""method"":""eth_sendRawTransaction""} [object Object] 
+Object { code: -32603, message: ""Error: [ethjs-rpc] rpc error with payload {\""id\"":2084025564758,\""jsonrpc\"":\""2.0\"",\""params\"":[\""0xf88902847735940082b6ae94254d97074fb0053437dffadd6bac5c3af19781a580a47048027500000000000000000000000056a32fff5e5a8b40d6a21538579fb8922df5258c820a95a0afdd402623efd96be41e863da2c38130f9d2092ea66b8a8aa2dd4ecf7864da3da024b3f0aad9be55b31b6dc035f0c3a9f22a8b2f7e2331668214abe9b1cde6239f\""],\""method\"":\""eth_sendRawTransaction\""} [object Object]"", stack: ""Error: Error: [ethjs-rpc] rpc error with payload {\""id\"":2084025564758,\""jsonrpc\"":\""2.0\"",\""params\"":[\""0xf88902847735940082b6ae94254d97074fb0053437dffadd6bac5c3af19781a580a47048027500000000000000000000000056a32fff5e5a8b40d6a21538579fb8922df5258c820a95a0afdd402623efd96be41e863da2c38130f9d2092ea66b8a8aa2dd4ecf7864da3da024b3f0aad9be55b31b6dc035f0c3a9f22a8b2f7e2331668214abe9b1cde6239f\""],\""method\"":\""eth_sendRawTransaction\""} [object Object]"" }```
+Anyone know what's up with that?","Mon, 19 Jan 1970 11:28:47 GMT",1596527310.033300,,,0
+1596534770.036000,U016HTJ5Q4W,try Metamask -&gt; Settings -&gt; Advanced -&gt; Reset Account,"Mon, 19 Jan 1970 11:28:54 GMT",1596527310.033300,,,0
+1596534830.036200,U016HTJ5Q4W,it's because nonce got messed up if you are using local dev chains,"Mon, 19 Jan 1970 11:28:54 GMT",1596527310.033300,,,0
+1596551611.039200,U016BTBS3MM,"Thanks a bunch - I'd started working around by deploying to testnet, but it's always good to find out what was going wrong.","Mon, 19 Jan 1970 11:29:11 GMT",1596527310.033300,,,0
+1595949177.027900,U017E885WBA,"Hey all, qq. Is there a free API you recommend to check the ETH/USD price?
+I have used in the past the known exchanges apis (coingecko, cmc, etc) , but wondering if nowadays there is like a graph api or something accurate based on onchain prices.","Mon, 19 Jan 1970 11:19:09 GMT",1595949177.027900,,,0
+1595951044.029200,U016BTBS3MM,"I'm pretty sure Uniswap has something like this. You might want to dive into Austin Griffith's Scaffold-Eth project, I know he has real-time price built in there, I think he queries Uniswap.","Mon, 19 Jan 1970 11:19:11 GMT",1595949177.027900,,"[{""name"":""+1"",""users"":[""U017E885WBA""],""count"":1}]",1
+1595953401.029600,U016PNPMFSN,<https://thegraph.com/>,"Mon, 19 Jan 1970 11:19:13 GMT",1595949177.027900,,,0
+1595955205.030000,U0169JV8C95,If you like smart contract I would prefer chainlink :slightly_smiling_face:,"Mon, 19 Jan 1970 11:19:15 GMT",1595949177.027900,,,0
+1595956726.030200,U017E885WBA,"thanks, is for showing it in the UI, but not sure if there was a graph already that i could pull the price from","Mon, 19 Jan 1970 11:19:16 GMT",1595949177.027900,,,0
+1595956910.030400,U016PNPMFSN,i believe you should be able to use the uniswap subgraph to get the current prices,"Mon, 19 Jan 1970 11:19:16 GMT",1595949177.027900,,,0
+1595957016.030600,U016PNPMFSN,also maybe dydx,"Mon, 19 Jan 1970 11:19:17 GMT",1595949177.027900,,,0
+1595957202.030800,U017E885WBA,"thanks, will start on the uniswap subgraph","Mon, 19 Jan 1970 11:19:17 GMT",1595949177.027900,,,0
+1595957716.031000,U016BTBS3MM,"Had a minute, looked up the Scaffold-Eth thing myself: <https://github.com/austintgriffith/scaffold-eth/blob/master/packages/react-app/src/hooks/ExchangePrice.js>","Mon, 19 Jan 1970 11:19:17 GMT",1595949177.027900,,"[{""name"":""eyes"",""users"":[""U017E885WBA""],""count"":1}]",1
+1595957988.031400,U017E885WBA,"Awesome, that is very helpful","Mon, 19 Jan 1970 11:19:17 GMT",1595949177.027900,,"[{""name"":""grin"",""users"":[""U016BTBS3MM""],""count"":1}]",1
+1595945245.026900,U016YR2PVB6,<@U016YR2PVB6> has joined the channel,"Mon, 19 Jan 1970 11:19:05 GMT",,,,0
+1595944480.025900,U016A43FT0F,"Any teams building on filecoin or powergate, we can try a hacking table","Mon, 19 Jan 1970 11:19:04 GMT",1595944480.025900,,"[{""name"":""sparkles"",""users"":[""U016C8XH6NR""],""count"":1}]",1
+1595950975.028300,U016BTBS3MM,"You may want to try seeing who's building @ HackFS in a different channel (with more traffic). I've heard a bunch of Fellows say they're building there, and that would make it very likely (maybe even a given, not sure about the details) that they're building with/on Filecoin.","Mon, 19 Jan 1970 11:19:10 GMT",1595944480.025900,,"[{""name"":""+1"",""users"":[""U016A43FT0F""],""count"":1}]",1
+1595965658.031800,U016A43FT0F,"You're absolutely right, will try that instead","Mon, 19 Jan 1970 11:19:25 GMT",1595944480.025900,,,0
+1595921854.021800,U016BTBS3MM,"Just having hacking tables might be cool - tables of people who are hacking on their own thing, but with a bit of a cafe vibe. Or it might be a distraction. (Who chooses the music?)","Mon, 19 Jan 1970 11:18:41 GMT",,,"[{""name"":""bulb"",""users"":[""U016Q1J7Y83"",""U016C8XH6NR"",""U016A43FT0F"",""U017E2A2KPS"",""U0169JV8C95"",""U0172G1A28H"",""U016ZPHMHL4"",""U017E885WBA""],""count"":8}]",8
+1595921793.021000,U016BTBS3MM,"I'm really interested in exploring different ways to use the Airmeet tables. They're designed for conversations or small presentations, but they could be used for whatever we dream up. I've wondered about using them for pair programming, or technical guidance. What other ideas do you have about how we can use the tables in KERNEL?","Mon, 19 Jan 1970 11:18:41 GMT",,,,0
+1595921586.019200,U016C8XH6NR,<@U016C8XH6NR> set the channel topic: See the pinned message :muscle::skin-tone-4:,"Mon, 19 Jan 1970 11:18:41 GMT",,,,0
+1595919694.018900,U016C8XH6NR,*<!here> to give/take help in buidling and breaking stuff. You can post your coding related doubts here. And find your hacker buddies in Airmeet tables (13-16) from 10 am — 1 pm ET everyday.* ,"Mon, 19 Jan 1970 11:18:39 GMT",,,"[{""name"":""raised_hands"",""users"":[""U016A43FT0F"",""U0172CM3049"",""U0172G1A28H"",""U017E885WBA""],""count"":4}]",4
+1595919437.016900,U016C8XH6NR,"<@U016C8XH6NR> has renamed the channel from ""buidl"" to ""100-buidlers""","Mon, 19 Jan 1970 11:18:39 GMT",,,,0
+1594757212.014400,U016HR010LE,"Hello Kernel Fellows :four_leaf_clover:. I would love to showcase what our team is working on. The Genie is a challenges platform for online games that aims to connect off-chain games :game_die: and crypto in a novel way. With the Genie you can create pool challenges on top any game with an API, while the winner determination done in a trustless way using Chainlink.
+See our demo <https://vimeo.com/422234684> or read <https://medium.com/genie-platform/meet-the-genie-6bb60fe67943>
+We’re looking for people to buidl Genie or buidl on top of the Genie (yes we’re looking to integrate new games!). Next big feature: integrate NFT rewards :first_place_medal:
+Check us live <http://app.thegenie.xyz/>
+Hop on to the <#C017TN25X24|genie>  :genie: channel for more fun!","Mon, 19 Jan 1970 10:59:17 GMT",,,"[{""name"":""100"",""users"":[""U017E2A2KPS"",""U017DKW89DW""],""count"":2},{""name"":""genie"",""users"":[""U016HR010LE"",""U017DKW89DW"",""U016ZPHMHL4""],""count"":3},{""name"":""heavy_check_mark"",""users"":[""U017DKW89DW"",""U017E2A2KPS""],""count"":2},{""name"":""game_die"",""users"":[""U016Q1J7Y83""],""count"":1}]",8

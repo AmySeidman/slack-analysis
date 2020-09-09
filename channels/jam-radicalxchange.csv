@@ -1,0 +1,80 @@
+id,user,text,timestamp,in_reply_to,mentioned_users,reactions,total_reactions
+1598607062.005900,U017N4HS1SN,What do you have in mind?,"Mon, 19 Jan 1970 12:03:27 GMT",,,,0
+1598607050.005700,U017N4HS1SN,"Yes, I guess … at least, as long as the incentives are radical :wink:","Mon, 19 Jan 1970 12:03:27 GMT",,,,0
+1598560638.004000,U016Q01RH5H,is this an appropriate channel to get an incentive scheme roasted?,"Mon, 19 Jan 1970 12:02:40 GMT",,,"[{""name"":""+1"",""users"":[""U016PNPMFSN"",""U016C8XH6NR"",""U016C909613"",""U017N4HS1SN"",""U016HFP7P2A""],""count"":5},{""name"":""white_check_mark"",""users"":[""U016C8XH6NR"",""U016C909613"",""U017N4HS1SN""],""count"":3},{""name"":""smile"",""users"":[""U016C909613"",""U017N4HS1SN""],""count"":2}]",10
+1598452495.003200,U017N4HS1SN,See you at 12pm EDT on <http://radicalxchange.org/tv|radicalxchange.org/tv>,"Mon, 19 Jan 1970 12:00:52 GMT",,,"[{""name"":""heart"",""users"":[""U016C8XH6NR""],""count"":1}]",1
+1598021528.001600,U017N4HS1SN,"RadicalxChange goes live next Wednesday. Among others, featuring Quadratic Funding master, <@U0173GGMBJQ>
+
+RVSP at <https://www.eventbrite.com/e/rxc-in-the-wild-livestream-social-upgrades-in-colorado-taiwan-tickets-117621008603>","Mon, 19 Jan 1970 11:53:41 GMT",,U0173GGMBJQ,"[{""name"":""seedling"",""users"":[""U0172CB3649"",""U016C8XH6NR""],""count"":2},{""name"":""party_parrot"",""users"":[""U016C8XH6NR""],""count"":1}]",3
+1596148343.011600,U017E885WBA,"Hi all,
+
+I just posted this question on another channel but wanted to also bring some discussion here on the video.
+<https://kernel-community.slack.com/archives/C017A7P3UE4/p1596148170212800>
+
+We are exploring the idea of a live streamer screen as being like a property or land, so would a system to buy that property live instantly would make sense for a Harberger Tax or another type of auction.
+
+<https://www.youtube.com/watch?v=K0Tk3RF_SAw&amp;feature=youtu.be>
+This is the video to get an idea of the concept.
+
+Would like to hear some thoughts.
+:pray:","Mon, 19 Jan 1970 11:22:28 GMT",1596148343.011600,,,0
+1596153596.011800,U017N4HS1SN,"Hey <@U017E885WBA>, thanks for sharing this!  I think it might be really interesting to govern the rights to the spaces in the videos using SALSA (also known as COST or Harberger Tax), long Self-Assessed Licenses Sold via Auction.
+
+Relatedly, you can check out <https://hads.xyz/|Harberger Ads> as well as its <https://github.com/theoephraim/harberger-ads|Github> and the <https://devpost.com/software/harberger-ads|hackathon prize> that started it. Note that the current implementation is a pilot, or proof of concept, that runs on Ethereum’s Rinkeby test network.","Mon, 19 Jan 1970 11:22:33 GMT",1596148343.011600,U017E885WBA,"[{""name"":""white_check_mark"",""users"":[""U017E885WBA""],""count"":1}]",1
+1596153764.012600,U017N4HS1SN,"Following are some more generic resources on SALSA.
+• Academic paper: <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2818494>
+• The Handbook for Radical Local Democracy (pages 30 - 42): <https://www.radicalxchange.org/files/The_Handbook_for_Radical_Local_Democracy.pdf>
+","Mon, 19 Jan 1970 11:22:33 GMT",1596148343.011600,,,0
+1596267166.015000,U016QSTSQQM,"I love the concept!!! Are the adverts you buy time bounded? Does the host define the price, and is it by impression or a flat rate? Looks really awesome!","Mon, 19 Jan 1970 11:24:27 GMT",1596148343.011600,,,0
+1596293488.015200,U017E885WBA,"Hi thanks, we are still deciding, i guess it will be based on whatever favors the actual streamer more, but it would be fun to explore ideas like auction based payments and radical markets, it would be in the best interest of the streamer to always get more money for their ""piece of screen"".","Mon, 19 Jan 1970 11:24:53 GMT",1596148343.011600,,"[{""name"":""rocket"",""users"":[""U016QSTSQQM"",""U017N4HS1SN""],""count"":2}]",2
+1596293563.015400,U017E885WBA,"and the adverstiser wants to take advantage of deciding when to put their ad, based on streamer numbers live, and not a set fee, cool thing for streamer IMO is he finishes the stream and gets up and he has all his money in his wallet at the end, not in paypal or wherever","Mon, 19 Jan 1970 11:24:53 GMT",1596148343.011600,,"[{""name"":""raised_hands"",""users"":[""U016QSTSQQM""],""count"":1}]",1
+1595620281.008900,U016WSQKPCL,Welcome <@U017N4HS1SN>!! Thanks for the awesome chat today :boom:,"Mon, 19 Jan 1970 11:13:40 GMT",1595620281.008900,U017N4HS1SN,"[{""name"":""slightly_smiling_face"",""users"":[""U017N4HS1SN"",""U017E2A2KPS""],""count"":2}]",2
+1595621587.009100,U017N4HS1SN,"Thank you, <@U016WSQKPCL> - as always, it was a pleasure exchanging radical thoughts with you!","Mon, 19 Jan 1970 11:13:41 GMT",1595620281.008900,U016WSQKPCL,,0
+1595559908.007000,U016HFP7P2A,Hello friends.,"Mon, 19 Jan 1970 11:12:39 GMT",,,"[{""name"":""wave"",""users"":[""U017N4HS1SN""],""count"":1}]",1
+1595554034.006300,U017N4HS1SN,<@U017N4HS1SN> has joined the channel,"Mon, 19 Jan 1970 11:12:34 GMT",,,,0
+1595554032.006000,U016C909613,"welcoming <@U017N4HS1SN> to the convo!
+
+if you’re considering building with RadXChange --&gt; he is definitely your man — feel free to also put your public questions below if you think it might help the crowd :pray:
+
+<https://kernel-community.slack.com/archives/C015YTM6FDM/p1595553937251300>","Mon, 19 Jan 1970 11:12:34 GMT",1595554032.006000,U017N4HS1SN,"[{""name"":""slightly_smiling_face"",""users"":[""U017N4HS1SN"",""U017E2A2KPS"",""U016WSQKPCL"",""U0172CB3649""],""count"":4},{""name"":""100"",""users"":[""U017E2A2KPS"",""U016Q1J7Y83"",""U016WSQKPCL"",""U016QSTSQQM"",""U0172CB3649""],""count"":5},{""name"":""raised_hands"",""users"":[""U016WSQKPCL"",""U0172CB3649""],""count"":2}]",11
+1595554822.006500,U017N4HS1SN,"Thank you, <@U016C909613>. I’m delighted to be onboard!","Mon, 19 Jan 1970 11:12:34 GMT",1595554032.006000,U016C909613,,0
+1595552461.004700,U016HAELGES,<@U016HAELGES> has joined the channel,"Mon, 19 Jan 1970 11:12:32 GMT",,,,0
+1595546725.004500,U017E2A2KPS,<@U017E2A2KPS> has joined the channel,"Mon, 19 Jan 1970 11:12:26 GMT",,,,0
+1595536195.004300,U0172CM3049,<@U0172CM3049> has joined the channel,"Mon, 19 Jan 1970 11:12:16 GMT",,,,0
+1595533763.004100,U016QN5HLLB,<@U016QN5HLLB> has joined the channel,"Mon, 19 Jan 1970 11:12:13 GMT",,,,0
+1595525989.003200,U016WSQKPCL,Epic stoked to be here!,"Mon, 19 Jan 1970 11:12:05 GMT",,,,0
+1595525870.002600,U016Q1J7Y83,<@U016Q1J7Y83> has joined the channel,"Mon, 19 Jan 1970 11:12:05 GMT",,,,0
+1595523951.002400,U017DK86Y6L,<@U017DK86Y6L> has joined the channel,"Mon, 19 Jan 1970 11:12:03 GMT",,,,0
+1595523918.002200,U017E885WBA,"hey everyone, is the best intro to radical markets still the book, or there is some other resources i can get into like the QF post that was linked today?","Mon, 19 Jan 1970 11:12:03 GMT",1595523918.002200,,,0
+1595527491.003300,U016C909613,vitalik’s review might be better than the book :slightly_smiling_face: <https://vitalik.ca/general/2018/04/20/radical_markets.html>,"Mon, 19 Jan 1970 11:12:07 GMT",1595523918.002200,,"[{""name"":""pray"",""users"":[""U017E885WBA""],""count"":1}]",1
+1595527533.003600,U016C909613,"here’s a bit more about it in the gitcoin context, from 3-4 months after vitalik’s post <https://gitcoin.co/blog/experiments-with-liberal-radicalism/>","Mon, 19 Jan 1970 11:12:07 GMT",1595523918.002200,,,0
+1595560374.007200,U016HFP7P2A,Thanks Vivek. That post by Vitalik is super dope.,"Mon, 19 Jan 1970 11:12:40 GMT",1595523918.002200,,,0
+1595523863.001200,U0169476M7Z,<@U0169476M7Z> has joined the channel,"Mon, 19 Jan 1970 11:12:03 GMT",,,,0
+1595523782.000900,U017E885WBA,<@U017E885WBA> has joined the channel,"Mon, 19 Jan 1970 11:12:03 GMT",,,,0
+1595523572.000700,U016C8XH6NR,,"Mon, 19 Jan 1970 11:12:03 GMT",,,,0
+1595497509.000200,U016Q825Y3U,<@U016Q825Y3U> has joined the channel,"Mon, 19 Jan 1970 11:11:37 GMT",,,,0
+1595430164.006800,U016C8XH6NR,Hey y’all!!Q,"Mon, 19 Jan 1970 11:10:30 GMT",,,,0
+1595430155.006600,U016C8XH6NR,<@U016C8XH6NR> has joined the channel,"Mon, 19 Jan 1970 11:10:30 GMT",,,,0
+1595426841.006300,U016HTJ5Q4W,<@U016HTJ5Q4W> has joined the channel,"Mon, 19 Jan 1970 11:10:26 GMT",,,,0
+1595426391.006100,U017E8XAW0G,"Whoa! Nice one <@U016C909613> thank you. 
+Let's jam together :slightly_smiling_face:","Mon, 19 Jan 1970 11:10:26 GMT",,U016C909613,,0
+1595426225.004900,U016QSTSQQM,<@U016QSTSQQM> has joined the channel,"Mon, 19 Jan 1970 11:10:26 GMT",,,,0
+1595426116.004600,U017VDU1T17,Awesome! Great idea <@U016C909613>!,"Mon, 19 Jan 1970 11:10:26 GMT",,U016C909613,,0
+1595425471.004300,U016YR3HD2Q,<@U016YR3HD2Q> has joined the channel,"Mon, 19 Jan 1970 11:10:25 GMT",,,,0
+1595424958.004100,U016C909613,"hey all — as i was going thru project updates today, i was inspired to create this jam group for projects building using radxChange concepts
+
+• wildcards
+• uni
+• MIN 
+are three that i know of — feel free to invite more and i’d be more than up for a jam session in airmeet around this to help solidify the incentives in the variety of applications we’re building around quadratic funding, harbeger taxes, and perhaaps more ideas.
+
+will also add a few folks from radxchange into this group to jam with us :pray:","Mon, 19 Jan 1970 11:10:24 GMT",,,"[{""name"":""fire"",""users"":[""U016PNPMFSN"",""U016C909613"",""U016QSTSQQM"",""U016NEJETQV"",""U016WSQKPCL"",""U016HFP7P2A""],""count"":6},{""name"":""whale2"",""users"":[""U016NEJETQV"",""U016WSQKPCL"",""U016HFP7P2A""],""count"":3},{""name"":""snake"",""users"":[""U016NEJETQV""],""count"":1},{""name"":""gorilla"",""users"":[""U016NEJETQV"",""U016WSQKPCL"",""U016HFP7P2A""],""count"":3}]",13
+1595424943.003700,U0173GGMBJQ,<@U0173GGMBJQ> has joined the channel,"Mon, 19 Jan 1970 11:10:24 GMT",,,,0
+1595424823.001500,U016WSQKPCL,<@U016WSQKPCL> has joined the channel,"Mon, 19 Jan 1970 11:10:24 GMT",,,,0
+1595424822.001300,U016PNPMFSN,<@U016PNPMFSN> has joined the channel,"Mon, 19 Jan 1970 11:10:24 GMT",,,,0
+1595424822.001100,U017E8XAW0G,<@U017E8XAW0G> has joined the channel,"Mon, 19 Jan 1970 11:10:24 GMT",,,,0
+1595424822.000900,U017VDU1T17,<@U017VDU1T17> has joined the channel,"Mon, 19 Jan 1970 11:10:24 GMT",,,,0
+1595424822.000700,U017GEXRXB2,<@U017GEXRXB2> has joined the channel,"Mon, 19 Jan 1970 11:10:24 GMT",,,,0
+1595424822.000500,U016NEJETQV,<@U016NEJETQV> has joined the channel,"Mon, 19 Jan 1970 11:10:24 GMT",,,,0
+1595424789.000300,U016C909613,<@U016C909613> set the channel purpose: Discussions around RadXChange + projects building using RadXChange,"Mon, 19 Jan 1970 11:10:24 GMT",,,,0
+1595424789.000200,U016C909613,<@U016C909613> has joined the channel,"Mon, 19 Jan 1970 11:10:24 GMT",,,,0

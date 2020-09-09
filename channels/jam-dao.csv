@@ -1,0 +1,106 @@
+id,user,text,timestamp,in_reply_to,mentioned_users,reactions,total_reactions
+1596603270.139800,U016Q01RH5H,"have any of you come across this error in Aragon?
+
+`Error in plugin @aragon/buidler-aragon: There was an error while installing the Aragon client in /Users/johndoe/.aragon/client-775edd606333a111eb2693df53900039722a95dc. Please make sure that this folder is deleted and try again.`","Mon, 19 Jan 1970 11:30:03 GMT",1596603270.139800,,,0
+1596630656.140300,U016KTNL5QW,"no, you can get help here <https://discord.gg/eMTbyda>","Mon, 19 Jan 1970 11:30:30 GMT",1596603270.139800,,,0
+1596662500.143100,U016Q01RH5H,"We found the error, the plugin in the cloned repo is out of date, I've notified the team","Mon, 19 Jan 1970 11:31:02 GMT",1596603270.139800,,,0
+1596590428.138800,U018SQK276U,<@U018SQK276U> has joined the channel,"Mon, 19 Jan 1970 11:29:50 GMT",,,,0
+1596590426.138500,U016C909613,"hey <!here> — <@U016C8XH6NR> and i are still working out kinks in the junto calendar (should be fully functional by EOW), but wanted to make sure folks didn’t miss <@U018SQK276U>’s 2 juntos this week on community tokens.
+
+Click :one: if you want to be added to his junto tomorrow at 11AM ET (with <@U016Q1J7Y83> as well!)
+Click :two: if you want to be added to his junto Friday at 11AM ET
+
+_Topic: Community tokens have proven themselves as valuable tools to get groups of people to coordinate in niche ecosystems like ours. Now we must answer the age old question: how can we bring community tokens to the masses?_
+
+Mark’s Devcon IV Talk, for review before junto: <https://www.youtube.com/watch?v=DeV8oKleAag>","Mon, 19 Jan 1970 11:29:50 GMT",1596590426.138500,"U016C8XH6NR,U018SQK276U,U016Q1J7Y83","[{""name"":""one"",""users"":[""U016C909613"",""U016KTNL5QW"",""U01733WAA1F"",""U016C8XH6NR"",""U016Q1J7Y83"",""U017HFE51EU""],""count"":6},{""name"":""two"",""users"":[""U016C909613"",""U016C8XH6NR"",""U017HFE51EU""],""count"":3}]",9
+1596654685.142800,U016KTNL5QW,:dizzy: amazing chat today! I can’t stop thinking about community janitor points now :wastebasket:,"Mon, 19 Jan 1970 11:30:54 GMT",1596590426.138500,,"[{""name"":""heavy_plus_sign"",""users"":[""U018SQK276U"",""U016Q1J7Y83""],""count"":2}]",2
+1596761782.143900,U016KTNL5QW,TIL mutualization <https://en.wikipedia.org/wiki/Mutualization|https://en.wikipedia.org/wiki/Mutualization>,"Mon, 19 Jan 1970 11:32:41 GMT",1596590426.138500,,"[{""name"":""thinking_face"",""users"":[""U018SQK276U""],""count"":1}]",1
+1595925066.134500,U017ZMGBQ2D,"Hey guys, we updated our bots, our bot that connects groups with aragon DAO, it now works with bot discord and telegram and it has a lot of new features,
+You can now use it to connect your groups with the DAO.
+You can find instructions to add it to your group, integrate it with your own bot, and a video here.
+<https://github.com/Abhimanyu121/DaoFatherBot>","Mon, 19 Jan 1970 11:18:45 GMT",,,"[{""name"":""party_parrot"",""users"":[""U016C8XH6NR"",""U016HAELGES""],""count"":2}]",2
+1595911720.132000,U016Q01RH5H,"Hey guys, is the concept of parent DAO and child DAOs supported in Aragon?","Mon, 19 Jan 1970 11:18:31 GMT",1595911720.132000,,,0
+1595940411.135300,U016KTNL5QW,"yup, also supported in Moloch <https://medium.com/@thelaoofficial/the-path-to-unaccredited-daos-with-minion-8113213f7195>","Mon, 19 Jan 1970 11:19:00 GMT",1595911720.132000,,,0
+1595703955.127600,U017ZMGBQ2D,"Hey guys,
+I know we are late but we are building discord and tg bots that can connect your groups to Aragon DAO.
+With the really well defined and well-implemented DAOs from Aragon, we can really make it easier to use, and we are positive that it is better than reinventing the wheel of making a new DAO framework.
+Would love to know the feedback from you all, here is a  small demo, although its missing most features but we adding alot of features and it will be available soon.
+<https://drive.google.com/file/d/177k9xP-Z19FlXAk_2ogS_LnQjRwxZEUF/view?usp=sharing>","Mon, 19 Jan 1970 11:15:03 GMT",1595703955.127600,,,0
+1595714123.128200,U016KTNL5QW,"we are doing something similar, we are targeting launching DAOs on xDAI (investigating L2/side chain based DAO interop), you can follow our hackathon submission here  <https://discord.gg/HWyXgwm>","Mon, 19 Jan 1970 11:15:14 GMT",1595703955.127600,,,0
+1595714264.128500,U016KTNL5QW,":+1: great video, the eco-system needs more easy to use and accessible ways to interact with DAOs","Mon, 19 Jan 1970 11:15:14 GMT",1595703955.127600,,"[{""name"":""heavy_plus_sign"",""users"":[""U016Q1J7Y83"",""U016C8XH6NR""],""count"":2}]",2
+1595752619.128900,U017ZMGBQ2D,Really awesome,"Mon, 19 Jan 1970 11:15:52 GMT",1595703955.127600,,,0
+1595684935.124500,U016PUK3G9Z,"hi,
+lately, I got drained into the DAO rabbit hole in an attempt to build a collab platform. But soon I realized that there is a lot of fragmentation in this space or at least this is how it looks like: Aragon, Moloch, Metacartel, LAO, OpenLaw, and many many more. So wanted to know if somebody knows if there is like a comprehensive and up to date guide on DAOs and if such an idea makes sense in general to create?","Mon, 19 Jan 1970 11:14:44 GMT",1595684935.124500,,,0
+1595713938.127900,U016KTNL5QW,"There isn't a one stop shop but here are some groups I can recommend:
+• DAO Hack Month : <https://discord.gg/8mvqDXQ>
+• another DAO Rush Week happening soon : <https://daorushweek.com/>
+• MetaCartel general telegram group : <https://t.me/joinchat/FJ2nF0dCGh2RZr1X2dbNBQ>
+• LexDAO Discord : <https://discord.gg/CSeckEd>
+• RaidGuild Discord : <https://discord.gg/WdbeyXu>
+• DAOResearch Discord : <https://discord.gg/AefUJFj>
+There is a whole universe of DAOs to discover, find one that suits you and then create your own!","Mon, 19 Jan 1970 11:15:13 GMT",1595684935.124500,,"[{""name"":""raised_hands"",""users"":[""U016HAELGES"",""U016PUK3G9Z""],""count"":2}]",2
+1595752907.129100,U016PUK3G9Z,"Fantastic, thank you James, you are the best!","Mon, 19 Jan 1970 11:15:52 GMT",1595684935.124500,,"[{""name"":""+1"",""users"":[""U016KTNL5QW""],""count"":1}]",1
+1595547548.123500,U016KTNL5QW,"**:cow:  CAOs:** Cooperative Autonomous Organizations (Non-profit Cooperative + DAO)
+<https://burrrata.github.io/crypto-comix/docs/|https://burrrata.github.io/crypto-comix/docs/>","Mon, 19 Jan 1970 11:12:27 GMT",,,"[{""name"":""cow"",""users"":[""U016Q1J7Y83""],""count"":1},{""name"":""heavy_check_mark"",""users"":[""U016PUK3G9Z""],""count"":1}]",2
+1595547460.123100,U016KTNL5QW,new acronym incoming <https://www.dfohub.com/|https://www.dfohub.com/>,"Mon, 19 Jan 1970 11:12:27 GMT",,,,0
+1595447304.122000,U016QN5HLLB,"Sharing this here, This is just one of many examples of Jude Nelson's prolific genius at blockstack core. This time it came in <https://blog.blockstack.org/ama-with-jude-nelson-app-chains-clarity-smart-contracts-stacking-jude/|AMA form>. What was likely a walk in the park him; fundamentally shifted the scope of how nuanced blockchain based systems can get for us haha Jude has often casually done this over the years :joy:
+
+Hoping this inspires the work of some folks in this jam. Also please reach out in <#C017Y2DLVS4|indigenous-protocols> for any collaboration! As we're keen on all the people resources we can get in our efforts of web3 sustainability via often unheard *matrilineal* indigenous voices on the ground :fist::skin-tone-5:","Mon, 19 Jan 1970 11:10:47 GMT",,,,0
+1595006121.103300,U016KTNL5QW,FYI : launch an LLC using your ETH address <https://medium.com/@Otonomos/otoco-is-live-you-can-now-instantly-form-a-real-world-llc-using-your-ethereum-wallet-f31e1b99fa8>,"Mon, 19 Jan 1970 11:03:26 GMT",1595006121.103300,,"[{""name"":""exploding_head"",""users"":[""U016PUK3G9Z"",""U016W0C1FNG"",""U016Q0F66FM"",""U016W05TXUL"",""U01733WAA1F"",""U016X212QMA"",""U016Q1J7Y83"",""U017EF8VBS4""],""count"":8},{""name"":""heart"",""users"":[""U016Q0F66FM""],""count"":1}]",9
+1595006230.103500,U016C909613,"wow, wild","Mon, 19 Jan 1970 11:03:26 GMT",1595006121.103300,,,0
+1595010903.103800,U016PNPMFSN,"this is awesome, who's on the team behind this?","Mon, 19 Jan 1970 11:03:30 GMT",1595006121.103300,,,0
+1595010947.104000,U016PNPMFSN,"and curious how it's free, filing fees are usually $500?","Mon, 19 Jan 1970 11:03:30 GMT",1595006121.103300,,,0
+1595012354.105600,U016W0C1FNG,"Omg, I’ve been waiting for something like this for ages :fire::fire:","Mon, 19 Jan 1970 11:03:32 GMT",1595006121.103300,,,0
+1595013574.105900,U016Q0F66FM,This is amazing,"Mon, 19 Jan 1970 11:03:33 GMT",1595006121.103300,,,0
+1595013648.106600,U016W0C1FNG,Anyone knows anyone from OtoCo?,"Mon, 19 Jan 1970 11:03:33 GMT",1595006121.103300,,"[{""name"":""heavy_plus_sign"",""users"":[""U0169FVV2LF""],""count"":1}]",1
+1595025971.107000,U0169FVV2LF,"I really dislike the term ""flash llc"" it implies that it is temporary and trivial work. Besides that, this is fantastic! I wish I had used it for my LLC last year.","Mon, 19 Jan 1970 11:03:45 GMT",1595006121.103300,,,0
+1595166075.109800,U016KTNL5QW,OtoCo telegram group : <https://t.me/TheRoadToOtoco>,"Mon, 19 Jan 1970 11:06:06 GMT",1595006121.103300,,,0
+1595166134.110100,U016KTNL5QW,FYI : <https://otoco.otonomos.com/>,"Mon, 19 Jan 1970 11:06:06 GMT",1595006121.103300,,,0
+1595182456.110400,U016KTNL5QW,counter to OtoCo <https://twitter.com/lex_node/status/1284892098949345282>,"Mon, 19 Jan 1970 11:06:22 GMT",1595006121.103300,,"[{""name"":""pray"",""users"":[""U016PNPMFSN"",""U016W0C1FNG""],""count"":2}]",2
+1595182657.110700,U016PNPMFSN,thanks james ^ that thread is super informative and clears up a lot of the confusion in my mind,"Mon, 19 Jan 1970 11:06:22 GMT",1595006121.103300,,,0
+1595182695.110900,U016PNPMFSN,"otoco isn't quite doing what it seemed like at first glance, and makes sense why the cost is low","Mon, 19 Jan 1970 11:06:22 GMT",1595006121.103300,,,0
+1595342437.111700,U017EF8VBS4,"its was easy as 1,2,3","Mon, 19 Jan 1970 11:09:02 GMT",1595006121.103300,,,0
+1595342441.111900,U017EF8VBS4,this is nutes,"Mon, 19 Jan 1970 11:09:02 GMT",1595006121.103300,,,0
+1595342492.112100,U017EF8VBS4,"""“Manager” means the holder of the Ethereum wallet address described in the signature page, who will be a “manager” of the Company within the meaning of Section 18-101(10) of the Act.”","Mon, 19 Jan 1970 11:09:02 GMT",1595006121.103300,,,0
+1595342506.112500,U017EF8VBS4,this is soo cool,"Mon, 19 Jan 1970 11:09:02 GMT",1595006121.103300,,,0
+1595342546.112700,U017EF8VBS4,"“Smart Contract. This Agreement is created through the use of an Ethereum smart contract at *otoco.eth*. Any amendments to this Agreement shall only be valid if made on the strongest chain of the Ethereum main blockchain at the time of the amendment and under the conditions of this Agreement. Any signature or execution made through the use of private keys on the blockchain for any matters relating to the Company shall be valid, as if signed in writing”","Mon, 19 Jan 1970 11:09:02 GMT",1595006121.103300,,,0
+1595342652.112900,U017EF8VBS4,"and finally COMPANY: By: 0x1234567809182850091892384029281384, Manager","Mon, 19 Jan 1970 11:09:02 GMT",1595006121.103300,,,0
+1594871784.101900,U0172CM3049,"I came across Gardens DAO, thought of sharing here: <https://forum.1hive.org/t/gardens-overview/32>
+they have a compiled hacker kit too, <https://github.com/1Hive/hacker-kit>","Mon, 19 Jan 1970 11:01:11 GMT",1594871784.101900,,"[{""name"":""raised_hands"",""users"":[""U016W05TXUL"",""U016C8XH6NR"",""U016KTNL5QW"",""U01758R70F3"",""U016HFP7P2A""],""count"":5}]",5
+1595261448.111400,U01758R70F3,Gardens is so sikkk,"Mon, 19 Jan 1970 11:07:41 GMT",1594871784.101900,,,0
+1594822524.100000,U016PUK3G9Z,Hackathon Extended for one week,"Mon, 19 Jan 1970 11:00:22 GMT",,,"[{""name"":""raised_hands"",""users"":[""U016KTNL5QW"",""U016HAELGES"",""U016C8XH6NR"",""U016Q1J7Y83"",""U016NEJETQV""],""count"":5}]",5
+1594822490.099500,U016PUK3G9Z,<https://daohackmonth.substack.com/p/extensions-criteria-and-final-submission>,"Mon, 19 Jan 1970 11:00:22 GMT",,,,0
+1594821681.099200,U016KTNL5QW,"Aragon DAO using conviction voting on xDAI, xMOON (Reddit r/cyrptocurrency synthetic) used for collateral :
+<https://aragon.1hive.org/#/0x55aab6f480292a1896aeb843ecc46db0241d45d6/0x95f3a3246529e382911ef95ce9bbdec9b3f82d44/>","Mon, 19 Jan 1970 11:00:21 GMT",,,,0
+1594821589.097700,U016KTNL5QW,FYI : repo with work in progress cadcad model exploring conviction voting <https://github.com/BlockScience/Aragon_Conviction_Voting>,"Mon, 19 Jan 1970 11:00:21 GMT",,,"[{""name"":""+1"",""users"":[""U016PUK3G9Z""],""count"":1}]",1
+1594694212.096800,U017GEXRXB2,<@U017GEXRXB2> has joined the channel,"Mon, 19 Jan 1970 10:58:14 GMT",,,,0
+1594651760.095100,U016PUK3G9Z,"Thanks, everyone for the productive meeting on DAOs, special thanks to <@U016KTNL5QW> for providing guidance through topic!","Mon, 19 Jan 1970 10:57:31 GMT",1594651760.095100,U016KTNL5QW,,0
+1594652429.095200,U016KTNL5QW,":raised_hands: thanks for everyone that joined the call this morning, going to start a reference document <https://hackmd.io/quuVK_m1Qhyz7e73tqytog> please add/update","Mon, 19 Jan 1970 10:57:32 GMT",1594651760.095100,,,0
+1594649175.093700,U016PUK3G9Z,"it seems that I have some issues loading Airmeet, is anyone joining?","Mon, 19 Jan 1970 10:57:29 GMT",,,,0
+1594647043.092700,U016PUK3G9Z,"just a reminder, DAO meetup - in 30 mins on Airmeet","Mon, 19 Jan 1970 10:57:27 GMT",,,,0
+1594641348.091900,U016WSQKPCL,":rotating_light:*DAO side chain voting* :rotating_light:
+Check our post in projects to find out more, super relevant for all DAO folks :slightly_smiling_face:
+<https://kernel-community.slack.com/archives/C0165LH4ZV5/p1594629765434300>","Mon, 19 Jan 1970 10:57:21 GMT",1594641348.091900,,"[{""name"":""raised_hands"",""users"":[""U016PUK3G9Z"",""U016NEJETQV""],""count"":2}]",2
+1594694201.096400,U017EGEH0SC,"<@U016WSQKPCL> <@U017GEXRXB2> <@U016NEJETQV> I'd love to have a chat, I think this could be built on top of FightPandemics also. Please check what I'm working on: <https://www.notion.so/fightpandemics/FightPandemics-105070e6e889448eabf7591607846cc2>
+
+We have over 600 people contributing in less than 3 months and over 2500 applications in 1 month.
+
+Currently, everything is web2 but we are planning to enable DAO capabilities in our V2. Please check our MVP: <https://vimeo.com/406824494>","Mon, 19 Jan 1970 10:58:14 GMT",1594641348.091900,"U016WSQKPCL,U017GEXRXB2,U016NEJETQV","[{""name"":""+1"",""users"":[""U016WSQKPCL"",""U017GEXRXB2""],""count"":2}]",2
+1594580248.088200,U016PUK3G9Z,"hi Amy, tomorrow at 7 AM PT, we will have an e-meeting in Airmeet, join us and share your ideas.","Mon, 19 Jan 1970 10:56:20 GMT",1594580248.088200,,"[{""name"":""raised_hands"",""users"":[""U016Z7XQC7N""],""count"":1}]",1
+1594580819.089200,U016Z7XQC7N,Thanks!!! I must admit 7am is sleep time but I’ll try to rally,"Mon, 19 Jan 1970 10:56:20 GMT",1594580248.088200,,"[{""name"":""raised_hands"",""users"":[""U016PUK3G9Z""],""count"":1}]",1
+1594580934.090400,U016Z7XQC7N,we will have a project specific juntos as well is this of interest?,"Mon, 19 Jan 1970 10:56:20 GMT",1594580248.088200,,,0
+1594579720.085700,U016Z7XQC7N,"We want to Buidl a governance system for our project to empower stewards, NGOs and experts to provide a checks and balances to the system 
+I’m hoping to find some buidler here on this and in the least we will hold a governance junto to design the system 
+
+Checking in on Dao experts and idealists to join for collective intelligence and heart led intentions to be inputted  
+
+Will post the junto once scheduled here.
+
+If anyone interested let me know ;)
+
+Ps we are also looking to insure off chain no gas until completed vote to insure all players can participate without costing a fortune as ideally this will be a robust ecosystem with a lot of players
+","Mon, 19 Jan 1970 10:56:19 GMT",1594579720.085700,,,0
+1594693913.095700,U017EGEH0SC,I'm also working towards this idea,"Mon, 19 Jan 1970 10:58:13 GMT",1594579720.085700,,,0
+1594693924.095900,U017EGEH0SC,Here you can find some info: <https://www.notion.so/fightpandemics/FightPandemics-105070e6e889448eabf7591607846cc2>,"Mon, 19 Jan 1970 10:58:13 GMT",1594579720.085700,,,0
+1594693939.096200,U017EGEH0SC,We haven't started yet with the DAO capabilities.,"Mon, 19 Jan 1970 10:58:13 GMT",1594579720.085700,,,0
+1594694234.096900,U017EGEH0SC,Here is our MVP: <https://vimeo.com/406824494>,"Mon, 19 Jan 1970 10:58:14 GMT",1594579720.085700,,,0

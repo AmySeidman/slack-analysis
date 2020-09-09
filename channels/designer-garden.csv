@@ -1,0 +1,210 @@
+id,user,text,timestamp,in_reply_to,mentioned_users,reactions,total_reactions
+1598646591.006500,U018QN6A932,Looking for a brand designer to design a logo and brand palette. Would like to see a portfolio of past work. DM me to talk <@U018QN6A932>,"Mon, 19 Jan 1970 12:04:06 GMT",,U018QN6A932,,0
+1598556127.002700,U017E8XAW0G,:slightly_smiling_face:,"Mon, 19 Jan 1970 12:02:36 GMT",1598556127.002700,,,0
+1598556232.003500,U0169FVV2LF,Let me know if you are! Not web3 related just fyi ,"Mon, 19 Jan 1970 12:02:36 GMT",1598556127.002700,,,0
+1598556061.002500,U016W0C1FNG,<@U017E8XAW0G> is a great designer. Not sure if he’s looking :joy:,"Mon, 19 Jan 1970 12:02:36 GMT",,U017E8XAW0G,,0
+1598554443.001900,U0169FVV2LF,Anyone designers here looking for jobs? Hoping to refer someone for a good friend’s company ,"Mon, 19 Jan 1970 12:02:34 GMT",,,,0
+1598431897.000500,U016X212QMA,Greate Link Collection for Designer: <https://bookmarkos.com/f/m9u8hx0GPZU>,"Mon, 19 Jan 1970 12:00:31 GMT",,,"[{""name"":""raised_hands"",""users"":[""U016C8XH6NR""],""count"":1},{""name"":""seedling"",""users"":[""U016PP38YLA""],""count"":1}]",2
+1597221404.126500,U016WQPK6J0,Been messing around with some designs for our GoodGhosting mascot - Ghosty :ghost:. I'm not a designer so feedback welcome :-),"Mon, 19 Jan 1970 11:40:21 GMT",1597221404.126500,,"[{""name"":""+1"",""users"":[""U016NEJETQV"",""U016C8XH6NR"",""U0169JV8C95"",""U016Z7XQC7N"",""U016H5ETT6J""],""count"":5}]",5
+1597221703.126900,U0172CB3649,cute :blush:,"Mon, 19 Jan 1970 11:40:21 GMT",1597221404.126500,,,0
+1597224506.127200,U016WQPK6J0,<@U0172CB3649> Thanks-  just did the first tweet :ghost:<https://twitter.com/goodghosting/status/1293478897426804737>,"Mon, 19 Jan 1970 11:40:24 GMT",1597221404.126500,U0172CB3649,,0
+1597338856.128000,U016Z7XQC7N,I actually like them!,"Mon, 19 Jan 1970 11:42:18 GMT",1597221404.126500,,,0
+1597091131.124500,U01758RQ941,"<@U016QN5HLLB> @here tomorrow is the #junto if you're interested to join, would like to also learn from your experience, on mashup Design Thinking with Systems Thinking and Computer-aided Design: <http://evt.to/imemimew|http://evt.to/imemimew>","Mon, 19 Jan 1970 11:38:11 GMT",1595454415.104100,U016QN5HLLB,"[{""name"":""fire"",""users"":[""U016QN5HLLB"",""U016WQPK6J0"",""U017DN0DZ08"",""U0172G1A28H""],""count"":4}]",4
+1596799047.123600,U016WQPK6J0,Ive just been sent this and its pretty useful for design resources <https://github.com/bradtraversy/design-resources-for-developers>,"Mon, 19 Jan 1970 11:33:19 GMT",,,"[{""name"":""raised_hands"",""users"":[""U016NEJETQV"",""U0172CB3649"",""U0172CM3049"",""U017E8XAW0G"",""U016C909613"",""U0172G1A28H""],""count"":6}]",6
+1596646213.120700,U0169D94QCX,<!here> can anyone recommend a good dApp design that illustrates how to properly display transaction statuses to the user?  The transaction is critical to blockchain apps - so how do other products display to the user the status of a transaction?  Thank you!,"Mon, 19 Jan 1970 11:30:46 GMT",1596646213.120700,,,0
+1596646318.121000,U017EP3GQM6,Yeah you can checkout  <https://mainnet.aragon.org/> and uniswap app.,"Mon, 19 Jan 1970 11:30:46 GMT",1596646213.120700,,"[{""name"":""+1"",""users"":[""U0169D94QCX""],""count"":1}]",1
+1596646366.121200,U016Q117G67,Rimble Design System should help you too.,"Mon, 19 Jan 1970 11:30:46 GMT",1596646213.120700,,"[{""name"":""+1"",""users"":[""U0169D94QCX"",""U016HAELGES""],""count"":2}]",2
+1596646684.121400,U016R8N9NKX,Blocknative also has nice transaction notification pop ups,"Mon, 19 Jan 1970 11:30:46 GMT",1596646213.120700,,"[{""name"":""+1"",""users"":[""U0169D94QCX"",""U0172BR9Q8H"",""U017E885WBA""],""count"":3}]",3
+1596655184.122200,U016PF28WVB,"^^ Agreed. Notify is good, here are the important things: <https://github.com/blocknative/notify|github> - <https://www.npmjs.com/package/bnc-notify|npm docs> - <https://docs.blocknative.com/notify|docs>","Mon, 19 Jan 1970 11:30:55 GMT",1596646213.120700,,"[{""name"":""+1"",""users"":[""U016R8N9NKX""],""count"":1}]",1
+1596150844.108000,U017E885WBA,"hi wanted some feedback on validating a concept, problem is we need to do a video to explain the concept.
+<https://www.youtube.com/watch?v=K0Tk3RF_SAw&amp;feature=youtu.be>
+any tools or suggestions to make this prototype better? it the video cant explained the concept is sort of defeat the purpose.
+
+I guess we can hire somebody with video editing experience. Any suggestions or feedback on the video? is it easy to understand the concept from the video?","Mon, 19 Jan 1970 11:22:30 GMT",1596150844.108000,,,0
+1596152098.110400,U016H5ETT6J,"Hey Doug! Think I got it in the second watch. Let me explain:
+
+The ad which is in the game can be changed by your app dynamically (I can be totally off here :sweat_smile:). Maybe some text of what needs to happen need to come","Mon, 19 Jan 1970 11:22:32 GMT",1596150844.108000,,"[{""name"":""pray"",""users"":[""U017E885WBA""],""count"":1}]",1
+1596152280.112200,U017E885WBA,"yes yes thats exactly what we are trying to test, lol. Not great at video editing","Mon, 19 Jan 1970 11:22:32 GMT",1596150844.108000,,,0
+1596152333.113500,U017E885WBA,"i am checking in fiverr if somebody can make a better hi quality video, but wasnt sure if this is enough to provide feedback on the concept, it is a tricky video to make, you need a live stream and the changes on the screen, etc","Mon, 19 Jan 1970 11:22:32 GMT",1596150844.108000,,,0
+1596152367.114600,U016H5ETT6J,"take these tips with a pinch of salt
+• Some text before demo
+• zoom in to QR code and part of the app, doing so in the video will work in showing they are different
+
+What video editor are you guys using, try after effects if it’s available. Also keeping video to 30 sec or less will avoid having another video for app store (ios only allows 30s and I think so does android)","Mon, 19 Jan 1970 11:22:32 GMT",1596150844.108000,,,0
+1596152409.115100,U017E885WBA,thanks,"Mon, 19 Jan 1970 11:22:32 GMT",1596150844.108000,,,0
+1596152503.117600,U016H5ETT6J,"Fiver should do, easy to have the video as a scene on monitor, and then mobile can come in, then zoom to the parts for extra focus and clarity and it should come out great! Hit me up if you need any tips or any help, also cool concept :sunglasses:","Mon, 19 Jan 1970 11:22:32 GMT",1596150844.108000,,"[{""name"":""pray"",""users"":[""U017E885WBA""],""count"":1}]",1
+1596152567.117800,U017E885WBA,"thanks a lot will do, we plan to build a landing and start getting signups along with user interviews and the video so they can get the concept","Mon, 19 Jan 1970 11:22:32 GMT",1596150844.108000,,"[{""name"":""raised_hands"",""users"":[""U016H5ETT6J""],""count"":1}]",1
+1595454415.104100,U016QN5HLLB,"<!here> Ty kindly <@U01758RQ941> For starting a systems design theme here! It is imperative for these initial conditions of web3. Both of these are beautiful examples of the power of wicked solutions for wicked problems in the cutting edge of systems design models:
+•  <https://www.youtube.com/watch?v=D7qML81Akus&amp;feature=youtu.be|RadicalxChange workshop w/DaDa's Invisible Economy &amp; Harvard's Primavera De Filippi>. 
+• <https://vimeo.com/363351286|Concurrentes From MITs Fabricademy>
+Beautiful example of system(s) design, digital fabrication, indigenous modes &amp; SDGs. The mentors of this course have our deepest admiration &amp; their student's systems design in this context is one of our main inspirations :heart:","Mon, 19 Jan 1970 11:10:54 GMT",1595454415.104100,,"[{""name"":""raised_hands"",""users"":[""U0173GGMBJQ"",""U017DN0DZ08"",""U01758RQ941"",""U016SKSS8AW""],""count"":4},{""name"":""rainbow"",""users"":[""U016Z7XQC7N"",""U017DN0DZ08"",""U01758RQ941""],""count"":3}]",7
+1595963201.105900,U01758RQ941,"Spent 4 days with Bea and DADA team in our very first ""Ecosystem Value Flows"" course in Token Engineering Academy! And yes, they have a unique ""cryptoeconomic pattern"" I haven't seen before, and especially if what is being funded is of creative nature, also applicable to others I've seen, e.g. funding early research, or our very own token engineering community, which is a knowledge network... Thank you for sharing the links here. Would love to know how you are applying systems thinking","Mon, 19 Jan 1970 11:19:23 GMT",1595454415.104100,,,0
+1597091131.124500,U01758RQ941,"<@U016QN5HLLB> @here tomorrow is the #junto if you're interested to join, would like to also learn from your experience, on mashup Design Thinking with Systems Thinking and Computer-aided Design: <http://evt.to/imemimew|http://evt.to/imemimew>","Mon, 19 Jan 1970 11:38:11 GMT",1595454415.104100,U016QN5HLLB,"[{""name"":""fire"",""users"":[""U016QN5HLLB"",""U016WQPK6J0"",""U017DN0DZ08"",""U0172G1A28H""],""count"":4}]",4
+1595432286.097500,U0176E6JUMA,"Hey friends, Andrej here from Deep Work! If you’ve been participating at the interactive workshop yesterday (interpreting user feedback and retrospective) and last week (prototyping and user testing) I just wanted to follow up with a few notes about yesterday.
+
+*Here’s the board with all the examples you can use as a template and combine your own meeting flow:*
+<https://miro.com/miroverse/category/workshops/meeting-legos>
+
+*Why writing down negatives in general?*
+This was a question I didn’t get to answer openly yesterday but in the exercise we started by writing down “things that didn’t go so well” or may be problematic regarding the product development. In the weekly retrospective, I would write down everything positive first, to make sure everyone sees what went well and has developed in a positive direction. This is important, because it shows whether the team is still on track. Afterwards, you write down all the things that didn’t go so well. They are equally (or even more) important because they highlight what you might have skipped or overlooked. It’s a powerful reality-check that will help you understand what doesn’t work and where to put more work in to stay on track.
+
+*In the context of working with user feedback as a team*, instead of “writing out negatives”, start off by having the interviewer (who ran the interviews) presenting all answers, while everyone else writes down what resonates with them. That will give you a wall of post-its with the most important parts of the user feedback. You can then move on to prioritising them, finding solutions, doing the effort/impact scale, etc.
+
+*On prototyping fast:*
+<https://medium.com/deep-work-studio/how-to-prototype-anything-in-one-day-3d81a7f68e10>
+
+*How to run usertests:*
+<https://www.notion.so/deepworkstudio/How-to-run-user-tests-fast-0e3ea190c9a34afabeb7eef9fdd7ef69>
+
+I hope that makes sense, if you have questions feel free to reach out. Have a great rest of the week!","Mon, 19 Jan 1970 11:10:32 GMT",,,"[{""name"":""heart"",""users"":[""U01733WAA1F"",""U016C8XH6NR"",""U016C909613"",""U016M08G1M4"",""U017E2A2KPS"",""U016QN5HLLB"",""U016YR2PVB6"",""U017DN0DZ08"",""U016SKSS8AW"",""U016Z7XQC7N""],""count"":10},{""name"":""rainbow"",""users"":[""U016C8XH6NR"",""U016C909613"",""U016M08G1M4"",""U017E2A2KPS"",""U016HPVFV54"",""U0169FVV2LF"",""U017DN0DZ08"",""U016SKSS8AW""],""count"":8},{""name"":""party_parrot"",""users"":[""U016C8XH6NR"",""U016C909613"",""U016M08G1M4"",""U017E2A2KPS"",""U0172G1A28H"",""U016A43FT0F"",""U0169476M7Z"",""U016T0QSCMT"",""U017DN0DZ08"",""U016SKSS8AW""],""count"":10},{""name"":""heavy_plus_sign"",""users"":[""U016M08G1M4"",""U017E2A2KPS"",""U017DN0DZ08"",""U016SKSS8AW""],""count"":4},{""name"":""fire"",""users"":[""U016A43FT0F"",""U017DN0DZ08"",""U016SKSS8AW""],""count"":3}]",35
+1595344258.088100,U0176E6JUMA,<@U0176E6JUMA> has joined the channel,"Mon, 19 Jan 1970 11:09:04 GMT",,,,0
+1595231470.086000,U0169MFLKQF,When a developer works in design :rolling_on_the_floor_laughing::rolling_on_the_floor_laughing: (My Semsem),"Mon, 19 Jan 1970 11:07:11 GMT",1595231470.086000,,"[{""name"":""party_parrot"",""users"":[""U016T0QSCMT"",""U016Z7XQC7N"",""U016SKSS8AW""],""count"":3},{""name"":""+1"",""users"":[""U016T0QSCMT"",""U01692ECHKR""],""count"":2},{""name"":""butterfly"",""users"":[""U016Z7XQC7N""],""count"":1}]",6
+1595295311.087000,U016Z7XQC7N,:laughing:,"Mon, 19 Jan 1970 11:08:15 GMT",1595231470.086000,,,0
+1597652489.128300,U016UNBDY5R,Whaaa...?,"Mon, 19 Jan 1970 11:47:32 GMT",1595231470.086000,,,0
+1594949388.082300,U017E2A2KPS,"So along the lines of building quality products I started thinking a certain mindset would be required to do so. An unlearning /relearning process perhaps? I googled decentralized mindset and found this: 
+<https://dmsi.io/landing-ico-1/|https://dmsi.io/landing-ico-1/>
+
+May or may not be  useful for those building online learning platforms. <@U017ECUHDGQ> <@U01742DST7B>   
+
+Going back to mindset if one had to create key pillars of the decentralized mindset required to build :diamonds:products any ideas on what those would be?
+
+:pray::pray::pray:","Mon, 19 Jan 1970 11:02:29 GMT",1594949388.082300,"U017ECUHDGQ,U01742DST7B",,0
+1594950473.082800,U017E885WBA,"Hey, thats an interesting take. My 2 cents are on product is always start with the user and his experience and disregard at least at the start the ""how"" of the decentralization or underlying technology ala Steve Jobs. If the platform is useful or brings value you can figure out in phases how to decentralize.
+
+See this:
+<https://a16z.com/2020/01/09/progressive-decentralization-crypto-product-management/>
+
+But making a hard requirement full decentralization at the onset sacrificing experience may hinder the engagement or value to the users.
+
+It is very general and depends on the platform of course, but i find it a good framework to begin with.","Mon, 19 Jan 1970 11:02:30 GMT",1594949388.082300,,"[{""name"":""raised_hands"",""users"":[""U016HAELGES"",""U0172G1A28H"",""U01742DST7B"",""U017E2A2KPS"",""U016A43FT0F""],""count"":5},{""name"":""heavy_check_mark"",""users"":[""U017E2A2KPS""],""count"":1},{""name"":""100"",""users"":[""U017E2A2KPS""],""count"":1}]",7
+1595066895.084600,U017E2A2KPS,Thank you <@U017E885WBA> Appreciate you sharing your perspective.,"Mon, 19 Jan 1970 11:04:26 GMT",1594949388.082300,U017E885WBA,,0
+1594931030.074700,U016C8XH6NR,Putting a slack reminder for this message to read tomorrow. <@U01758RQ941>,"Mon, 19 Jan 1970 11:02:11 GMT",,U01758RQ941,"[{""name"":""sparkles"",""users"":[""U01758RQ941"",""U017E2A2KPS"",""U016HBVGSP8"",""U016QN5HLLB""],""count"":4}]",4
+1594928241.073500,U01758RQ941,"Here's more links from ""Ecosystems Value Flow"" module of Token Model Generation course we're prepping in Token Engineering : <https://docs.google.com/document/d/1Vt45eAGXc41DsC0s6vYODgMdWoctQyC4i9JfLd-Jmsg/edit?usp=sharing>","Mon, 19 Jan 1970 11:02:08 GMT",,,,0
+1594928111.071600,U01758RQ941,"Let's consider the possibility that we might not be building products only: have a look at  these newer perspectives too e.g. ""From Design Thinking to Systems Change"" , the motto being: Think like a system, act like an entrepreneur","Mon, 19 Jan 1970 11:02:08 GMT",1594928111.071600,,"[{""name"":""raised_hands"",""users"":[""U016HBVGSP8"",""U0172CB3649"",""U016Q3TCF45"",""U016QN5HLLB"",""U016Z7XQC7N""],""count"":5}]",5
+1594946900.075200,U017E2A2KPS,Great share <@U01758RQ941> would love to attend a junto on this.,"Mon, 19 Jan 1970 11:02:26 GMT",1594928111.071600,U01758RQ941,,0
+1594915738.068900,U016HBVGSP8,For those who wanted an introduction to design thinking or a quick summary of it. This is worth reading. Cheers!,"Mon, 19 Jan 1970 11:01:55 GMT",,,"[{""name"":""raised_hands"",""users"":[""U0178QR6RH7"",""U01758RQ941"",""U0172CB3649"",""U016Z7XQC7N"",""U016SKSS8AW""],""count"":5}]",5
+1594839147.066900,U016Q117G67,design page finally updated :tada: <https://kernel.community/resources/design-spec/>,"Mon, 19 Jan 1970 11:00:39 GMT",,,"[{""name"":""heavy_check_mark"",""users"":[""U017E2A2KPS"",""U0172G1A28H""],""count"":2},{""name"":""heart"",""users"":[""U0169D94QCX"",""U016Z7XQC7N""],""count"":2},{""name"":""raised_hands"",""users"":[""U016Z7XQC7N""],""count"":1}]",5
+1594827888.065100,U016Q117G67,"Hey team! I have added the content shared by Andrej today into our Design resources, as well as the board above and whatever else I could keep track of :sweat_smile: gh-pages is not currently updating, but I promise the update is there and the design page has been re-organised (in a hopefully useful way - please provide user feedback when it is showing up :wink:)","Mon, 19 Jan 1970 11:00:27 GMT",1594827888.065100,,"[{""name"":""pray"",""users"":[""U016M08G1M4"",""U016C8XH6NR"",""U01691XLMD5"",""U0172CB3649"",""U016R0Q31V1"",""U016WJZNNS0"",""U016SKSS8AW""],""count"":7},{""name"":""seedling"",""users"":[""U01691XLMD5"",""U0172CB3649"",""U017EF8VBS4""],""count"":3}]",10
+1594740062.026600,U016YQPEDU4,<@U016YQPEDU4> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740062.026400,U016Y4634MS,<@U016Y4634MS> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740061.026200,U016XTFTULU,<@U016XTFTULU> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740061.025900,U016X7E5G4U,<@U016X7E5G4U> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740061.025700,U016X212QMA,<@U016X212QMA> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740061.025500,U016WSQKPCL,<@U016WSQKPCL> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740060.025300,U016WQPK6J0,<@U016WQPK6J0> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740060.025100,U016WKUSD5J,<@U016WKUSD5J> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740060.024900,U016WJZNNS0,<@U016WJZNNS0> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740060.024700,U016W4S9ZGU,<@U016W4S9ZGU> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740060.024500,U016W0C1FNG,<@U016W0C1FNG> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740059.024300,U016W05TXUL,<@U016W05TXUL> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740059.024100,U016VVB0R7E,<@U016VVB0R7E> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740059.023900,U016VVA5S7N,<@U016VVA5S7N> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740059.023700,U016VTJACBW,<@U016VTJACBW> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740059.023500,U016VTDLG5S,<@U016VTDLG5S> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740059.023300,U016VFKJU0K,<@U016VFKJU0K> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740058.023000,U016V1ACHKP,<@U016V1ACHKP> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740058.022800,U016UNBDY5R,<@U016UNBDY5R> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740058.022600,U016TPYEEBC,<@U016TPYEEBC> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740058.022400,U016T0QSCMT,<@U016T0QSCMT> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740058.022100,U016SRX7V1R,<@U016SRX7V1R> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740057.021900,U016SRX1HEF,<@U016SRX1HEF> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740057.021700,U016SRWRM2P,<@U016SRWRM2P> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740057.021500,U016SRWLF3M,<@U016SRWLF3M> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740057.021100,U016SKT2WLS,<@U016SKT2WLS> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740057.020900,U016SKSS8AW,<@U016SKSS8AW> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740057.020700,U016SKSLW9G,<@U016SKSLW9G> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740056.020200,U016SJF24PP,<@U016SJF24PP> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740056.020000,U016S933QQ1,<@U016S933QQ1> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740056.019800,U016RCGRND8,<@U016RCGRND8> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740056.019500,U016R8NL71T,<@U016R8NL71T> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740056.019300,U016R8NEW93,<@U016R8NEW93> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740055.019100,U016R8N9NKX,<@U016R8N9NKX> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740055.018600,U016R8MQL4D,<@U016R8MQL4D> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740055.018400,U016R4HAMS6,<@U016R4HAMS6> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740055.018200,U016R4537V1,<@U016R4537V1> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740054.018000,U016R0Q31V1,<@U016R0Q31V1> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740054.017800,U016QSTSQQM,<@U016QSTSQQM> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740054.017600,U016QSG6Y4A,<@U016QSG6Y4A> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740054.017400,U016QNB6M3M,<@U016QNB6M3M> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740054.017200,U016QN5HLLB,<@U016QN5HLLB> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740054.017000,U016QLH0DFV,<@U016QLH0DFV> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740053.016800,U016QGJJM8B,<@U016QGJJM8B> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740053.016600,U016QFUSBRB,<@U016QFUSBRB> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740053.016400,U016QF0J6G3,<@U016QF0J6G3> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740053.016200,U016QF0FATC,<@U016QF0FATC> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740053.016000,U016Q825Y3U,<@U016Q825Y3U> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740053.015800,U016Q6Q9CLA,<@U016Q6Q9CLA> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740052.015600,U016Q5HFSF5,<@U016Q5HFSF5> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740052.015400,U016Q3TCF45,<@U016Q3TCF45> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740052.015200,U016Q3JK0RH,<@U016Q3JK0RH> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740052.015000,U016Q31RVT5,<@U016Q31RVT5> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740052.014800,U016Q1TSFSN,<@U016Q1TSFSN> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740051.014600,U016Q1TQAKV,<@U016Q1TQAKV> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740051.014400,U016Q1J7Y83,<@U016Q1J7Y83> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740051.014200,U016Q117G67,<@U016Q117G67> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740050.014000,U016Q0F66FM,<@U016Q0F66FM> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740050.013800,U016Q01RH5H,<@U016Q01RH5H> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740050.013600,U016PVCCZDG,<@U016PVCCZDG> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740050.013400,U016PUP7D5Z,<@U016PUP7D5Z> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740050.013200,U016PUK3G9Z,<@U016PUK3G9Z> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740050.013000,U016PP38YLA,<@U016PP38YLA> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740049.012800,U016PNPMFSN,<@U016PNPMFSN> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740049.012600,U016PNNDFE1,<@U016PNNDFE1> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740049.012400,U016PF28WVB,<@U016PF28WVB> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740048.012200,U016PEM9U5B,<@U016PEM9U5B> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740048.012000,U016P59R9PG,<@U016P59R9PG> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740048.011800,U016NHHCE3F,<@U016NHHCE3F> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740048.011600,U016NEJETQV,<@U016NEJETQV> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740047.011400,U016NDJ9QLV,<@U016NDJ9QLV> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740047.011200,U016ND71JPP,<@U016ND71JPP> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740047.011000,U016MS3TBGE,<@U016MS3TBGE> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740047.010800,U016MASHCGN,<@U016MASHCGN> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740046.010600,U016M08G1M4,<@U016M08G1M4> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740046.010400,U016KTNL5QW,<@U016KTNL5QW> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740046.010200,U016KTNEFTQ,<@U016KTNEFTQ> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740045.009900,U016KTN2V46,<@U016KTN2V46> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740045.009600,U016KTMLS14,<@U016KTMLS14> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740045.009200,U016JSFCANS,<@U016JSFCANS> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740045.009000,U016HTJ5Q4W,<@U016HTJ5Q4W> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740044.008800,U016HR010LE,<@U016HR010LE> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740044.008600,U016HPVFV54,<@U016HPVFV54> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740044.008400,U016HL16614,<@U016HL16614> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740043.008200,U016HFP7P2A,<@U016HFP7P2A> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740043.008000,U016HBVGSP8,<@U016HBVGSP8> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740043.007800,U016HAELGES,<@U016HAELGES> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740043.007600,U016H5ETT6J,<@U016H5ETT6J> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740042.007400,U016H45HV2S,<@U016H45HV2S> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740042.007200,U016H35D04W,<@U016H35D04W> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740042.007000,U016G7SR31V,<@U016G7SR31V> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740042.006800,U016FDAC4LT,<@U016FDAC4LT> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740042.006600,U016DUE2US3,<@U016DUE2US3> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740041.006400,U016DN2FYQ7,<@U016DN2FYQ7> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740041.006200,U016DKFKRCP,<@U016DKFKRCP> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740041.006000,U016DH7MR8F,<@U016DH7MR8F> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740041.005800,U016C909613,<@U016C909613> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740041.005400,U016BTBS3MM,<@U016BTBS3MM> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740040.004900,U016BBRUNDV,<@U016BBRUNDV> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740040.004700,U016AMDF215,<@U016AMDF215> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740040.004500,U016A4S0PFZ,<@U016A4S0PFZ> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740040.004300,U016A43FT0F,<@U016A43FT0F> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740039.004100,U0169SK5CDD,<@U0169SK5CDD> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740039.003900,U0169MPEV3R,<@U0169MPEV3R> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740039.003700,U0169MFLKQF,<@U0169MFLKQF> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740039.003500,U0169LT9UPR,<@U0169LT9UPR> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740038.003300,U0169L5EEUF,<@U0169L5EEUF> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740038.003100,U0169JV8C95,<@U0169JV8C95> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740038.002900,U0169JE8HV5,<@U0169JE8HV5> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740038.002700,U0169HB0BKR,<@U0169HB0BKR> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740038.002500,U0169G302JK,<@U0169G302JK> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740038.002300,U0169G0QPAB,<@U0169G0QPAB> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740038.002100,U0169FVV2LF,<@U0169FVV2LF> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740038.001900,U0169D94QCX,<@U0169D94QCX> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740038.001700,U01699S9E5V,<@U01699S9E5V> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740038.001500,U0169476M7Z,<@U0169476M7Z> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740038.001300,U01693HHP9V,<@U01693HHP9V> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740037.001100,U01692ECHKR,<@U01692ECHKR> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740037.000900,U01692CEFQF,<@U01692CEFQF> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594740037.000700,U01691XLMD5,<@U01691XLMD5> has joined the channel,"Mon, 19 Jan 1970 10:59:00 GMT",,,,0
+1594739517.000500,U016ZPHMHL4,<@U016ZPHMHL4> has joined the channel,"Mon, 19 Jan 1970 10:58:59 GMT",,,,0
+1594739243.000300,U016C8XH6NR,<@U016C8XH6NR> set the channel purpose: Help each other kill or build the product,"Mon, 19 Jan 1970 10:58:59 GMT",,,,0
+1594739242.000200,U016C8XH6NR,<@U016C8XH6NR> has joined the channel,"Mon, 19 Jan 1970 10:58:59 GMT",,,,0

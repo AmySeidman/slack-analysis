@@ -1,0 +1,115 @@
+id,user,text,timestamp,in_reply_to,mentioned_users,reactions,total_reactions
+1598554137.006600,U0169FVV2LF,Anyone know why metamask might show a crazy high gas limit instead of telling me the tx would revert?,"Mon, 19 Jan 1970 12:02:34 GMT",1598554137.006600,,,0
+1598562195.006700,U016T0QSCMT,We just call that metamask jank,"Mon, 19 Jan 1970 12:02:42 GMT",1598554137.006600,,"[{""name"":""joy"",""users"":[""U0169FVV2LF""],""count"":1}]",1
+1598769187.001000,U016Z7XQC7N,Think it’s because Defi has clogged ethereum and caused gas price spikes,"Mon, 19 Jan 1970 12:06:09 GMT",1598554137.006600,,,0
+1598883966.002900,U0169FVV2LF,shouldn’t be $300 dollars for an erc20 approve. That would basically break all of defi. And other transactions are going through with expected gas limits. It’s an error in code execution but metamask is increasing gas limit instead of saying it will revert. Which it does,"Mon, 19 Jan 1970 12:08:03 GMT",1598554137.006600,,"[{""name"":""+1"",""users"":[""U016Z7XQC7N""],""count"":1}]",1
+1598554105.005500,U0169FVV2LF,It was actually just an erc20 approve but transfers were not enabled so transaction would fail in any case,"Mon, 19 Jan 1970 12:02:34 GMT",,,,0
+1598554043.004200,U0169FVV2LF,Has anyone experienced this—got a really high tx on a simple function that should have otherwise reverted but I didn’t realize that until looking back at the code. It was gonna cost like $300 but should have been more like $1 so I knew something was wrong,"Mon, 19 Jan 1970 12:02:34 GMT",,,,0
+1597468510.210500,U0169JV8C95,<@U016Q1TSFSN>  <https://kernel.community/resources/smart-contracts/>,"Mon, 19 Jan 1970 11:44:28 GMT",,,,0
+1597465591.209000,U016Q1TSFSN,Hey guys for those who want to learn smart contracts for first time can you put me in the right direction,"Mon, 19 Jan 1970 11:44:25 GMT",1597465591.209000,,,0
+1597506727.210900,U0169D94QCX,"Roshan, start with the game CryptoZombies.  It's excellent for beginners...","Mon, 19 Jan 1970 11:45:06 GMT",1597465591.209000,,"[{""name"":""+1"",""users"":[""U016Q1TSFSN""],""count"":1}]",1
+1598282906.000900,U016X7E5G4U,"CryptoZombies is a very noob-friendly way, yes.
+Also check out the Kernel page on getting started: <https://kernel.community/resources/smart-contracts/>","Mon, 19 Jan 1970 11:58:02 GMT",1597465591.209000,,,0
+1597253006.185900,U016Q31RVT5,"When you post a transaction a lot of clients do a simulation first. If you try to post a transaction that reverts in eg remix, you get a popup saying “this tx will probably fail, are you sure?”. If you say “yes” the tx will be posted, and will cost you gas up to the point of revert. If you say “no” then the tx is not posted and no gas cost.","Mon, 19 Jan 1970 11:40:53 GMT",1597234681.178600,,"[{""name"":""+1"",""users"":[""U0169JV8C95"",""U016PUP7D5Z"",""U0172G1A28H""],""count"":3}]",3
+1597236469.180100,U016PUP7D5Z,So i was poking around flashloans and found an amazing tool <https://furucombo.app/>,"Mon, 19 Jan 1970 11:40:36 GMT",1597236469.180100,,,0
+1597245693.180700,U016C8XH6NR,"This is great, but It doesn’t have simulation though. Have you tried executing one yet? :thinking_face:","Mon, 19 Jan 1970 11:40:45 GMT",1597236469.180100,,,0
+1597297659.206500,U016PUP7D5Z,$100 tx fees xD this ain't no time to mess around with ethereum,"Mon, 19 Jan 1970 11:41:37 GMT",1597236469.180100,,,0
+1597297732.206700,U016PUP7D5Z,What do you mean by simulation? It tells you how much eth you'll get and different exchange rates,"Mon, 19 Jan 1970 11:41:37 GMT",1597236469.180100,,,0
+1597300261.207200,U016C8XH6NR,"Lol yeah, on the gas prices","Mon, 19 Jan 1970 11:41:40 GMT",1597236469.180100,,,0
+1597300317.207400,U016C8XH6NR,"re: simulation
+
+Combo — A -&gt; B -&gt; C
+
+Result of this combo wont show the effect of A-&gt;B on the results. — its simply bundling the txs.","Mon, 19 Jan 1970 11:41:40 GMT",1597236469.180100,,,0
+1597234681.178600,U016PUP7D5Z,"Has anyone here ever done a flash loan? I wonder if the loan hasn't been repaid then that means all token swaps with uniswap or curve etc would revert. But still since their contract methods were being called, you'd still have to pay the gas fees for all the stuff you did during the loan right? Like i am assuming $70-80 in fees for a unpaid loan/failed tx","Mon, 19 Jan 1970 11:40:34 GMT",1597234681.178600,,,0
+1597236845.180300,U0169JV8C95,"<@U016PUP7D5Z>  If the tx reverts then I don't think gas will get spent because all such checks in audit contracts are there, though if it succeeds then you will have to pay for gas additionally ND right now gas prices are :rocket:","Mon, 19 Jan 1970 11:40:36 GMT",1597234681.178600,,,0
+1597253006.185900,U016Q31RVT5,"When you post a transaction a lot of clients do a simulation first. If you try to post a transaction that reverts in eg remix, you get a popup saying “this tx will probably fail, are you sure?”. If you say “yes” the tx will be posted, and will cost you gas up to the point of revert. If you say “no” then the tx is not posted and no gas cost.","Mon, 19 Jan 1970 11:40:53 GMT",1597234681.178600,,"[{""name"":""+1"",""users"":[""U0169JV8C95"",""U016PUP7D5Z"",""U0172G1A28H""],""count"":3}]",3
+1597297843.207000,U016PUP7D5Z,This makes sense. Thanks <@U016Q31RVT5>,"Mon, 19 Jan 1970 11:41:37 GMT",1597234681.178600,U016Q31RVT5,,0
+1597308994.207700,U016PF28WVB,"Be warned that there may also be assert checks in flash loans, which will eat all your gas.","Mon, 19 Jan 1970 11:41:48 GMT",1597234681.178600,,"[{""name"":""+1"",""users"":[""U016PUP7D5Z""],""count"":1}]",1
+1597225798.175700,U0169JV8C95,"Guys rephrasing my question here <https://kernel-community.slack.com/archives/C016KF2HD0W/p1597129421169800>
+Looking for gas minimizing mechanisms except layer 2 solutions :slightly_smiling_face:
+Open for suggestions","Mon, 19 Jan 1970 11:40:25 GMT",,,,0
+1597158890.171900,U016M08G1M4,out there in the wild of GitHub / elsewhere that I can reflect on,"Mon, 19 Jan 1970 11:39:18 GMT",,,,0
+1597158868.171500,U016M08G1M4,is anyone aware of “openzeppelin template”-like bonding curve smart contracts?,"Mon, 19 Jan 1970 11:39:18 GMT",1597158868.171500,,,0
+1597160235.172000,U016BTBS3MM,"Tagging <@U016PF28WVB> - I think if there is, she'd know. But I don't think there is.","Mon, 19 Jan 1970 11:39:20 GMT",1597158868.171500,U016PF28WVB,,0
+1597160357.172200,U016PF28WVB,<@U016M08G1M4> Sadly there is not a template. I can point you to an example though,"Mon, 19 Jan 1970 11:39:20 GMT",1597158868.171500,U016M08G1M4,,0
+1597160530.172400,U016PF28WVB,"In line of the example, here is the <https://gitlab.com/linumlabs/molecule-alpha/-/tree/nightly/Blockchain|repo>, here is the <https://gitlab.com/linumlabs/molecule-alpha/-/blob/nightly/Blockchain/contracts/_curveIntegrals/v1/CurveFunctions.sol|curve math in solidity>, and here is <https://gitlab.com/linumlabs/molecule-alpha/-/blob/nightly/Blockchain/contracts/market/Market.sol#L309|the token> that is using said curve.","Mon, 19 Jan 1970 11:39:20 GMT",1597158868.171500,,"[{""name"":""heart"",""users"":[""U016M08G1M4""],""count"":1}]",1
+1597160932.173200,U016M08G1M4,thank you Veronica :slightly_smiling_face:,"Mon, 19 Jan 1970 11:39:20 GMT",1597158868.171500,,"[{""name"":""sparkles"",""users"":[""U016PF28WVB""],""count"":1}]",1
+1597160953.173400,U016M08G1M4,"I found this:
+<https://github.com/lsaether/bonding-curves>","Mon, 19 Jan 1970 11:39:20 GMT",1597158868.171500,,,0
+1597162757.173700,U016M08G1M4,"what is the basic idea of the bonding curve?
+
+1. Creator adds collateral, say 1 ETH, gets back arbitrary number of tokens, thus determining the start point on the curve?
+2. People buy token thus invoking the mathematics, to determine what price they are buying at, they add to the collateral of the token, and in return get the token at the calculated price?","Mon, 19 Jan 1970 11:39:22 GMT",1597158868.171500,,,0
+1597170621.173900,U016M08G1M4,I have read about it now :slightly_smiling_face:,"Mon, 19 Jan 1970 11:39:30 GMT",1597158868.171500,,,0
+1597155758.170500,U016Q31RVT5,how do you mean options to save? you mean persistent storage?,"Mon, 19 Jan 1970 11:39:15 GMT",,,,0
+1597129421.169800,U0169JV8C95,Hi guys looking for options to save any good options besides layer 2 and solidity recommendations?,"Mon, 19 Jan 1970 11:38:49 GMT",1597129421.169800,,,0
+1597272769.205800,U016HAELGES,What are you trying to optimize? Method calls? Deployments?,"Mon, 19 Jan 1970 11:41:12 GMT",1597129421.169800,,,0
+1596969767.166000,U01733WAA1F,"Hey everyone, sharing a tool I made to more easily make ERC-1155 NFTs on Rinkeby Opensea. Maybe someone will find it useful! <https://github.com/alto-io/contractor>","Mon, 19 Jan 1970 11:36:09 GMT",1596969767.166000,,"[{""name"":""heart"",""users"":[""U016M08G1M4"",""U016HPVFV54""],""count"":2}]",2
+1596989152.166300,U0169D94QCX,Hi <@U01733WAA1F> good job!  Can you provide some context?  Why would I want to create an ERC-1155 NFT...and why would I want to create one on Opensea?,"Mon, 19 Jan 1970 11:36:29 GMT",1596969767.166000,U01733WAA1F,,0
+1597026915.166700,U01733WAA1F,"Hey <@U0169D94QCX> thanks for the questions!
+
+NFTs are non-fungible tokens, used to represent unique assets such as cryptokitties or nba topshot cards. ERC-1155 is one of the NFT standards.
+
+Opensea (<http://opensea.io/>) is the largest exchange for these assets.
+
+I needed to make my own NFTs over the weekend and was using Opensea's tutorials (<https://docs.opensea.io/docs/opensea-erc1155-tutorial>), and I saw that the process wasn't that simple. I made the contractor to make it doable in just a few steps :raised_hands:","Mon, 19 Jan 1970 11:37:06 GMT",1596969767.166000,U0169D94QCX,,0
+1597070491.167100,U016M08G1M4,"What is the utility of these NFTs, are they mostly used in games?","Mon, 19 Jan 1970 11:37:50 GMT",1596969767.166000,,,0
+1597071265.167300,U01733WAA1F,"yeah, ERC-1155s are usually for games, the format was created for blockchain games like Sandbox and Skyweaver. They're not exclusively used for that though, I think Rarible also supports the format for their collectible art","Mon, 19 Jan 1970 11:37:51 GMT",1596969767.166000,,,0
+1597071837.167500,U016M08G1M4,Interesting. This reminds me of Roblox,"Mon, 19 Jan 1970 11:37:51 GMT",1596969767.166000,,,0
+1597071866.168200,U016M08G1M4,<https://www.roblox.com/games#/>,"Mon, 19 Jan 1970 11:37:51 GMT",1596969767.166000,,,0
+1597073879.168500,U01733WAA1F,"Roblox is great, wish we can get the developers there over on to web 3! :smile:","Mon, 19 Jan 1970 11:37:53 GMT",1596969767.166000,,"[{""name"":""blush"",""users"":[""U016M08G1M4"",""U016HPVFV54""],""count"":2}]",2
+1596672103.162200,U017DTA3PB2,"Hey you guys!
+Need a lot of rinkeby ether, would appreciate any help from the hoarders :smile:
+0x2A015212F421a47C436d86B19FA69257CDa0F644
+Thanks!","Mon, 19 Jan 1970 11:31:12 GMT",,,,0
+1596515333.159600,U016PUP7D5Z,"Guys, One of my friend is looking for a solidity dev experienced with defi for help. He is creating a fork of YFI with additional supply gambit. Willing to pay in DAI or maybe share profits. DM me for more info","Mon, 19 Jan 1970 11:28:35 GMT",,,,0
+1596480856.156300,U0169D94QCX,"<!here> if you're interested in joining a study group to complete the Ethernaut contract security challenges, then please indicate your day/time preferences here:
+
+<https://docs.google.com/spreadsheets/d/1K4GsvwHlHaB-OG-cKkV6DnjlYPUIalIvuCKpcF1m7qQ/edit#gid=0>","Mon, 19 Jan 1970 11:28:00 GMT",,,,0
+1596390684.151200,U0169D94QCX,"<!here> I'm trying to understand when to use different data locations in Solidity.  Does anybody know when to use the ""memory"" data location vs the ""calldata"" data location?  Is ""calldata"" only used in functions that are ""external""?  Thanks!!!","Mon, 19 Jan 1970 11:26:30 GMT",1596390684.151200,,,0
+1596391559.151300,U017F30AFRP,"Maybe you already read this thread, but just posting here in case you didn't.
+<https://ethereum.stackexchange.com/questions/74442/when-should-i-use-calldata-and-when-should-i-use-memory>","Mon, 19 Jan 1970 11:26:31 GMT",1596390684.151200,,"[{""name"":""+1"",""users"":[""U0169D94QCX""],""count"":1}]",1
+1596393474.151700,U0169D94QCX,"<@U017F30AFRP> yeah I already read that, thanks Francis.  Just trying to crystalize my understanding of when to use calldata by asking the group :slightly_smiling_face:","Mon, 19 Jan 1970 11:26:33 GMT",1596390684.151200,U017F30AFRP,,0
+1596397129.155100,U016Q31RVT5,"The calldata option is a relatively recent addition. It saves on memory so I think the general principle is, if you can use it, you should use it.","Mon, 19 Jan 1970 11:26:37 GMT",1596390684.151200,,,0
+1596447473.155300,U0169MFLKQF,"Calldata vs memory 
+Calldata used in external functions 
+Memory used in public &amp; internal functions 
+Both are used with reference types ( strings , address, etc.)","Mon, 19 Jan 1970 11:27:27 GMT",1596390684.151200,,"[{""name"":""+1"",""users"":[""U0172G1A28H"",""U0169FVV2LF""],""count"":2}]",2
+1596180991.149400,U0169JV8C95,"Hi Guys, need a confirmation working on a complex contract just wanted to know I can call .length() on array inside a struct right? saw an example on ethereum stack exchange","Mon, 19 Jan 1970 11:23:00 GMT",1596180991.149400,,,0
+1596390357.149800,U0169D94QCX,"If it works, it sound safe to me.  Are you curious to know if there are any security implications to doing this?","Mon, 19 Jan 1970 11:26:30 GMT",1596180991.149400,,,0
+1596510883.156900,U0169JV8C95,I don't think there are <@U0169D94QCX>,"Mon, 19 Jan 1970 11:28:30 GMT",1596180991.149400,,,0
+1596156741.146800,U016HAELGES,<@U0169FVV2LF> which smart contract and methods are failing?,"Mon, 19 Jan 1970 11:22:36 GMT",1596156741.146800,U0169FVV2LF,,0
+1596162482.147800,U0169FVV2LF,Thanks Steve I figured it out actually! I was passing in milliseconds instead of seconds :man-facepalming::skin-tone-5:,"Mon, 19 Jan 1970 11:22:42 GMT",1596156741.146800,,"[{""name"":""stopwatch"",""users"":[""U016HAELGES""],""count"":1}]",1
+1596151304.146400,U0169FVV2LF,Anyone available to help me debug smart contract above? Some of the methods on it keep failing and but others work as expected and I think I’m missing something obvious,"Mon, 19 Jan 1970 11:22:31 GMT",,,,0
+1596069908.143800,U0169FVV2LF,"Answering my own questions here but I found some really good resources today!
+
+• Ready to go library contracts by Modular Network: <https://github.com/modular-network/ethereum-libraries#modular-libraries>
+• Token libraries with proofs by SecBit: <https://github.com/sec-bit/tokenlibs-with-proofs>
+• Smart contracts used in common defi protocols: <https://github.com/defiprime/defi-smart-contracts>
+• TokenVesting implementation originally by OpenZeppelin: <https://github.com/akropolisio/akropolis-vesting/blob/master/contracts/openzeppelin/TokenVesting.sol>","Mon, 19 Jan 1970 11:21:09 GMT",,,"[{""name"":""+1"",""users"":[""U0169MFLKQF"",""U017F30AFRP"",""U016HPVFV54"",""U0169D94QCX"",""U01732696SV"",""U0172G1A28H""],""count"":6}]",6
+1596039594.140600,U016Q117G67,"<@U0169FVV2LF> highly recommend using your free pro account on tenderly to look into this further, given this part of their preso: <https://youtu.be/3BgevFiqnXE?t=867>
+
+not shilling and have no personal interest, just seems like a particularly useful part of a well built product.","Mon, 19 Jan 1970 11:20:39 GMT",,U0169FVV2LF,"[{""name"":""+1"",""users"":[""U0169FVV2LF""],""count"":1}]",1
+1596039303.139400,U0169FVV2LF,"If you have some gas intensive parts of your contract, does that affect the gas on methods that aren’t gas intensive anyway?","Mon, 19 Jan 1970 11:20:39 GMT",1596039303.139400,,,0
+1596044646.140800,U017F30AFRP,"No, unless this ""non-gas-intensive"" methods actually make calls to the ""gas-intensive"" methods. But if you don't have this internal calls between methods, you won't be charged for parts not used in your contract.
+
+I'm not familiar w/ Tenderly (yet :slightly_smiling_face: ) suggested by <@U016Q117G67>, but it does looks really cool and a great tool. I'd give it a try for sure.
+
+What I've used is a pluggin (`eth-gas-reporter`) for Truffle (if you're developing with truffle it may be an alternative) that checks the amount of gas used by each unit test.
+
+It is useful to provide you an estimate of the amount of gas required for each method in your contract (as long as your tests really simulate the scenarios in which those methods will be called).
+
+This is their npm package: <https://www.npmjs.com/package/eth-gas-reporter>","Mon, 19 Jan 1970 11:20:44 GMT",1596039303.139400,U016Q117G67,"[{""name"":""open_mouth"",""users"":[""U0169FVV2LF""],""count"":1}]",1
+1594316975.001600,U016Q0F66FM,<@U016Q0F66FM> has joined the channel,"Mon, 19 Jan 1970 10:51:56 GMT",,,,0
+1594316876.001400,U016M08G1M4,<@U016M08G1M4> has joined the channel,"Mon, 19 Jan 1970 10:51:56 GMT",,,,0
+1594316824.001200,U0172CM3049,<@U0172CM3049> has joined the channel,"Mon, 19 Jan 1970 10:51:56 GMT",,,,0
+1594316702.001000,U016YQPEDU4,<@U016YQPEDU4> has joined the channel,"Mon, 19 Jan 1970 10:51:56 GMT",,,,0
+1594316702.000800,U016BTBS3MM,<@U016BTBS3MM> has joined the channel,"Mon, 19 Jan 1970 10:51:56 GMT",,,,0
+1594316702.000600,U016Q01RH5H,<@U016Q01RH5H> has joined the channel,"Mon, 19 Jan 1970 10:51:56 GMT",,,,0
+1594312457.000400,U016RCGRND8,<@U016RCGRND8> has joined the channel,"Mon, 19 Jan 1970 10:51:52 GMT",,,,0
+1594305317.000200,U016WSQKPCL,<@U016WSQKPCL> has joined the channel,"Mon, 19 Jan 1970 10:51:45 GMT",,,,0
+1594257141.000200,U016H35D04W,<@U016H35D04W> has joined the channel,"Mon, 19 Jan 1970 10:50:57 GMT",,,,0
+1594237748.000600,U016Q1TSFSN,<@U016Q1TSFSN> has joined the channel,"Mon, 19 Jan 1970 10:50:37 GMT",,,,0
+1594236181.000400,U0169D94QCX,<@U0169D94QCX> has joined the channel,"Mon, 19 Jan 1970 10:50:36 GMT",,,,0
+1594236174.000200,U016C8XH6NR,<@U016C8XH6NR> has joined the channel,"Mon, 19 Jan 1970 10:50:36 GMT",,,,0

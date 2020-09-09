@@ -1,0 +1,183 @@
+id,user,text,timestamp,in_reply_to,mentioned_users,reactions,total_reactions
+1599654958.021600,U017E2A2KPS,"Hey KERNEL Fam,
+Since leaving the KERNEL we have directed efforts to community building in our SLACK and are now preparing to hold our first community event.  The event is led by community members and will feature five founders hosting topics/pitches/demos at their own tables (all trial and error at this stage). We will be holding these events monthly should you ever want to join us.:seedling:All are always welcome and happy to introduce you to our growing family of Rare Ones:-) Also open to collabs/co-meets and the like with other growing communities in the KERNEL.
+Me:heart: on behalf of #TeamRareBirds","Mon, 19 Jan 1970 12:20:54 GMT",1599654958.021600,,"[{""name"":""heart"",""users"":[""U016QSTSQQM"",""U0172G1A28H"",""U016C8XH6NR"",""U017DN0DZ08""],""count"":4},{""name"":""100"",""users"":[""U016QSTSQQM"",""U016C8XH6NR"",""U017DN0DZ08""],""count"":3}]",7
+1599655305.022100,U016QSTSQQM,This is awesome! I'd love to come along. :slightly_smiling_face:,"Mon, 19 Jan 1970 12:20:55 GMT",1599654958.021600,,"[{""name"":""100"",""users"":[""U017E2A2KPS""],""count"":1},{""name"":""raised_hands"",""users"":[""U017E2A2KPS""],""count"":1},{""name"":""seedling"",""users"":[""U017E2A2KPS""],""count"":1}]",3
+1599667652.023100,U017E2A2KPS,"Thank you <@U016QSTSQQM>, Great to hear you're interested in coming along.  Would be nice to have you. I'll share the Airmeet link soon. In the meantime do DM should  you have any questions.  Bye for now. :pray::hand:","Mon, 19 Jan 1970 12:21:07 GMT",1599654958.021600,U016QSTSQQM,,0
+1599402300.011100,U01733WAA1F,Miss you all KERNEL Fam! :seedling: Game3.js update as we move from KERNEL to APOLLO:  <https://game3js.substack.com/p/game3js-newsletter-6>,"Mon, 19 Jan 1970 12:16:42 GMT",,,"[{""name"":""heart"",""users"":[""U017DN0DZ08"",""U017EP3GQM6"",""U0172CM3049"",""U017E2A2KPS"",""U016QSTSQQM"",""U016C8XH6NR"",""U016M08G1M4""],""count"":7},{""name"":""rainbow"",""users"":[""U017DN0DZ08"",""U017EP3GQM6"",""U017E2A2KPS"",""U016QSTSQQM"",""U016C8XH6NR""],""count"":5},{""name"":""heavy_check_mark"",""users"":[""U017E2A2KPS"",""U016QSTSQQM""],""count"":2},{""name"":""fire"",""users"":[""U017E2A2KPS"",""U016QSTSQQM"",""U016C8XH6NR""],""count"":3},{""name"":""party_parrot"",""users"":[""U017E2A2KPS"",""U016QSTSQQM"",""U016PP38YLA"",""U016C8XH6NR"",""U0172G1A28H""],""count"":5}]",22
+1599009134.007900,U017E8GN0EL,<https://defihedge.substack.com/p/defihedge-the-decentralized-protocol>,"Mon, 19 Jan 1970 12:10:09 GMT",,,"[{""name"":""fire"",""users"":[""U016C8XH6NR"",""U0172G1A28H"",""U017E2A2KPS"",""U01733WAA1F""],""count"":4}]",4
+1599009132.007700,U017E8GN0EL,Final Update: Governance,"Mon, 19 Jan 1970 12:10:09 GMT",,,"[{""name"":""party_parrot"",""users"":[""U016C8XH6NR""],""count"":1}]",1
+1599001132.006400,U016PEM9U5B,"*Update 6+7: Finally, the Astral Protocol* :sparkles: 
+
+tl;dr: We need to understand the intricacies of representing spatial data on distributed and peer-to-peer systems. We’re calling this the Astral Protocol.
+
+<https://web3spatial.substack.com/p/web3-spatial-weeks-six-and-seven>","Mon, 19 Jan 1970 12:10:01 GMT",,,"[{""name"":""heart"",""users"":[""U016C8XH6NR"",""U0172G1A28H"",""U017E2A2KPS""],""count"":3},{""name"":""fire"",""users"":[""U016C8XH6NR"",""U017E2A2KPS""],""count"":2}]",5
+1598982142.005300,U016HPVFV54,Week 7 Update! <https://mapzguide.substack.com/p/week-7>,"Mon, 19 Jan 1970 12:09:42 GMT",,,"[{""name"":""party_parrot"",""users"":[""U016C8XH6NR"",""U017E2A2KPS""],""count"":2}]",2
+1598913271.002600,U0172CB3649,"Ants-Review Week 7 :antsreview: - the End (for now…)
+<https://antsreview.substack.com/p/ants-review-kernel-weekly-update-952>","Mon, 19 Jan 1970 12:08:33 GMT",,,"[{""name"":""antsreview"",""users"":[""U01691XLMD5"",""U016Z7XQC7N"",""U0172CM3049"",""U017DN0DZ08"",""U016C909613"",""U017E2A2KPS"",""U01733WAA1F""],""count"":7},{""name"":""100"",""users"":[""U0172CM3049"",""U017DN0DZ08"",""U016C909613"",""U017E2A2KPS"",""U01733WAA1F""],""count"":5},{""name"":""raised_hands"",""users"":[""U0172CM3049"",""U017DN0DZ08"",""U016C909613"",""U017E2A2KPS"",""U01733WAA1F""],""count"":5},{""name"":""heart"",""users"":[""U0172CM3049"",""U017DN0DZ08"",""U016C909613"",""U017E2A2KPS"",""U016C8XH6NR"",""U01733WAA1F""],""count"":6},{""name"":""fire"",""users"":[""U0172CM3049"",""U017DN0DZ08"",""U016C909613"",""U017E2A2KPS"",""U01733WAA1F""],""count"":5}]",28
+1598859764.000800,U017E2A2KPS,"#TeamRareBirds Week 7 The End:heavy_check_mark::mortar_board::female-student::woman-cartwheeling:
+<https://teamrarebirds.substack.com/p/teamrarebirds-kernel-newsletter-878?r=2wf5m&amp;utm_campaign=post&amp;utm_medium=web&amp;utm_source=copy>","Mon, 19 Jan 1970 12:07:39 GMT",,,"[{""name"":""clap"",""users"":[""U0172CM3049"",""U0172G1A28H"",""U017DN0DZ08"",""U016C8XH6NR"",""U0169JV8C95"",""U01733WAA1F""],""count"":6}]",6
+1598524568.040400,U017E2A2KPS,"#TeamRareBirds Week 6 Update:biohazard_sign::v:
+<https://teamrarebirds.substack.com/p/teamrarebirds-kernel-newsletter-268?r=2wf5m&amp;utm_campaign=post&amp;utm_medium=web&amp;utm_source=copy>","Mon, 19 Jan 1970 12:02:04 GMT",,,"[{""name"":""fire"",""users"":[""U01733WAA1F"",""U017EP3GQM6"",""U017DN0DZ08"",""U0169JV8C95""],""count"":4},{""name"":""rocket"",""users"":[""U017EP3GQM6""],""count"":1}]",5
+1598473455.037200,U017EP3GQM6,"<#C017T3Y1VQU|project-parcel> week 5 &amp; 6 updates
+<https://parcel.substack.com/p/parcel-week-5-and-6-updates>","Mon, 19 Jan 1970 12:01:13 GMT",1598473455.037200,,"[{""name"":""100"",""users"":[""U017E2A2KPS"",""U017DN0DZ08""],""count"":2},{""name"":""raised_hands"",""users"":[""U017E2A2KPS"",""U016C8XH6NR"",""U017DN0DZ08""],""count"":3},{""name"":""+1"",""users"":[""U017E2A2KPS"",""U016C8XH6NR"",""U017DN0DZ08""],""count"":3},{""name"":""fire"",""users"":[""U017E2A2KPS"",""U017DN0DZ08""],""count"":2},{""name"":""heavy_check_mark"",""users"":[""U016C8XH6NR"",""U017DN0DZ08"",""U017E2A2KPS""],""count"":3}]",13
+1598512169.039200,U017DN0DZ08,<@U017EP3GQM6> <@U017DTA3PB2> finally getting some rest after marathon hacks !! :raised_hands:  :raised_hands:,"Mon, 19 Jan 1970 12:01:52 GMT",1598473455.037200,"U017EP3GQM6,U017DTA3PB2",,0
+1598525665.040700,U017DTA3PB2,Or not!:wink: V1 launching soon:tm:,"Mon, 19 Jan 1970 12:02:05 GMT",1598473455.037200,,"[{""name"":""100"",""users"":[""U017DN0DZ08""],""count"":1}]",1
+1598448659.034500,U016WQPK6J0,"Publishing our substack shortly - GoodGhosting hit a big milestone today as we are live <https://goodghosting.com>  - read more here <https://medium.com/goodghosting/boo-goodghosting-launches-f3842b173909>
+
+Any feedback, likes, or shares v much appreciated :pray:","Mon, 19 Jan 1970 12:00:48 GMT",1598448659.034500,,"[{""name"":""ghost"",""users"":[""U0172CM3049"",""U016HTJ5Q4W"",""U017E2A2KPS"",""U0169JV8C95"",""U017DN0DZ08"",""U0169MFLKQF""],""count"":6},{""name"":""100"",""users"":[""U017E2A2KPS"",""U0169JV8C95"",""U017DN0DZ08""],""count"":3},{""name"":""heavy_check_mark"",""users"":[""U017E2A2KPS"",""U0169JV8C95"",""U017DN0DZ08""],""count"":3},{""name"":""+1"",""users"":[""U017E2A2KPS"",""U0169JV8C95"",""U017DN0DZ08""],""count"":3},{""name"":""fire"",""users"":[""U017E2A2KPS"",""U0169JV8C95"",""U017DN0DZ08"",""U016X7E5G4U""],""count"":4}]",19
+1598516135.039500,U016X7E5G4U,BOOM! :rocket:,"Mon, 19 Jan 1970 12:01:56 GMT",1598448659.034500,,,0
+1598348571.032400,U0172G1A28H,<#C01805DCUFL|project-shintsha> week 5 update  <https://dapps4africa.substack.com/p/shintsha-week-5-update>,"Mon, 19 Jan 1970 11:59:08 GMT",,,"[{""name"":""fire"",""users"":[""U017E2A2KPS""],""count"":1},{""name"":""100"",""users"":[""U017E2A2KPS""],""count"":1},{""name"":""heavy_check_mark"",""users"":[""U017E2A2KPS""],""count"":1},{""name"":""raised_hands"",""users"":[""U017E2A2KPS""],""count"":1}]",4
+1598312163.030300,U01691XLMD5,"Ants-Review Week 6 Update
+<https://antsreview.substack.com/p/ants-review-kernel-weekly-update-bbb>","Mon, 19 Jan 1970 11:58:32 GMT",,,"[{""name"":""heavy_check_mark"",""users"":[""U017E2A2KPS"",""U017DN0DZ08""],""count"":2},{""name"":""100"",""users"":[""U017E2A2KPS"",""U017DN0DZ08"",""U0172G1A28H""],""count"":3},{""name"":""antsreview"",""users"":[""U0172CB3649""],""count"":1}]",6
+1598310348.029700,U016Q3TCF45,"impactMarket: week 5 &amp; 6 update 
+<https://impactmarket.substack.com/p/week-5-and-6-kernel|https://impactmarket.substack.com/p/week-5-and-6-kernel>","Mon, 19 Jan 1970 11:58:30 GMT",,,"[{""name"":""heavy_check_mark"",""users"":[""U017E2A2KPS"",""U017DN0DZ08""],""count"":2},{""name"":""100"",""users"":[""U017E2A2KPS"",""U017DN0DZ08""],""count"":2}]",4
+1598302367.028600,U017E885WBA,"A rollup update, compressing two weeks into one. :pray:  thanks
+<https://stablepay.substack.com/p/stablepay-week-5-and-6-updates>","Mon, 19 Jan 1970 11:58:22 GMT",,,"[{""name"":""heavy_check_mark"",""users"":[""U017E2A2KPS"",""U017DN0DZ08""],""count"":2},{""name"":""raised_hands"",""users"":[""U017E2A2KPS"",""U017DN0DZ08""],""count"":2}]",4
+1598263156.024800,U017DN0DZ08,<https://epns.substack.com/p/epns-update-kernel-week-5>,"Mon, 19 Jan 1970 11:57:43 GMT",,,"[{""name"":""slightly_smiling_face"",""users"":[""U0172CM3049"",""U016C909613"",""U017E2A2KPS"",""U0172G1A28H""],""count"":4},{""name"":""fire"",""users"":[""U016Q1TQAKV"",""U016PP38YLA"",""U016C8XH6NR"",""U016C909613"",""U017E2A2KPS""],""count"":5},{""name"":""party_parrot"",""users"":[""U016C8XH6NR"",""U016C909613"",""U017E2A2KPS"",""U0172G1A28H""],""count"":4},{""name"":""100"",""users"":[""U017E2A2KPS""],""count"":1},{""name"":""dart"",""users"":[""U017E2A2KPS""],""count"":1}]",15
+1598263151.024600,U017DN0DZ08,Delay in delivery but can't miss weekly updates :slightly_smiling_face:. Here we go :heart_decoration:,"Mon, 19 Jan 1970 11:57:43 GMT",,,,0
+1598260618.023700,U016Q1TSFSN,<https://upsidecomp.substack.com/p/upside-update-230820?token=eyJ1c2VyX2lkIjoxMjQ2OTY5LCJwb3N0X2lkIjo4ODUwMDYsIl8iOiJJeDRMayIsImlhdCI6MTU5ODI2MDYwNSwiZXhwIjoxNTk4MjY0MjA1LCJpc3MiOiJwdWItNjkxMzQiLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.0Uur8h1T22CFqVBaEciytpaKtxbNdGGSP20yxPAwYwM|https://upsidecomp.substack.com/p/upside-update-230820?token=eyJ1c2VyX2lkIjoxMjQ2OTY5LCJwb3N0X2lkIjo4ODUwMDYsIl8iOiJJeDRMayIsImlhdCI6MTU5ODI2MDYwNSwiZXhwIjoxNTk4MjY0MjA1LCJpc3MiOiJwdWItNjkxMzQiLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.0Uur8h1T22CFqVBaEciytpaKtxbNdGGSP20yxPAwYwM>,"Mon, 19 Jan 1970 11:57:40 GMT",,,"[{""name"":""fire"",""users"":[""U017DN0DZ08"",""U016C8XH6NR"",""U016C909613"",""U017E2A2KPS""],""count"":4},{""name"":""party_parrot"",""users"":[""U016C8XH6NR"",""U016C909613"",""U017E2A2KPS""],""count"":3},{""name"":""rocket"",""users"":[""U017E2A2KPS""],""count"":1}]",8
+1598256397.023200,U0169MFLKQF,"After long time , Semsm weekly update
+<https://semsm.substack.com/p/semsm-week5-updates|A friendly interactive communication rather than filling forms>","Mon, 19 Jan 1970 11:57:36 GMT",,,"[{""name"":""fire"",""users"":[""U016C8XH6NR"",""U017DN0DZ08"",""U016C909613"",""U0172CB3649""],""count"":4}]",4
+1597997678.002600,U016Q1TQAKV,Web3Bridge update dropping :fire: <https://web3bridge.substack.com/p/500nigeriadevs4eth-kernel-newsletter-d01>,"Mon, 19 Jan 1970 11:53:17 GMT",,,"[{""name"":""heavy_check_mark"",""users"":[""U017E2A2KPS"",""U017DN0DZ08"",""U0172G1A28H"",""U016HBVGSP8"",""U016C909613""],""count"":5},{""name"":""100"",""users"":[""U017E2A2KPS"",""U017DN0DZ08"",""U016C909613""],""count"":3},{""name"":""raised_hands"",""users"":[""U017E2A2KPS"",""U017DN0DZ08"",""U016C909613""],""count"":3},{""name"":""fire"",""users"":[""U017E2A2KPS"",""U017DN0DZ08"",""U016HBVGSP8"",""U016C909613""],""count"":4},{""name"":""seedling"",""users"":[""U017E2A2KPS"",""U017DN0DZ08"",""U016HBVGSP8"",""U016C909613""],""count"":4}]",19
+1597944613.001100,U01733WAA1F,"Game3.js update, a bit late this week :smile: <https://game3js.substack.com/p/game3js-newsletter-5>","Mon, 19 Jan 1970 11:52:24 GMT",,,"[{""name"":""rainbow"",""users"":[""U016Z7XQC7N"",""U017E2A2KPS"",""U016C909613"",""U016HBVGSP8""],""count"":4},{""name"":""+1"",""users"":[""U017E2A2KPS"",""U016C909613"",""U016HBVGSP8""],""count"":3},{""name"":""seedling"",""users"":[""U017E2A2KPS"",""U016C909613"",""U016HBVGSP8""],""count"":3}]",10
+1597864694.380400,U016PEM9U5B,":sparkles: *Web3 Spatial Week 4 Update* - speaking with some brilliant people, and starting to focus in!
+
+<https://web3spatial.substack.com/p/web3-spatial-week-four-update>","Mon, 19 Jan 1970 11:51:04 GMT",,,"[{""name"":""heavy_check_mark"",""users"":[""U017E2A2KPS"",""U0172G1A28H"",""U016C909613""],""count"":3},{""name"":""100"",""users"":[""U017E2A2KPS"",""U0172G1A28H"",""U016C909613""],""count"":3},{""name"":""raised_hands"",""users"":[""U017E2A2KPS"",""U016C909613""],""count"":2},{""name"":""+1"",""users"":[""U017E2A2KPS"",""U016Z7XQC7N"",""U016C909613""],""count"":3}]",11
+1597847352.376500,U016M08G1M4,"I have decided to drop out of the presentation to investors / mentors today. I can’t visualise the whole picture for Thrivy atm, the gas prices would kill the whole business model
+
+<https://thrivy.substack.com/p/putting-thrivy-on-hold>","Mon, 19 Jan 1970 11:50:47 GMT",1597847352.376500,,"[{""name"":""heart"",""users"":[""U016Z7XQC7N"",""U017E2A2KPS""],""count"":2},{""name"":""100"",""users"":[""U017E2A2KPS""],""count"":1},{""name"":""+1"",""users"":[""U017E2A2KPS""],""count"":1}]",4
+1597847393.376700,U016M08G1M4,ALEX was meant to be traded on Thrivy. Every retail person would be able to happily acquire ALEX!,"Mon, 19 Jan 1970 11:50:47 GMT",1597847352.376500,,,0
+1597850991.377200,U016QSTSQQM,"The mentors offer really great guidance and have a lot of experience. If you present the challenges you're facing, they may be able to help you find a workaround! :fire:","Mon, 19 Jan 1970 11:50:50 GMT",1597847352.376500,,,0
+1597851430.377400,U016M08G1M4,can I still present even if I have dropped out of the presentation?,"Mon, 19 Jan 1970 11:50:51 GMT",1597847352.376500,,,0
+1597852666.378900,U016QSTSQQM,"I don’t see why not! I mean, you just need a table on Airmeet right? 🥰","Mon, 19 Jan 1970 11:50:52 GMT",1597847352.376500,,,0
+1597862694.379700,U016Z7XQC7N,"Yes <@U016M08G1M4>  you should present! - you can explain these issues
+
+Also would Matic’s plasma based second layer help? <@U0172CM3049> is the woman to talk to ","Mon, 19 Jan 1970 11:51:02 GMT",1597847352.376500,,"[{""name"":""woman-raising-hand"",""users"":[""U0172CM3049""],""count"":1}]",1
+1598008459.016900,U016M08G1M4,"I had a burn out after my pt website... perhaps
+
+First, I need to answer questions about costs. (I) how much is a person expected to accumulate in x days. (ii) how much they need to meaningfully benefit from DeFi (iii) how would thrivy survive in the first couple of months. It’s a business, so need revenue too
+
+I have a feeling that the numbers are prohibitively exorbitant. I have like 1k DAI that I’m not investing because it is too expensive. How can a person with £0.5 invest then. Someone suggested using xDAI. Perhaps it is a way. I don’t know enough about it. I think DSR gets locked up and that mints xDAI and then chai is the interest bearing part in the bridge. Although mechanics of interest earning are unclear.
+
+Perhaps what UNI does is a better first step. I was thinking about doing it that way too. Perhaps, we could embed UNI / portions of their codebase into Thrivy? <@U016Z7XQC7N>  <@U016QSTSQQM> ","Mon, 19 Jan 1970 11:53:28 GMT",1597847352.376500,"U016Z7XQC7N,U016QSTSQQM",,0
+1598029678.018400,U016Z7XQC7N,I would say differentiate from UNI but checkin w Ayra as he is super knowledgeable ,"Mon, 19 Jan 1970 11:53:49 GMT",1597847352.376500,,,0
+1598168878.021200,U016QSTSQQM,"Hey <@U016M08G1M4>, sorry I missed your message. We’ve open sourced a lot of our stuff:
+
+
+<https://github.com/cawfree/express-torus|https://github.com/cawfree/express-torus>
+
+<https://github.com/cawfree/express-payment-request|https://github.com/cawfree/express-payment-request>
+
+<https://github.com/cawfree/express-torus-react-native|https://github.com/cawfree/express-torus-react-native>
+
+<https://github.com/cawfree/express-payment-request-react-native|https://github.com/cawfree/express-payment-request-react-native>
+
+
+<https://github.com/cawfree/react-use-wyre|https://github.com/cawfree/react-use-wyre>
+
+Hope you find something that fits. :zany_face:","Mon, 19 Jan 1970 11:56:08 GMT",1597847352.376500,U016M08G1M4,,0
+1597835166.375000,U017E2A2KPS,"HeyA,
+Week 5 #TeamRareBirds Update
+<https://teamrarebirds.substack.com/p/teamrarebirds-kernel-newsletter-83c>","Mon, 19 Jan 1970 11:50:35 GMT",,,"[{""name"":""fire"",""users"":[""U017DN0DZ08"",""U016X212QMA"",""U016Z7XQC7N""],""count"":3},{""name"":""seedling"",""users"":[""U017DN0DZ08"",""U016X212QMA""],""count"":2}]",5
+1595933617.162500,U016PF28WVB,Buidl crunch in progress: <https://newsbuff.substack.com/p/news-buff-week-2-update>,"Mon, 19 Jan 1970 11:18:53 GMT",,,"[{""name"":""dealwithitparrot"",""users"":[""U0172CM3049"",""U017E2A2KPS"",""U016C909613"",""U016Q117G67"",""U016Q1J7Y83"",""U016ZPHMHL4"",""U016BTBS3MM"",""U017DK86Y6L""],""count"":8}]",8
+1595933061.162000,U0169JE8HV5,<@U0169JE8HV5> has joined the channel,"Mon, 19 Jan 1970 11:18:53 GMT",,,,0
+1595919561.160800,U016C8XH6NR,,"Mon, 19 Jan 1970 11:18:39 GMT",,,"[{""name"":""party_parrot"",""users"":[""U0172CM3049"",""U0172G1A28H"",""U017E2A2KPS"",""U016Q1J7Y83"",""U016ZPHMHL4"",""U017DK86Y6L""],""count"":6}]",6
+1595917757.160600,U01732696SV,Oya Week 2: we've been coding. <https://oyaprotocol.substack.com/p/oya-update-code-code-code-code-code>,"Mon, 19 Jan 1970 11:18:37 GMT",1595917757.160600,,"[{""name"":""heart"",""users"":[""U016M08G1M4"",""U017E2A2KPS"",""U017DK86Y6L""],""count"":3},{""name"":""raised_hands"",""users"":[""U016M08G1M4"",""U017E2A2KPS"",""U016Q1J7Y83"",""U017DK86Y6L""],""count"":4},{""name"":""pray"",""users"":[""U016M08G1M4"",""U017E2A2KPS"",""U016ZPHMHL4"",""U017DK86Y6L""],""count"":4}]",11
+1595932896.161500,U016M08G1M4,"it feels like as if we almost need to also build “common tools” for web3. For example, components for marketplaces, components for auctions, for checking out, etc. and then whenever we start a project we link those components up.
+
+Can’t wait for the live demo John and the Oya team! Great work guys :slightly_smiling_face:","Mon, 19 Jan 1970 11:18:52 GMT",1595917757.160600,,"[{""name"":""100"",""users"":[""U016ZPHMHL4""],""count"":1}]",1
+1595955542.167300,U016ZPHMHL4,"```If Oya can provide them with a deep pool of products to list on their store, that creates a more level playing field. Imagine if you could curate your own web store with access to the same product pool as Amazon without holding any inventory!```","Mon, 19 Jan 1970 11:19:15 GMT",1595917757.160600,,,0
+1595955572.167500,U016ZPHMHL4,Democratising the long-tail of products :heart: This could be so powerful,"Mon, 19 Jan 1970 11:19:15 GMT",1595917757.160600,,"[{""name"":""party_parrot"",""users"":[""U01732696SV""],""count"":1}]",1
+1595912122.160100,U0169FVV2LF,Oh also feel free to join the GodMode discord for those of you interested <https://discord.gg/RkM78fS>,"Mon, 19 Jan 1970 11:18:32 GMT",,,,0
+1595912061.159300,U0169FVV2LF,"Hi all,
+
+We are doing `user interviews`--if you have the time and are an engineer, please sign up here so we can pick your brain :bouncingparrot:
+<https://calendly.com/godmode>
+
+Here is the *GODMODE* week 2 update: <https://godmode.substack.com/p/godmode-week-2-update>
+
+goodspeed to you all, and goodnight :v:","Mon, 19 Jan 1970 11:18:32 GMT",,,"[{""name"":""raised_hands"",""users"":[""U017E2A2KPS"",""U016ZPHMHL4"",""U017DK86Y6L""],""count"":3},{""name"":""100"",""users"":[""U017E2A2KPS"",""U017DK86Y6L""],""count"":2}]",5
+1595911871.157500,U016Z7XQC7N,"Hello Hello!
+
+Here is our project update! Week 2!
+<https://kernelofbflo.substack.com/p/a-journey-though-the-underbelly>","Mon, 19 Jan 1970 11:18:31 GMT",,,"[{""name"":""100"",""users"":[""U017E2A2KPS""],""count"":1},{""name"":""heavy_check_mark"",""users"":[""U017E2A2KPS""],""count"":1}]",2
+1595909502.155400,U016Q6Q9CLA,"The Sentinel AI, Week 2 Update.
+<https://sentinel.substack.com/p/the-sentinel-ai-week-2-update>","Mon, 19 Jan 1970 11:18:29 GMT",,,"[{""name"":""100"",""users"":[""U017E2A2KPS"",""U016VVA5S7N""],""count"":2},{""name"":""heavy_check_mark"",""users"":[""U017E2A2KPS""],""count"":1}]",3
+1595895780.151500,U016PNPMFSN,Uni's week 2 update: BUIDL edition! <https://www.notion.so/uniapp/Uni-Week-2-Update-46853064cece4ca3ae601ccc1b84b86c>,"Mon, 19 Jan 1970 11:18:15 GMT",1595895780.151500,,"[{""name"":""100"",""users"":[""U017E2A2KPS"",""U016C909613""],""count"":2},{""name"":""heavy_check_mark"",""users"":[""U016C909613""],""count"":1}]",3
+1595927724.161000,U016Q117G67,"<@U0169JE8HV5> would be a good person to talk to re non-profit in the US, def hit her up.
+
+Am asking some friends about a designer for you now.
+
+Will keep thinking about good leads for the rest.","Mon, 19 Jan 1970 11:18:47 GMT",1595895780.151500,U0169JE8HV5,"[{""name"":""pray"",""users"":[""U016PNPMFSN""],""count"":1},{""name"":""party_parrot"",""users"":[""U0169JE8HV5""],""count"":1}]",2
+1595953317.166100,U016PNPMFSN,thanks <@U016Q117G67>!! appreciate the suggestions and looking out :slightly_smiling_face:,"Mon, 19 Jan 1970 11:19:13 GMT",1595895780.151500,U016Q117G67,,0
+1595889406.150300,U0178QR6RH7,TryCrypto’s Week 2 Update! <https://trycrypto.substack.com/p/sharing-the-magic-updates-for-week>,"Mon, 19 Jan 1970 11:18:09 GMT",,,"[{""name"":""heavy_check_mark"",""users"":[""U017E2A2KPS"",""U016C909613""],""count"":2},{""name"":""100"",""users"":[""U017E2A2KPS"",""U016C909613""],""count"":2}]",4
+1595888489.148500,U016Q1J7Y83,<@U016Q1J7Y83> has joined the channel,"Mon, 19 Jan 1970 11:18:08 GMT",,,,0
+1595888405.147900,U01748SCQ81,<@U01748SCQ81> has joined the channel,"Mon, 19 Jan 1970 11:18:08 GMT",,,,0
+1595887100.146900,U016VTJACBW,"Tasit week 2 update:
+<https://www.notion.so/tasit/KERNEL-Tasit-Update-2020-Jul-27-2bef439825954852a293bdc56f1ba20b>","Mon, 19 Jan 1970 11:18:07 GMT",1595887100.146900,,"[{""name"":""fire"",""users"":[""U016Z7XQC7N"",""U017E2A2KPS"",""U016C909613""],""count"":3},{""name"":""100"",""users"":[""U017E2A2KPS"",""U016C909613""],""count"":2}]",5
+1595888284.147100,U016C909613,congrats! where at <@U016VTJACBW>?,"Mon, 19 Jan 1970 11:18:08 GMT",1595887100.146900,U016VTJACBW,,0
+1596119432.190800,U016VTJACBW,"<@U016C909613> Thanks! Foundation <https://withfoundation.com/>
+
+Going to “announce” that on Twitter later today, so please keep that on the down low for now.","Mon, 19 Jan 1970 11:21:59 GMT",1595887100.146900,U016C909613,,0
+1596119522.191100,U016C909613,amazing! congrats man. thats a big deal,"Mon, 19 Jan 1970 11:21:59 GMT",1595887100.146900,,,0
+1596119815.191300,U016VTJACBW,"Thanks! Yeah, I’m excited","Mon, 19 Jan 1970 11:21:59 GMT",1595887100.146900,,,0
+1595886671.146400,U017EP3GQM6,"<!here> Excited to share our week 2 update.
+<https://parcel.substack.com/p/parcel-week-2-update>","Mon, 19 Jan 1970 11:18:06 GMT",1595886671.146400,,"[{""name"":""100"",""users"":[""U017E2A2KPS"",""U016C909613"",""U017DN0DZ08"",""U017EP3GQM6""],""count"":4},{""name"":""raised_hands"",""users"":[""U017E2A2KPS"",""U016C909613"",""U017DN0DZ08"",""U017EP3GQM6""],""count"":4}]",8
+1595888339.147300,U016C909613,"&gt; Looking for business development person to join the team.
+<@U0172CTQ3A5> curious if anyone in your network might be interested
+
+also <@U016C8XH6NR> — your friend you mentioned the other day","Mon, 19 Jan 1970 11:18:08 GMT",1595886671.146400,"U0172CTQ3A5,U016C8XH6NR",,0
+1595888382.147500,U016C909613,"have you talked to <@U01748SCQ81> yet for a user interview?
+
+<https://kernel-community.slack.com/archives/C016FEAQ7EX/p1595440266050500>","Mon, 19 Jan 1970 11:18:08 GMT",1595886671.146400,U01748SCQ81,,0
+1595888417.148000,U016C909613,also is this ready to use on mainnet? could we try it at gitcoin?,"Mon, 19 Jan 1970 11:18:08 GMT",1595886671.146400,,,0
+1595888571.148900,U017EP3GQM6,Would love to talk to <@U01748SCQ81> for the feedback.,"Mon, 19 Jan 1970 11:18:08 GMT",1595886671.146400,U01748SCQ81,,0
+1595888583.149100,U016C909613,book a slot on his calendly!,"Mon, 19 Jan 1970 11:18:08 GMT",1595886671.146400,,"[{""name"":""white_check_mark"",""users"":[""U017EP3GQM6""],""count"":1}]",1
+1595888598.149300,U016C909613,and go to sleep :wink:,"Mon, 19 Jan 1970 11:18:08 GMT",1595886671.146400,,,0
+1595888636.149600,U017EP3GQM6,We are not on mainnet yet. Will release the first version on rinkeby on 6th august.,"Mon, 19 Jan 1970 11:18:08 GMT",1595886671.146400,,,0
+1595888715.149800,U017EP3GQM6,Sure. going to sleep in sometime.,"Mon, 19 Jan 1970 11:18:08 GMT",1595886671.146400,,,0
+1595882029.145600,U017DN0DZ08,EPNS Week 2 updates <https://epns.substack.com/p/epns-update-week-2-update>,"Mon, 19 Jan 1970 11:18:02 GMT",,,"[{""name"":""seedling"",""users"":[""U016Q1TQAKV"",""U017E2A2KPS""],""count"":2},{""name"":""100"",""users"":[""U017E2A2KPS""],""count"":1}]",3
+1595881779.144200,U016Q3TCF45,"impactMarket: Week 2 update
+<https://impactmarket.substack.com/p/week-2-updade-kernel|https://impactmarket.substack.com/p/week-2-updade-kernel>","Mon, 19 Jan 1970 11:18:01 GMT",1595881779.144200,,"[{""name"":""heavy_check_mark"",""users"":[""U017E2A2KPS"",""U016Q1J7Y83""],""count"":2}]",2
+1595888486.148200,U016C909613,"very interesting overlap with the debt discussion from today — <@U0172CTQ3A5>, <@U016Q117G67>, <@U017E8GN0EL>, <@U016Q1J7Y83>","Mon, 19 Jan 1970 11:18:08 GMT",1595881779.144200,"U0172CTQ3A5,U016Q117G67,U017E8GN0EL,U016Q1J7Y83","[{""name"":""muscle"",""users"":[""U016Z7XQC7N"",""U0172CTQ3A5""],""count"":2}]",2
+1595888495.148700,U016C909613,great stuff marco,"Mon, 19 Jan 1970 11:18:08 GMT",1595881779.144200,,,0
+1595893453.150800,U016Z7XQC7N,On the topic of UBI and Covid-19 inflection points - as well as the Kernel topics - an article by Michael Casey (great mind and great guy) from last May - <https://www.coindesk.com/money-reimagined-designer-money-for-a-machine-run-post-covid-world>,"Mon, 19 Jan 1970 11:18:13 GMT",1595881779.144200,,,0
+1595877002.143100,U016A43FT0F,Porium week 2 updates <https://porium.substack.com/p/porium-updates>,"Mon, 19 Jan 1970 11:17:57 GMT",,,"[{""name"":""fire"",""users"":[""U016ZPHMHL4"",""U016C909613"",""U017E2A2KPS""],""count"":3},{""name"":""100"",""users"":[""U017E2A2KPS""],""count"":1},{""name"":""heavy_check_mark"",""users"":[""U017E2A2KPS""],""count"":1}]",5
+1595868605.141100,U01691XLMD5,"Week 2 Update for Ants-Review:
+<https://antsreview.substack.com/p/ants-review-kernel-weekly-update-434>","Mon, 19 Jan 1970 11:17:48 GMT",1595868605.141100,,"[{""name"":""fire"",""users"":[""U016ZPHMHL4"",""U016C909613"",""U017E2A2KPS""],""count"":3},{""name"":""100"",""users"":[""U017E2A2KPS""],""count"":1}]",4
+1595879413.143500,U016ZPHMHL4,Congrats on your paper being accepted for presentation!,"Mon, 19 Jan 1970 11:17:59 GMT",1595868605.141100,,"[{""name"":""raised_hands"",""users"":[""U01691XLMD5""],""count"":1},{""name"":""pray"",""users"":[""U01691XLMD5""],""count"":1}]",2
+1595866703.140800,U016M08G1M4,"Updated the above, because got the feedback that it is not clear where the value proposition is:
+
+<https://miro.com/welcomeonboard/CZSZBiP4iVZuX61bEMMBYifyHFE3LcmHUUlH44SP7YOQ1oHhmKZsnDXqWqkBKu7z>","Mon, 19 Jan 1970 11:17:46 GMT",,,"[{""name"":""100"",""users"":[""U017E2A2KPS""],""count"":1}]",1
+1595856944.139300,U016M08G1M4,"Hi everyone, here is my lean canvas for mass retail adoption (with baby steps). Please absolutely destroy this. You have comment capabilities :slightly_smiling_face:
+
+<https://miro.com/welcomeonboard/CZSZBiP4iVZuX61bEMMBYifyHFE3LcmHUUlH44SP7YOQ1oHhmKZsnDXqWqkBKu7z>","Mon, 19 Jan 1970 11:17:36 GMT",,,"[{""name"":""heavy_check_mark"",""users"":[""U016C909613"",""U017E2A2KPS""],""count"":2}]",2
+1595852754.138200,U017X1PE8HX,<@U017X1PE8HX> has joined the channel,"Mon, 19 Jan 1970 11:17:32 GMT",,,,0
+1595848258.135900,U01733WAA1F,Week 2 update for game3.js :sunrise_over_mountains: <https://game3js.substack.com/p/game3js-newsletter-2>,"Mon, 19 Jan 1970 11:17:28 GMT",1595848258.135900,,"[{""name"":""100"",""users"":[""U017E2A2KPS"",""U016C8XH6NR"",""U017DN0DZ08"",""U01742DST7B"",""U016A43FT0F"",""U016ZPHMHL4"",""U016C909613""],""count"":7},{""name"":""heavy_check_mark"",""users"":[""U017DN0DZ08"",""U01742DST7B"",""U017E2A2KPS"",""U016C909613""],""count"":4},{""name"":""party_parrot"",""users"":[""U016C8XH6NR"",""U016C909613""],""count"":2}]",13
+1595851581.136900,U016Q117G67,"""Their virtual economies will need to have the same utility as those of sovereign fiat currencies. They will need to provide more meaning in people’s lives than just being a vehicle for intrusive ads and forced in-app purchases."" :fire:
+
+Also, maybe you could get some ideas for onboarding stuff from here? <https://github.com/blocknative/onboard>","Mon, 19 Jan 1970 11:17:31 GMT",1595848258.135900,,"[{""name"":""heart"",""users"":[""U01733WAA1F""],""count"":1}]",1
+1595852695.137700,U01733WAA1F,"Thanks <@U016Q117G67>! :pray:  I'll look into blocknative. The sdk currently uses Web3Modal, but I also have to play around with blocknative and at how Austin is doing onboarding via scaffold-eth","Mon, 19 Jan 1970 11:17:32 GMT",1595848258.135900,U016Q117G67,,0
+1595852745.137900,U016Q117G67,"oh ya, I mean obvs <@U017X1PE8HX> ftw. That guy can do anything last I heard... :wink:","Mon, 19 Jan 1970 11:17:32 GMT",1595848258.135900,U017X1PE8HX,"[{""name"":""rocket"",""users"":[""U01733WAA1F""],""count"":1}]",1
+1595853089.138400,U01733WAA1F,Nifty Ink is :fire:! <https://nifty.ink/>,"Mon, 19 Jan 1970 11:17:33 GMT",1595848258.135900,,,0
+1595838057.132600,U01742DST7B,"Week 2 Update for AWeb3Game:
+<https://aweb3game.substack.com/p/aweb3game-project-updates-2>","Mon, 19 Jan 1970 11:17:18 GMT",,,"[{""name"":""fire"",""users"":[""U016ZPHMHL4"",""U016Q1TQAKV"",""U016C8XH6NR"",""U01733WAA1F"",""U017E2A2KPS"",""U016A43FT0F""],""count"":6},{""name"":""100"",""users"":[""U017E2A2KPS"",""U016C8XH6NR""],""count"":2},{""name"":""heavy_check_mark"",""users"":[""U016C8XH6NR"",""U01733WAA1F"",""U017E2A2KPS""],""count"":3},{""name"":""+1"",""users"":[""U017E2A2KPS""],""count"":1}]",12
+1595783919.128100,U016ZPHMHL4,"Hey all, happy weekend! Decade’s week 2 post is up: <https://decade.substack.com/p/kernel-week-2-update>","Mon, 19 Jan 1970 11:16:23 GMT",1595783919.128100,,"[{""name"":""fire"",""users"":[""U017DN0DZ08"",""U016HR010LE"",""U017E885WBA"",""U017PNSBENQ"",""U017E2A2KPS"",""U016A43FT0F"",""U01733WAA1F"",""U016C8XH6NR"",""U016Q117G67"",""U016C909613""],""count"":10},{""name"":""heavy_check_mark"",""users"":[""U017E2A2KPS"",""U01733WAA1F"",""U016C8XH6NR"",""U016C909613""],""count"":4}]",14
+1595784492.128600,U017DN0DZ08,Nice updates <@U016ZPHMHL4> The clickable prototype is just wow :rocket:!!,"Mon, 19 Jan 1970 11:16:24 GMT",1595783919.128100,U016ZPHMHL4,"[{""name"":""100"",""users"":[""U017E2A2KPS""],""count"":1}]",1
+1595785193.129100,U016ZPHMHL4,"Thanks Richa, all down to <@U017PNSBENQ>!","Mon, 19 Jan 1970 11:16:25 GMT",1595783919.128100,U017PNSBENQ,"[{""name"":""raised_hands"",""users"":[""U017DN0DZ08"",""U0172G1A28H"",""U017E2A2KPS""],""count"":3}]",3
+1595844837.134100,U016C8XH6NR,Thanks for this ohsom update <@U016ZPHMHL4> <@U017PNSBENQ> :rainbow:,"Mon, 19 Jan 1970 11:17:24 GMT",1595783919.128100,"U016ZPHMHL4,U017PNSBENQ","[{""name"":""heart"",""users"":[""U016ZPHMHL4""],""count"":1}]",1
+1595779681.126100,U017E885WBA,"Happy :sunny: day, this week updates on StablePay progress:
+<https://stablepay.substack.com/p/stablepay-week-2-update>","Mon, 19 Jan 1970 11:16:19 GMT",,,"[{""name"":""fire"",""users"":[""U017DN0DZ08"",""U016ZPHMHL4"",""U017E2A2KPS"",""U01733WAA1F""],""count"":4},{""name"":""heavy_check_mark"",""users"":[""U017E2A2KPS""],""count"":1}]",5
+1595771840.124800,U016HR010LE,"The Genie’s is here :genie:
+Welcome to our newsletter on <https://genie.substack.com/>","Mon, 19 Jan 1970 11:16:11 GMT",1595771840.124800,,"[{""name"":""fire"",""users"":[""U017DN0DZ08"",""U016ZPHMHL4"",""U017E2A2KPS"",""U01733WAA1F""],""count"":4},{""name"":""heavy_check_mark"",""users"":[""U017E2A2KPS""],""count"":1}]",5
+1595783986.128300,U016ZPHMHL4,":wave: :genie:
+nice one Leon! looking forward to the Chainlink junto","Mon, 19 Jan 1970 11:16:23 GMT",1595771840.124800,,"[{""name"":""+1"",""users"":[""U016HR010LE""],""count"":1},{""name"":""raised_hands"",""users"":[""U016HR010LE""],""count"":1},{""name"":""fire"",""users"":[""U01733WAA1F""],""count"":1}]",3
+1595768544.123300,U016HPVFV54,<https://delance.substack.com/p/week-2-progress-update>  Delance Update! MVP v1.0 live.,"Mon, 19 Jan 1970 11:16:08 GMT",,,"[{""name"":""eyes"",""users"":[""U016PUK3G9Z"",""U016C909613"",""U016A43FT0F"",""U017DN0DZ08"",""U017E2A2KPS"",""U01733WAA1F""],""count"":6},{""name"":""fire"",""users"":[""U017DN0DZ08"",""U016ZPHMHL4"",""U017E2A2KPS"",""U01733WAA1F""],""count"":4},{""name"":""heavy_check_mark"",""users"":[""U017E2A2KPS"",""U01742DST7B""],""count"":2}]",12
+1595647615.121800,U017E8GN0EL,"Weekly Update for DefiHedge:
+
+<https://defihedge.substack.com/p/the-decentralized-protocol-for-fixed>
+
+TLDR: Created Landing Website/Hosted on IPFS, began work on DEX, breaking down Loopring DEX for framework.","Mon, 19 Jan 1970 11:14:07 GMT",,,"[{""name"":""fire"",""users"":[""U016A43FT0F"",""U016ZPHMHL4"",""U017EP3GQM6"",""U017E2A2KPS"",""U01733WAA1F""],""count"":5},{""name"":""heavy_check_mark"",""users"":[""U017E2A2KPS""],""count"":1}]",6
+1594839800.000300,U016C909613,<@U016C909613> set the channel purpose: Channel to post your weekly updates to the KERNEL Community!,"Mon, 19 Jan 1970 11:00:39 GMT",,,,0
+1594839800.000200,U016C909613,<@U016C909613> has joined the channel,"Mon, 19 Jan 1970 11:00:39 GMT",,,,0

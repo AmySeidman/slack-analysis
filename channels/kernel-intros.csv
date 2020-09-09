@@ -1,0 +1,167 @@
+id,user,text,timestamp,in_reply_to,mentioned_users,reactions,total_reactions
+1599672830.030100,U01AB8MNA3T,Glad to meet you all - and really cool to see <@U016C909613> and the team putting together an amazing program! I'm with the venture investment team at Consensys and bidding goodbye to summer here in Berlin. Looking forward to interacting more!,"Mon, 19 Jan 1970 12:21:12 GMT",,U016C909613,"[{""name"":""wave"",""users"":[""U016PNPMFSN"",""U0172CM3049"",""U017DN0DZ08"",""U016C8XH6NR""],""count"":4}]",4
+1599144789.022200,U019LNLNUEB,"Nice to meet you everyone, and thanks <@U016C909613> for the invite.
+It's Alex here, from Italy, I'm a serial entrepreneur, and the director of <https://mracrypto.com|MRA Crypto>.
+My main focus is on *Distributed Governance* and *Collaborative Economics*, and in the last 4 years I've been helping developers and innovators to design and implement novel mechanisms of governance and tokenomics to support their distributed tech innovation.
+
+I'm happy to start this new partnership with Gitcoin, and support this amazing, disruptive community.
+Feel free to get in touch for any feedback and support in these areas :thumbsup:
+
+Cheers,
+Alex","Mon, 19 Jan 1970 12:12:24 GMT",1599144789.022200,U016C909613,"[{""name"":""raised_hands"",""users"":[""U01733WAA1F"",""U016C909613"",""U016NEJETQV"",""U016QSTSQQM"",""U016HFP7P2A"",""U0172CM3049"",""U0172G1A28H""],""count"":7},{""name"":""seedling"",""users"":[""U016C8XH6NR"",""U016HFP7P2A"",""U0172CM3049""],""count"":3},{""name"":""wave"",""users"":[""U016C8XH6NR"",""U016QSTSQQM"",""U016HFP7P2A"",""U0172CM3049""],""count"":4},{""name"":""rocket"",""users"":[""U016QSTSQQM"",""U016HFP7P2A"",""U0172CM3049"",""U0169FVV2LF""],""count"":4}]",18
+1599182653.024000,U016HFP7P2A,Welcome Alex. Glad to have you on board! :party_parrot:,"Mon, 19 Jan 1970 12:13:02 GMT",1599144789.022200,,"[{""name"":""raised_hands"",""users"":[""U019LNLNUEB""],""count"":1}]",1
+1599231026.025200,U0169FVV2LF,Glad to see you here <@U019LNLNUEB> ,"Mon, 19 Jan 1970 12:13:51 GMT",1599144789.022200,U019LNLNUEB,,0
+1599231103.025400,U019LNLNUEB,"Hi Val! Are you the Val from Festival Labs by any chance? :slightly_smiling_face:
+<@U0169FVV2LF>","Mon, 19 Jan 1970 12:13:51 GMT",1599144789.022200,U0169FVV2LF,"[{""name"":""party_parrot"",""users"":[""U0169FVV2LF""],""count"":1}]",1
+1599233079.025900,U0169FVV2LF,That’s me!,"Mon, 19 Jan 1970 12:13:53 GMT",1599144789.022200,,,0
+1599236483.026100,U019LNLNUEB,"Awesome, what a small world! Happy to see you here! :smile:
+<@U0169FVV2LF>","Mon, 19 Jan 1970 12:13:56 GMT",1599144789.022200,U0169FVV2LF,,0
+1599236612.026300,U019LNLNUEB,What have you been working on during Kernel?,"Mon, 19 Jan 1970 12:13:56 GMT",1599144789.022200,,,0
+1599270592.026600,U0169FVV2LF,GODMODE!,"Mon, 19 Jan 1970 12:14:30 GMT",1599144789.022200,,,0
+1599270737.026900,U0169FVV2LF,<https://godmode.substack.com/people/13536496-godmode|https://godmode.substack.com/people/13536496-godmode>,"Mon, 19 Jan 1970 12:14:30 GMT",1599144789.022200,,,0
+1599322041.027200,U019LNLNUEB,"Thanks for sharing, Val.
+Quite a useful tool indeed, if I may give a small suggestion: I see a good use-case for it in verifying governance and tokenomics assumptions. You may have a look at cadCAD as well, I see some potential synergy with them :thumbsup:
+<@U0169FVV2LF>","Mon, 19 Jan 1970 12:15:22 GMT",1599144789.022200,U0169FVV2LF,"[{""name"":""raised_hands"",""users"":[""U0169FVV2LF""],""count"":1}]",1
+1599322101.027400,U019LNLNUEB,"Here’s a link, in case you want to give it a try --&gt; <https://cadcad.org/>","Mon, 19 Jan 1970 12:15:22 GMT",1599144789.022200,,,0
+1599335419.028300,U0169FVV2LF,Someone else mentioned cadcad <@U017DK86Y6L> yeah I think it will be useful for us to look into,"Mon, 19 Jan 1970 12:15:35 GMT",1599144789.022200,U017DK86Y6L,"[{""name"":""+1"",""users"":[""U017DK86Y6L""],""count"":1}]",1
+1598716295.029900,U019SGAQGE4,Hi everyone! :wave:  My name is Justin Dorfman and I proudly work for Gitcoin. I have been involved in the FOSS community for close to a decade and the past four years I’ve been focused on open source sustainability. I co-founded `<http://sustainoss.org|sustainoss.org>` and co-host a weekly podcast called <https://podcast.sustainoss.org/|Sustain>. I look forward to connecting with all of you. :slightly_smiling_face:,"Mon, 19 Jan 1970 12:05:16 GMT",1598716295.029900,,"[{""name"":""+1"",""users"":[""U017DKW89DW"",""U017DN0DZ08"",""U0172G1A28H"",""U016HFP7P2A""],""count"":4}]",4
+1598774577.000300,U017DN0DZ08,"Welcome <@U019SGAQGE4>, great to have you here :seedling:","Mon, 19 Jan 1970 12:06:14 GMT",1598716295.029900,U019SGAQGE4,"[{""name"":""heart"",""users"":[""U019SGAQGE4""],""count"":1}]",1
+1599144299.019700,U016HFP7P2A,Welcome buddy. Hope you feel right at home with us :slightly_smiling_face:,"Mon, 19 Jan 1970 12:12:24 GMT",1598716295.029900,,"[{""name"":""heart"",""users"":[""U019SGAQGE4""],""count"":1}]",1
+1599145068.022400,U019LNLNUEB,Hi <@U019SGAQGE4>! Nice to see you here too :slightly_smiling_face:,"Mon, 19 Jan 1970 12:12:25 GMT",1598716295.029900,U019SGAQGE4,"[{""name"":""heart"",""users"":[""U019SGAQGE4""],""count"":1}]",1
+1598633805.024200,U016Z7XQC7N,"<@U0169FVV2LF> thanks for that! Was totally confused lol 
+
+<@U019P395Y2U> ditto 
+Love to chat about alignment ;)","Mon, 19 Jan 1970 12:03:53 GMT",1597776957.012800,,"[{""name"":""+1"",""users"":[""U0169FVV2LF""],""count"":1}]",1
+1598409230.006000,U018W6481FC,"Hey all, happy to be here! My name is Tate Berenbaum, and I’m a co-founder of <https://nest.land> and Verto (site launching soon). Nest.land is a module registry and CDN for a new JavaScript runtime called Deno, and it’s powered by Arweave. Verto is a completely decentralized Arweave PST exchange in the works. I got into blockchain back in November of 2017, right around Bitcoin’s bull run to 20k. Since then, I’ve studied various chains and protocols ever since. By day, I’m also a high school student. Feel free to reach out if you’d like to connect!","Mon, 19 Jan 1970 12:00:09 GMT",1598409230.006000,,"[{""name"":""raised_hands"",""users"":[""U0172CM3049"",""U016C909613"",""U017E2A2KPS"",""U016C8XH6NR"",""U016Q0F66FM"",""U0172CB3649"",""U017G0TNCFN"",""U0172G1A28H"",""U016S933QQ1"",""U016HAELGES"",""U017DKW89DW"",""U019SGAQGE4"",""U016HFP7P2A""],""count"":13},{""name"":""fire"",""users"":[""U016C8XH6NR"",""U016Q0F66FM"",""U0172CB3649"",""U017G0TNCFN"",""U016S933QQ1"",""U01927CCPFE"",""U016HFP7P2A""],""count"":7},{""name"":""party_parrot"",""users"":[""U016C8XH6NR"",""U016Q0F66FM"",""U0172CB3649"",""U017G0TNCFN"",""U016S933QQ1"",""U0169FVV2LF"",""U016HFP7P2A""],""count"":7}]",27
+1598485533.007800,U016C909613,"wonderful to have you here <@U018W6481FC> — i know <@U016S933QQ1> was hoping to connect at some point, think y’all would have a great convo on Deno + Nest Land","Mon, 19 Jan 1970 12:01:25 GMT",1598409230.006000,"U018W6481FC,U016S933QQ1",,0
+1598486159.008000,U016S933QQ1,"Great to connect <@U018W6481FC> would love to jam more on what you're up to here I think it's a super cool idea, will send a DM!","Mon, 19 Jan 1970 12:01:26 GMT",1598409230.006000,U018W6481FC,,0
+1598495087.008600,U018W6481FC,"Thanks for the invite, <@U016C909613>! Glad to be here. Nice to meet you as well, <@U016S933QQ1>. Let’s jam!","Mon, 19 Jan 1970 12:01:35 GMT",1598409230.006000,"U016C909613,U016S933QQ1",,0
+1597776957.012800,U019P395Y2U,"Hi everyone, it was good to meet! I'm the latest to the party, it seems! I come from an academic &amp; technical background but now I'm heavily into startup advisory and early stage investing. My previous career was in simulation and modeling for complex networks, and these days work with organizations such as the United Nations on cross border trade facilitation, and Block.Science on design of token economic systems using cadCAD (<http://cadCAD.org|cadCAD.org>).
+
+It was good to meet some of you Friday, and am looking forward to tomorrow's Expo as well :grinning::wave:","Mon, 19 Jan 1970 11:49:36 GMT",1597776957.012800,,"[{""name"":""seedling"",""users"":[""U016C8XH6NR"",""U016W0C1FNG"",""U016Z7XQC7N"",""U017GN6FHQA"",""U017E2A2KPS"",""U016Q1J7Y83"",""U0172G1A28H""],""count"":7},{""name"":""heart"",""users"":[""U016C8XH6NR"",""U016W0C1FNG"",""U017E2A2KPS""],""count"":3},{""name"":""rainbow"",""users"":[""U016C8XH6NR"",""U017E2A2KPS"",""U016Q1J7Y83""],""count"":3}]",13
+1597856445.015300,U016Z7XQC7N,"Hi Marek. Great to meet you 
+
+I would love to share our project w you and check in on intl trade as it may relate to our project :) 
+<#C017F166VT6|project-bflo-freeflo> ","Mon, 19 Jan 1970 11:50:56 GMT",1597776957.012800,,,0
+1598554918.010300,U0169FVV2LF,Hey what you are doing sounds pretty related to <#C018JMT0T3J|project-godmode> ,"Mon, 19 Jan 1970 12:02:34 GMT",1597776957.012800,,,0
+1598557171.012500,U016Z7XQC7N,"How is it similar?
+
+Can you send what you are seeing that seems to overlap?","Mon, 19 Jan 1970 12:02:37 GMT",1597776957.012800,,,0
+1598557675.013000,U0169FVV2LF,I’m referring to cadcad ,"Mon, 19 Jan 1970 12:02:37 GMT",1597776957.012800,,,0
+1598557719.013600,U0169FVV2LF,Are you working on that too?,"Mon, 19 Jan 1970 12:02:37 GMT",1597776957.012800,,,0
+1598557815.014500,U016Z7XQC7N,"Confused cadcad? Is that a kernel project or part of godmode?
+
+","Mon, 19 Jan 1970 12:02:37 GMT",1597776957.012800,,,0
+1598561508.019300,U0169FVV2LF,<@U016Z7XQC7N> I’m talking about cadcad. Godmode is a simulation platform. Cadcad also seems to be a simulation platform.,"Mon, 19 Jan 1970 12:02:41 GMT",1597776957.012800,U016Z7XQC7N,,0
+1598561804.021100,U0169FVV2LF,<@U019P395Y2U> would be great to chat with cadcad team if interested about our project <https://www.godmode.work/|https://www.godmode.work/>,"Mon, 19 Jan 1970 12:02:41 GMT",1597776957.012800,U019P395Y2U,,0
+1598633805.024200,U016Z7XQC7N,"<@U0169FVV2LF> thanks for that! Was totally confused lol 
+
+<@U019P395Y2U> ditto 
+Love to chat about alignment ;)","Mon, 19 Jan 1970 12:03:53 GMT",1597776957.012800,,"[{""name"":""+1"",""users"":[""U0169FVV2LF""],""count"":1}]",1
+1598975190.001600,U019P395Y2U,I someone from BlockScience (the main org developing cadCAD) I believe has reached out through your slack channel.,"Mon, 19 Jan 1970 12:09:35 GMT",1597776957.012800,,,0
+1599003132.002500,U016Z7XQC7N,Hey! I will look out for it - so far no contacts ,"Mon, 19 Jan 1970 12:10:03 GMT",1597776957.012800,,,0
+1597428254.006700,U01927CCPFE,"Hey everyone, I’m a little but I’m excited to be here! I’m Sam and I’m currently working on <https://outpost-protocol.com>. It’s a community owned blogging platform built on Arweave. We just launched yesterday so any feedback and posts you may upload is much appreciated!
+
+A little bit more about me: I’m 22 and I previously studied computer science at Columbia (briefly). I became interested in crypto in 2017 and am really excited about the potential for a web that’s built on open protocols.
+
+Looking forward to connecting with you all. My dms are always open so reach out for anything.","Mon, 19 Jan 1970 11:43:48 GMT",,,"[{""name"":""seedling"",""users"":[""U016C8XH6NR"",""U0172G1A28H"",""U016HTJ5Q4W"",""U016C909613"",""U017E2A2KPS"",""U017T22FUBF"",""U017JSCQA6L"",""U017G0TNCFN"",""U016Q1J7Y83"",""U0169FVV2LF""],""count"":10},{""name"":""wave"",""users"":[""U016C8XH6NR"",""U016C909613"",""U017E2A2KPS"",""U017G0TNCFN"",""U016Q1J7Y83""],""count"":5}]",15
+1597217352.001800,U016Z293QVA,"Hi everyone, I am also late to the party here I've had a tonne going on but glad to finally be participating actively now :D
+
+I'm Jordan originally from the UK but moved to Australia in 2005, currently 26 and I have a strong passion for computer science, programming, and tinkering with things which naturally lead to development work and experimentation in emerging technologies like blockchain.
+
+Looking forward to entering into the space as far as I can from my hobbyist background of writing projects to develop understanding and participating in MakerDAO and the like, keen to build meaningful things to solve meaningful problems; if you know of any hit me up I am keen to hear and help! FOSS is a framework I believe in strongly and it's natural pairing with open, collaborative systems makes this space even better to my eyes.
+
+Looking forward to connecting with you all over the rest of KERNEL and beyond :slightly_smiling_face:","Mon, 19 Jan 1970 11:40:17 GMT",1597217352.001800,,"[{""name"":""seedling"",""users"":[""U0172CB3649"",""U016C8XH6NR"",""U017E2A2KPS"",""U016C909613"",""U0172G1A28H"",""U017G0TNCFN""],""count"":6},{""name"":""fire"",""users"":[""U016C8XH6NR"",""U017E2A2KPS"",""U016C909613"",""U017G0TNCFN"",""U016Z7XQC7N""],""count"":5},{""name"":""party_parrot"",""users"":[""U016C8XH6NR"",""U017E2A2KPS"",""U016C909613"",""U017G0TNCFN""],""count"":4},{""name"":""wave"",""users"":[""U016C8XH6NR"",""U017E2A2KPS"",""U016C909613"",""U017G0TNCFN""],""count"":4}]",19
+1597856515.015700,U016Z7XQC7N,Welcome! ,"Mon, 19 Jan 1970 11:50:56 GMT",1597217352.001800,,,0
+1596570457.342200,U017Q8Y2BPG,"Hi there! A bit tardy to the party but glad to be here :star-struck:
+
+My name is Liz, and I’m originally from the Bay Area. I started out my career working in traditional finance at Goldman, where I discovered that the traditional finance system is slow, inefficient, and technologically cumbersome. I then decided to make the move to tech, first working at a startup in Berlin. While I was in Berlin, I was bitten by the crypto bug and moved back to the Bay to scale out operations at DFINITY. I’m currently working on the Product team at DFINITY.
+
+I’m super passionate about web3 and a proud member of the Etheruem community through DAOs like MetaCartel and Meta Gamma Delta. Constantly inspired by the vision, talent and friendliness of people within the community.
+
+Look forward to meeting you all in the coming days! :heart:","Mon, 19 Jan 1970 11:29:30 GMT",1596570457.342200,,"[{""name"":""wave"",""users"":[""U016R8N9NKX"",""U016C909613"",""U016PNPMFSN"",""U017EF8VBS4"",""U017N4HS1SN"",""U018B5H51U4"",""U016SRX7V1R"",""U016C8XH6NR"",""U0182ST8XGB"",""U016BTBS3MM"",""U018SQK276U"",""U017LMXPJF5"",""U017E2A2KPS"",""U017GN6FHQA"",""U017G0TNCFN""],""count"":15},{""name"":""party_parrot"",""users"":[""U017T22FUBF"",""U017EF8VBS4"",""U017N4HS1SN"",""U017E2A2KPS"",""U016SRX7V1R"",""U016C8XH6NR"",""U016PP38YLA"",""U017LMXPJF5"",""U017GN6FHQA"",""U016HBVGSP8"",""U017G0TNCFN""],""count"":11},{""name"":""rainbow"",""users"":[""U016Z7XQC7N"",""U018SQK276U"",""U017LMXPJF5"",""U017G0TNCFN""],""count"":4}]",30
+1596594845.343600,U016SRX7V1R,Hi <@U017Q8Y2BPG> our stories are so similar! Glad to see you around! :pray::skin-tone-2:,"Mon, 19 Jan 1970 11:29:54 GMT",1596570457.342200,U017Q8Y2BPG,"[{""name"":""heart"",""users"":[""U017Q8Y2BPG""],""count"":1}]",1
+1596643239.345100,U017Q8Y2BPG,<@U016SRX7V1R> Thanks for the kind words &amp; glad to meet you!!,"Mon, 19 Jan 1970 11:30:43 GMT",1596570457.342200,U016SRX7V1R,"[{""name"":""hugging_face"",""users"":[""U016SRX7V1R""],""count"":1}]",1
+1596728571.347400,U016Z7XQC7N,"Hey! I’m in Bay Area too ;)
+Welcome! ","Mon, 19 Jan 1970 11:32:08 GMT",1596570457.342200,,,0
+1596953464.351700,U016T0QSCMT,Nice to meet! I just got access to tungsten. We might be using Dfinity in <#C017E4QQY3H|project-secretsmarket>,"Mon, 19 Jan 1970 11:35:53 GMT",1596570457.342200,,"[{""name"":""heart"",""users"":[""U017Q8Y2BPG""],""count"":1}]",1
+1596480345.336500,U016SRX7V1R,"Hi everyone! So glad to be here with you! :hugging_face:
+
+My name is Rafaella but my family calls me ""Babi"" since I was born. I'm from São Paulo :flag-br: and dog mom (2 girls - Valentina and Teodora Celeste).
+Currently co-founder and CEO at Pods, doing options on Ethereum.
+I have a finance background - worked for investment banks, hedge funds, trading desks... until I realized that traditional finance was on the edge of a radical change. I left the bank to pursue that change and found blockchain. Passionated about DeFi and economy.
+
+Looking forward to meeting you all over these days!","Mon, 19 Jan 1970 11:28:00 GMT",,,"[{""name"":""bouncingparrot"",""users"":[""U016PNPMFSN"",""U016C909613"",""U017E2A2KPS"",""U017EF8VBS4"",""U0172CB3649"",""U017LMXPJF5"",""U017GN6FHQA"",""U0172G1A28H"",""U016HBVGSP8"",""U0176G2AZFF"",""U016HFP7P2A""],""count"":11},{""name"":""wave"",""users"":[""U016R8N9NKX"",""U0182ST8XGB"",""U016C909613"",""U017E2A2KPS"",""U016Q1J7Y83"",""U017EF8VBS4"",""U0172CB3649"",""U017LMXPJF5"",""U017GN6FHQA"",""U0176G2AZFF"",""U016HFP7P2A""],""count"":11},{""name"":""party_parrot"",""users"":[""U016C8XH6NR"",""U0182ST8XGB"",""U016C909613"",""U017E2A2KPS"",""U016PP38YLA"",""U0172CB3649"",""U017LMXPJF5"",""U016HFP7P2A""],""count"":8}]",30
+1594242208.059300,U016QSTSQQM,"Hey everybody, I'm really excited to meet all of you! I'm probably a bit late to the game at this point, but here goes nothing.
+
+You know how the KERNEL Application form talks about outsiders? Like those with hardly any background in Ethereum? Well that's me. Hello! :wave:
+
+I'm an overzealous full-stack open source enthusiast, who mainly focuses in React and React Native frontend development. I work as a software developer by day, and by night I try to push the limits of the technologies I'm passionate about. :two_hearts:
+
+Some useful facts about me: I've lead development on a few mobile apps that have reached over a million monthly active sessions, launched a <https://play.google.com/store/apps/details?id=io.github.cawfree.earth&amp;hl=en_GB|social media platform> single-handedly, recently published <https://github.com/cawfree/web3-react-native|web3-react-native> and have even programmed a particle accelerator. :atom_symbol:
+
+I'm still feeling around for ideas, I've a couple of my own mostly focused on increasing the ubiquity of Web3 in mobile applications, but ideally I'd be really interested in teaming up with someone who has a strong background in defi who is just dying to turn their brilliant idea into a reality. :bulb:
+
+<https://github.com/cawfree>
+<https://twitter.com/cawfree>","Mon, 19 Jan 1970 10:50:42 GMT",1594242208.059300,,"[{""name"":""raised_hands"",""users"":[""U016Q1TQAKV"",""U01691XLMD5"",""U0169JE8HV5"",""U016PNPMFSN"",""U0172CTQ3A5"",""U016W0C1FNG"",""U016Q0F66FM"",""U01692CEFQF"",""U016Q1TSFSN"",""U01733WAA1F"",""U0172CM3049"",""U016HAELGES"",""U017E2A2KPS"",""U016Z7XQC7N"",""U016A43FT0F"",""U0172G1A28H"",""U017HFE51EU""],""count"":17},{""name"":""woman-raising-hand"",""users"":[""U0172CB3649"",""U017E2A2KPS"",""U016C8XH6NR"",""U017HFE51EU""],""count"":4},{""name"":""heart"",""users"":[""U017EGEH0SC"",""U0172CM3049"",""U017HFE51EU""],""count"":3}]",24
+1594251412.103100,U016YQPEDU4,"Ohh, I'm also a strong react dev (Probably not as much as you) we can unite forces and for once build dapps with proper UX :yum:","Mon, 19 Jan 1970 10:50:51 GMT",1594242208.059300,,"[{""name"":""raised_hands"",""users"":[""U016QSTSQQM""],""count"":1}]",1
+1594255370.126300,U0172PWTMHP,"That's awesome, for someone who doesn't know that much about ethereum you're on the way. Ethereum + react is magic","Mon, 19 Jan 1970 10:50:55 GMT",1594242208.059300,,"[{""name"":""sweat_smile"",""users"":[""U016QSTSQQM""],""count"":1}]",1
+1594352447.354200,U016C909613,cc <@U017HFE51EU> <@U016PNPMFSN> who may be interested in connecting. Great to have you here Alex. ,"Mon, 19 Jan 1970 10:52:32 GMT",1594242208.059300,"U017HFE51EU,U016PNPMFSN","[{""name"":""heart"",""users"":[""U016QSTSQQM""],""count"":1}]",1
+1594384350.388900,U017HFE51EU,Would love to connect <@U016QSTSQQM>! DM’d you,"Mon, 19 Jan 1970 10:53:04 GMT",1594242208.059300,U016QSTSQQM,,0
+1594384355.389300,U017HFE51EU,Thanks <@U016C909613> ,"Mon, 19 Jan 1970 10:53:04 GMT",1594242208.059300,U016C909613,,0
+1594396606.394600,U016PNPMFSN,"thanks <@U016C909613>, <@U016QSTSQQM> and I connected yesterday!","Mon, 19 Jan 1970 10:53:16 GMT",1594242208.059300,"U016C909613,U016QSTSQQM",,0
+1594241278.046100,U01691XLMD5,"Hello Everyone!:wave:
+Really grateful to be part of the KERNEL Fellowship!:pray:
+
+I'm Nazzareno (naszam) a Blockchain Full-stack Engineer, Certified Ethereum Developer at Consensys Academy. Currently, Community Dev at MakerDAO, working on <https://github.com/makerdao/community/issues/537|Non-transferable Badges for Maker Ecosystem> Activity with Kernel Fellow Scott Herren, taking care of the <https://github.com/naszam/maker-badges|Smart Contracts>, hacked recently at  HackMoney as well in team MetaBadges. Won the ETHTurin Hackathon with Kernel Fellow Bianca Trovo' for the project <https://github.com/naszam/ants-review|Ants-Review>, A Protocol for Open Anonymous Peer-Reviews on Ethereum, taking care of the Smart Contracts and Architecture/Design.  Really passionate about Smart Contracts, De-Fi, DAOs, Token Economics, and all the awesome emerging technologies in the Blockchain Ecosystem. Also interested in Complex Systems, I'm an alumnus at SantaFe Institute, researching on Scalability, Eth 2.0, ... Looking forward to further develop Ants-Review and connect with Kernel fellows!","Mon, 19 Jan 1970 10:50:41 GMT",1594241278.046100,,"[{""name"":""raised_hands"",""users"":[""U0172G1A28H"",""U0169JE8HV5"",""U016Q117G67"",""U016W0C1FNG"",""U0172CTQ3A5"",""U01692CEFQF"",""U016NHHCE3F"",""U017E2A2KPS"",""U016C8XH6NR"",""U016Z7XQC7N"",""U016PP38YLA"",""U016PUP7D5Z""],""count"":12},{""name"":""ant"",""users"":[""U0172CB3649"",""U017E2A2KPS"",""U016C8XH6NR""],""count"":3},{""name"":""heart"",""users"":[""U017EGEH0SC"",""U016PUP7D5Z""],""count"":2}]",17
+1594241601.052200,U016PEM9U5B,"Hey Nazzareno - nice to meet you - really interesting work. I wrote my dissertation last year on IoT x blockchain, including (pretty simple) agent-based models of blockchain networks in Mesa - might be some intersection there. Can I take a look at some of the work that came out of the Santa Fe Institute?","Mon, 19 Jan 1970 10:50:41 GMT",1594241278.046100,,"[{""name"":""wave"",""users"":[""U01691XLMD5""],""count"":1}]",1
+1594242129.058600,U01691XLMD5,"Hi <@U016PEM9U5B>, nice to meet you! Thanks! I've also worked on the architecture for an idea for a startup involving IoTs, Big Data and Blockchain that is currently in garage mode due to homomorphic encryption still in development (Aztec Protocol), and built a template called online-marketplace as the final project for the ConsenSys Academy Bootcamp, to be used to further develop the idea, like an Airbnb for Data on Ethereum. Regarding SantaFe I've completed two certifications you can find on my Linkedin, the last of which on Algorithmic Information Dynamics: A Computational Approach to Causality and Living Systems From Networks to Cells hosted by Hector Zenil, a new type of discrete calculus based on computer programming to study causation by generating mechanistic models to help find first principles of physical phenomena building up the next generation of machine learning. I'm interested in research more on that and apply the concepts and tools to address Scalability.","Mon, 19 Jan 1970 10:50:42 GMT",1594241278.046100,U016PEM9U5B,"[{""name"":""raised_hands"",""users"":[""U016Z7XQC7N""],""count"":1}]",1
+1594234620.023900,U016BBRUNDV,I'd be happy to find here people who'd like to work with the basic math &amp; logic of the quadratic funding algorithm and find mechanism designs that can be used for web3 style immigration services.,"Mon, 19 Jan 1970 10:50:34 GMT",1594234620.023900,,"[{""name"":""woman-raising-hand"",""users"":[""U0172CB3649"",""U016HAELGES"",""U016C909613"",""U017E2A2KPS""],""count"":4},{""name"":""open_mouth"",""users"":[""U016Q0F66FM"",""U016C909613"",""U017E2A2KPS""],""count"":3},{""name"":""sparkles"",""users"":[""U0172CB3649"",""U0172CM3049"",""U016PP38YLA""],""count"":3}]",10
+1594240017.031600,U016VVB0R7E,"I can't help you with the math, but have a lot of experience working on products for global diasporas and immigration. If you ever want to pick my brain on that, reach out","Mon, 19 Jan 1970 10:50:40 GMT",1594234620.023900,,,0
+1594251538.103300,U016YQPEDU4,"All of this sounds super cool, are you part of the token engineering community? Those folks are the ones doing the most mathy/solid research on that kind of stuff
+
+Edit: <https://tokenengineeringcommunity.github.io/website/>","Mon, 19 Jan 1970 10:50:51 GMT",1594234620.023900,,"[{""name"":""100"",""users"":[""U016PP38YLA""],""count"":1}]",1
+1594251657.103600,U016YQPEDU4,btw I'm exploing the space of building more transparent/accountable/less corrupt/ more efficient governments using all of these techs. Feel free to each out!,"Mon, 19 Jan 1970 10:50:51 GMT",1594234620.023900,,,0
+1594269982.165800,U016HAELGES,"Web3 style immigration sounds really interesting, can you elaborate more on what you mean? I am really interested in staking and quadratic voting, i am currently working on a token curated registry project and am trying to think through the mechanism design, its a deep rabbit hole!","Mon, 19 Jan 1970 10:51:09 GMT",1594234620.023900,,,0
+1594234534.023100,U016R4537V1,"Hi everyone, glad to be part of the KERNEL fellowship!
+I'm a computer engineer from Brazil, I've been working with back-end since 2010, mostly using Python and now also Go. I'm a Tech Lead at SingularityNET, our product is a Decentralized AI Marketplace (here is the Beta version: <https://beta.singularitynet.io/> ) feel free to reach me out about questions of SingularityNET, Ethereum, and stuffs about Docker, CI/CD, Python and ReacJS.
+
+I also have a ""hobby"" project that I will be releasing soon this month. It is a Crypto Auction Platform that leverages gamification in its core business. Hope I can meet amazing people and help the community to grow.","Mon, 19 Jan 1970 10:50:34 GMT",,,"[{""name"":""raised_hands"",""users"":[""U016C8XH6NR"",""U017E452YTA"",""U017DN0DZ08"",""U0172G1A28H"",""U016C909613"",""U016H35D04W"",""U017E2A2KPS"",""U016Z7XQC7N""],""count"":8},{""name"":""flag-br"",""users"":[""U0172CB3649"",""U0169JE8HV5"",""U016C909613"",""U017E452YTA"",""U016SRX7V1R"",""U017E2A2KPS"",""U016QLH0DFV""],""count"":7}]",15
+1594234346.020000,U016BBRUNDV,"hi - I'm Jouko, I'm living in Helsinki, now working with a project focusing on emigrant exit cost funding - more about that at martian.fund","Mon, 19 Jan 1970 10:50:34 GMT",1594234346.020000,,"[{""name"":""wave"",""users"":[""U016C8XH6NR"",""U017DN0DZ08"",""U016PUP7D5Z"",""U016Q0F66FM"",""U0172CTQ3A5"",""U016C909613"",""U016AMDF215"",""U0172CM3049""],""count"":8},{""name"":""woman-raising-hand"",""users"":[""U0172CB3649"",""U0169JE8HV5"",""U016C909613""],""count"":3}]",11
+1594241257.045500,U0172G1A28H,wow <@U016BBRUNDV> would love to see that,"Mon, 19 Jan 1970 10:50:41 GMT",1594234346.020000,U016BBRUNDV,,0
+1594234105.017200,U017E8GN0EL,"Hey everyone, quite the variety of backgrounds, I'm Julian Traversa, founder of Nescience Software &amp; Capital, currently living just outside of Washington, D.C.
+
+Before 2017/18, my background primarily revolved around the use of data analytics to establish psychological constructs. I then spent some time with a short lived professional gaming career before making the leap from data analysis to fintech when founding Nescience as an outlet for the tools I had begun to develop for the community.
+
+At Nescience I developed an open-source rebalancing &amp; direct indexing tool, the only current solution that keeps your API keys client side.
+In addition, we released a propriety order-splitting algorithm which significantly increases market-making efficiency.
+
+At EthDenver this year, I began the development of DefiHedge, a decentralized platform/protocol for fixed-rate lending &amp; interest-rate derivatives, built on top of Compound.
+I feel that interest-rate derivates are a natural progression in DeFi, and believe that rate-swaps, as the worlds most liquid derivatives, could propel DeFi far beyond its current status.
+At this point in time, I have completed the design &amp; implementation of the protocol (hybrid orderbook allowing both off-chain order &amp; contract-fillable liquidity), and have moved on to the development of an exchange interface.
+
+If anyone is intrigued by the project and has experience with best-practices while building an exchange using React, please reach out!
+Also, if anyone has worked with libp2p and would like to contribute, we plan to implement a libp2p based relayer system similar to the 0x project, and will definitely be needing some help!","Mon, 19 Jan 1970 10:50:34 GMT",,,"[{""name"":""raised_hands"",""users"":[""U016C8XH6NR"",""U017DN0DZ08"",""U0172CTQ3A5"",""U016C909613"",""U01692CEFQF"",""U016AMDF215"",""U017E2A2KPS"",""U017LMXPJF5""],""count"":8},{""name"":""seedling"",""users"":[""U016C8XH6NR"",""U016C909613"",""U017E2A2KPS"",""U017LMXPJF5""],""count"":4},{""name"":""woman-raising-hand"",""users"":[""U0172CB3649"",""U0169JE8HV5"",""U017LMXPJF5""],""count"":3},{""name"":""heart"",""users"":[""U017EGEH0SC"",""U017LMXPJF5""],""count"":2}]",17
+1594231068.012800,U016WQPK6J0,"Hi all! :wave:
+
+I’m Rachel and I’m a JavaScript developer - most recently I have been working for 3Box doing dev rel. Really excited to be part of the programme - it's a pretty impressive cohort, also nice to see some familiar faces - <@U016PEM9U5B> <@U016VTDLG5S> <@U016NEJETQV> :-)
+
+Im trying to learn as much as I can about DeFi, and have in my spare time been working on a DeFi saving application Good Ghosting (finalist at ETH London) <https://epic-hodgkin-5d1468.netlify.app/>. Here is the landing site so far (MVP in development). Any feedback, or people interested in this sort of project reach out.
+
+Pumped for Kernel to start! :tada:","Mon, 19 Jan 1970 10:50:31 GMT",1594231068.012800,"U016PEM9U5B,U016VTDLG5S,U016NEJETQV","[{""name"":""raised_hands"",""users"":[""U0169JE8HV5"",""U016PEM9U5B"",""U0169FVV2LF"",""U016HAELGES"",""U016W0C1FNG"",""U016C8XH6NR"",""U017DN0DZ08"",""U0172G1A28H"",""U016C909613"",""U01692CEFQF"",""U016AMDF215"",""U017E2A2KPS"",""U017DTA3PB2"",""U016Q1J7Y83"",""U016NEJETQV""],""count"":15},{""name"":""woman-raising-hand"",""users"":[""U0172CB3649""],""count"":1},{""name"":""heart"",""users"":[""U017EGEH0SC""],""count"":1}]",17
+1594241126.041300,U0172G1A28H,"Great job,  <@U016WQPK6J0>,  but it starts in 8 days?","Mon, 19 Jan 1970 10:50:41 GMT",1594231068.012800,U016WQPK6J0,,0
+1594265941.160600,U016WQPK6J0,<@U0172G1A28H> thanks - sorry what do you mean it starts in 8 days?,"Mon, 19 Jan 1970 10:51:05 GMT",1594231068.012800,U0172G1A28H,,0
+1594307073.275400,U0172G1A28H,"<@U016WQPK6J0> After connecting my wallet. It says, the application will start in 8 days","Mon, 19 Jan 1970 10:51:47 GMT",1594231068.012800,U016WQPK6J0,,0
+1594307599.278600,U016WQPK6J0,"ahh yeah, ignore that - it's still a no working demo :slightly_smiling_face:","Mon, 19 Jan 1970 10:51:47 GMT",1594231068.012800,,"[{""name"":""+1"",""users"":[""U0172G1A28H""],""count"":1}]",1
+1594226652.008600,U016XTFTULU,"Hi everyone,
+
+Grateful for the opportunity to be here! My name is Evan, and it is nice to see all of your introductions! I am a software developer based out of Washington DC, USA currently working full time as a software engineer building security tooling at IOV Labs. Outside of my day job, I have recently spent a lot of time thinking about the intersection of the environment and technology.
+
+I recently consumed Netflix's documentary series Dirty Money where an episode on the company Formosa focused on big corp environmental impact seriously pissed me off, and caused me to conduct research into environmental law and technologically progressive technology companies.
+
+While conducting this research, I discovered an inspiring company based out of France called <https://planetwatch.io/|PlanetWatch>. Their Algorand based environmental sensor is only in beta (and they do not appear to be overly responsive to people looking to join the beta :disappointed: ), so I am curious about creating alternative products that strive towards leveraging web 3 technologies to improve the quality and robustness of environmental monitoring systems (think Citizen Science crossed with web 3).
+
+I hope to contribute software development as well as my passion for technology and the environment to Kernel, whether that be through pursuing some already existing project or finding like minded individuals to craft more widely available solutions similar in mission to what PlanetWatch is pursuing.
+
+Looking forward to working with everyone, and please do not hesitate to hit me up if any of this sounds interesting to you!","Mon, 19 Jan 1970 10:50:26 GMT",1594226652.008600,,"[{""name"":""+1"",""users"":[""U016W0C1FNG"",""U016PNPMFSN"",""U017E2A2KPS"",""U016QLH0DFV"",""U017DN0DZ08""],""count"":5},{""name"":""seedling"",""users"":[""U016C8XH6NR"",""U0169FVV2LF"",""U0172CB3649"",""U017DN0DZ08"",""U016AMDF215"",""U017E2A2KPS"",""U016Z7XQC7N""],""count"":7},{""name"":""raised_hands"",""users"":[""U01692CEFQF"",""U017DN0DZ08""],""count"":2},{""name"":""sparkles"",""users"":[""U016PEM9U5B""],""count"":1},{""name"":""heart"",""users"":[""U017EGEH0SC""],""count"":1}]",16
+1594232087.013900,U016PEM9U5B,Evan - let’s chat very soon - lots of overlap here :rocket:,"Mon, 19 Jan 1970 10:50:32 GMT",1594226652.008600,,,0

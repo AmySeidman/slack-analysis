@@ -1,0 +1,185 @@
+id,user,text,timestamp,in_reply_to,mentioned_users,reactions,total_reactions
+1599645213.045400,U016DN2FYQ7,"Hey KERNEL brothers and sisters, I'm reaching out to see if any devs want to work on my DeFi project, *SureVX*. It's around partially-secured P2P escrow. I'm looking for people that can commit to 10-15hrs per week in exchange for sweat equity, with a view to going full-time with appropriate funding. PM me if you're interested. :slightly_smiling_face:","Mon, 19 Jan 1970 12:20:45 GMT",1599645213.045400,,"[{""name"":""+1"",""users"":[""U016C8XH6NR"",""U016C909613""],""count"":2}]",2
+1599660329.046700,U016C909613,i know <@U0169D94QCX> is early stages in another idea called Proof-Of-Ex. not sure there will be a fit here but perhaps worth a convo :+1:,"Mon, 19 Jan 1970 12:21:00 GMT",1599645213.045400,U0169D94QCX,,0
+1599669282.047300,U0172CTQ3A5,I actually have a buddy that was working on this last year. I’ll reach out to him,"Mon, 19 Jan 1970 12:21:09 GMT",1599645213.045400,,,0
+1599585688.042500,U017T22FUBF,I invite all of you to follow us on Twitter <https://twitter.com/Silkey_io> Thank you :party_parrot:,"Mon, 19 Jan 1970 12:19:45 GMT",1599585688.042500,,"[{""name"":""+1"",""users"":[""U016C8XH6NR"",""U017EGEH0SC""],""count"":2}]",2
+1599657651.046000,U016C8XH6NR,"<https://twitter.com/sm_judge/status/1303626761695969286>
+
+Hey <@U017T22FUBF> <@U016YR3P7UL> — I have RT’ed it, and we have interest from <@U017EGEH0SC> <@U016RCGRND8> <@U017ZMGBQ2D> <@U0172KXNQCV>","Mon, 19 Jan 1970 12:20:57 GMT",1599585688.042500,"U017T22FUBF,U016YR3P7UL,U017EGEH0SC,U016RCGRND8,U017ZMGBQ2D,U0172KXNQCV",,0
+1599658471.046400,U016YR3P7UL,"Thank you Sachin, this is awesome!","Mon, 19 Jan 1970 12:20:58 GMT",1599585688.042500,,"[{""name"":""wave"",""users"":[""U016C8XH6NR""],""count"":1}]",1
+1599029846.028600,U016HFP7P2A,Yo guys anyone knows a website/tool to check the amount of fees an address has spent during a certain timeline?,"Mon, 19 Jan 1970 12:10:29 GMT",1599029846.028600,,,0
+1599029928.029000,U016Q1TQAKV,<http://Fees.wtf|Fees.wtf>,"Mon, 19 Jan 1970 12:10:29 GMT",1599029846.028600,,"[{""name"":""heart"",""users"":[""U0169FVV2LF"",""U016H5ETT6J"",""U016Z7XQC7N""],""count"":3},{""name"":""raised_hands"",""users"":[""U016NEJETQV"",""U016H5ETT6J"",""U016Z7XQC7N""],""count"":3}]",6
+1599029986.029500,U016HFP7P2A,thanks buddy :raised_hands::skin-tone-2::raised_hands::skin-tone-2:,"Mon, 19 Jan 1970 12:10:29 GMT",1599029846.028600,,"[{""name"":""raised_hands"",""users"":[""U016Q1TQAKV""],""count"":1}]",1
+1599036969.032800,U0172CM3049,neat app! :D,"Mon, 19 Jan 1970 12:10:36 GMT",1599029846.028600,,,0
+1599081396.038100,U016Z7XQC7N,Love the domain wtf lol!,"Mon, 19 Jan 1970 12:11:21 GMT",1599029846.028600,,,0
+1598945672.015700,U016BTBS3MM,What about a KERNEL Genesis block NFT? Something like POAP?,"Mon, 19 Jan 1970 12:09:05 GMT",1598945672.015700,,"[{""name"":""fire"",""users"":[""U01733WAA1F"",""U0172CM3049"",""U017DN0DZ08"",""U016QSTSQQM"",""U0169FVV2LF"",""U016W05TXUL"",""U016Z7XQC7N"",""U016PP38YLA"",""U016HFP7P2A"",""U016C8XH6NR"",""U017EF8VBS4"",""U017G0TNCFN"",""U0172BR9Q8H""],""count"":13}]",13
+1598945865.015900,U01733WAA1F,can easily make one with our contractor tool! Made during KERNEL also :smile: <https://github.com/alto-io/contractor>,"Mon, 19 Jan 1970 12:09:05 GMT",1598945672.015700,,"[{""name"":""raised_hands"",""users"":[""U0172CM3049"",""U017DN0DZ08"",""U016QSTSQQM"",""U016HFP7P2A""],""count"":4}]",4
+1598949678.016700,U0172CM3049,yess. +1 on this,"Mon, 19 Jan 1970 12:09:09 GMT",1598945672.015700,,"[{""name"":""raised_hands"",""users"":[""U017DN0DZ08"",""U016HFP7P2A""],""count"":2}]",2
+1598954288.017100,U016Q1TSFSN,:+1:,"Mon, 19 Jan 1970 12:09:14 GMT",1598945672.015700,,"[{""name"":""raised_hands"",""users"":[""U017DN0DZ08"",""U016HFP7P2A""],""count"":2}]",2
+1598958602.017700,U017DN0DZ08,love it,"Mon, 19 Jan 1970 12:09:18 GMT",1598945672.015700,,,0
+1598958690.017900,U01733WAA1F,"I can make one if there's enough demand for it :smile: We'll need to decide on what will be on the images and metadata though, similar to this:
+
+<https://github.com/alto-io/contractor/tree/master/erc1155/images>
+<https://github.com/alto-io/contractor/blob/master/erc1155/metadata.json>
+
+and this is how they'll appear on Opensea:
+
+<https://rinkeby.opensea.io/assets/contractor-erc1155-items-v5>","Mon, 19 Jan 1970 12:09:18 GMT",1598945672.015700,,,0
+1598961516.018500,U0172CM3049,"can we keep the same image there is for the tshirt?
+<https://kernel-community.slack.com/archives/C0173F7UJ00/p1598351591012700>","Mon, 19 Jan 1970 12:09:21 GMT",1598945672.015700,,,0
+1598963790.019000,U016BTBS3MM,"Would there be a way to get ""KERNEL Genesis Block"" (or Block 0) on it somewhere?","Mon, 19 Jan 1970 12:09:23 GMT",1598945672.015700,,,0
+1598963833.019200,U016BTBS3MM,"Theoretically, future cohorts could put their block on it, making it sort of parallel to ""class of '20""-like notation.","Mon, 19 Jan 1970 12:09:23 GMT",1598945672.015700,,,0
+1598964098.019400,U0172CM3049,"agreed! can have the image on page 2 in the above pdf with `block:0` below it
+or,
+```{
+  ""block"": 0,
+  ""time"": &lt;start date and end date here&gt;,
+  ""hash"": &lt;merkle root of hashes of all our names here&gt;
+  ""prevHash"": null
+}```","Mon, 19 Jan 1970 12:09:24 GMT",1598945672.015700,,"[{""name"":""dealwithitparrot"",""users"":[""U016BTBS3MM""],""count"":1}]",1
+1598964138.019800,U0172CM3049,all further batches can then use that `hash` in `prevHash` :D,"Mon, 19 Jan 1970 12:09:24 GMT",1598945672.015700,,,0
+1598964203.020600,U0172CM3049,"i can spin up a script using Slack APIs to get all our names, shouldn’t be too much of an effort","Mon, 19 Jan 1970 12:09:24 GMT",1598945672.015700,,"[{""name"":""heart"",""users"":[""U01733WAA1F"",""U016C8XH6NR"",""U016PP38YLA""],""count"":3}]",3
+1598964444.021100,U01733WAA1F,"we could get people send to their ETH addresses also, so we can mint the NFTs directly to their addresses","Mon, 19 Jan 1970 12:09:24 GMT",1598945672.015700,,"[{""name"":""+1"",""users"":[""U0169FVV2LF"",""U016BTBS3MM"",""U016HFP7P2A""],""count"":3}]",3
+1598966902.021300,U016C909613,"happy to help cooordinate here as well, great idea. cc <@U016C8XH6NR>","Mon, 19 Jan 1970 12:09:26 GMT",1598945672.015700,U016C8XH6NR,,0
+1598977384.026100,U0172CM3049,"look at that, merkle root of all our emails :D `35588021c2c7a5e38ff7ff7c0d5efeccbb7d81ecd3db6a1ea643cc0f15efb351`
+heh","Mon, 19 Jan 1970 12:09:37 GMT",1598945672.015700,,,0
+1598978928.026300,U016BTBS3MM,"**revs up quantum computer to brute force the reverse of the hash tree** Don't worry Angela, I should have this decoded in only 2^32 years or so.","Mon, 19 Jan 1970 12:09:38 GMT",1598945672.015700,,"[{""name"":""joy"",""users"":[""U0172CM3049""],""count"":1}]",1
+1598982578.026600,U0172CM3049,saved you 2^32 years :laughing: <http://willing-river.surge.sh>,"Mon, 19 Jan 1970 12:09:42 GMT",1598945672.015700,,"[{""name"":""laughing"",""users"":[""U016BTBS3MM"",""U016C8XH6NR"",""U0172G1A28H""],""count"":3}]",3
+1598995325.027200,U01693HHP9V,I'm obviously biased but an artistic soul could make a <https://nifty.ink> with the right number of copies,"Mon, 19 Jan 1970 12:09:55 GMT",1598945672.015700,,"[{""name"":""heart"",""users"":[""U01733WAA1F"",""U0172CM3049"",""U016HFP7P2A"",""U017DN0DZ08""],""count"":4}]",4
+1599029838.028300,U016HFP7P2A,this would be awesome :raised_hands::skin-tone-2:,"Mon, 19 Jan 1970 12:10:29 GMT",1598945672.015700,,,0
+1599032281.030000,U016C8XH6NR,"This is def need guys,
+
+I’d say we use *<https://nifty.ink/|nifty.ink>*. I created an nft using it myself in like 20 sec.","Mon, 19 Jan 1970 12:10:32 GMT",1598945672.015700,,,0
+1599032291.030300,U016C8XH6NR,<@U0172MSC92A> — you would love this. :slightly_smiling_face:,"Mon, 19 Jan 1970 12:10:32 GMT",1598945672.015700,U0172MSC92A,,0
+1599032476.030500,U01733WAA1F,"It would look great to see the kernel image being drawn on nifty.ink! If we're going with just one image/metadata for the NFT, <http://nifty.ink/|nifty.ink> would be a better tool than the contractor :raised_hands:
+
+If we wanted to use pre-made multiple images for the NFT (like for example maybe each NFT having an avatar? I added my terrible copy-paste example over <@U0172MSC92A>’s art:joy:) and unique metadata for each (like adding the ""class of '20"" notation, or maybe adding a user's github, kernel awards), I think that's when it makes sense to use the contractor instead","Mon, 19 Jan 1970 12:10:32 GMT",1598945672.015700,U0172MSC92A,"[{""name"":""heart"",""users"":[""U016C8XH6NR""],""count"":1},{""name"":""seedling"",""users"":[""U016C8XH6NR""],""count"":1},{""name"":""rainbow"",""users"":[""U016C8XH6NR""],""count"":1},{""name"":""fire"",""users"":[""U016C8XH6NR""],""count"":1},{""name"":""joy"",""users"":[""U0172CM3049""],""count"":1}]",5
+1599032648.030900,U016C8XH6NR,"Thanks for this paul, its makes it clearer.
+
+*Meta  data would make that nft like a certificate* :rainbow: ","Mon, 19 Jan 1970 12:10:32 GMT",1598945672.015700,,,0
+1599032680.031100,U016C8XH6NR,We should def use contractor for issuing NFTs for everyone who participated in Genesis Block.,"Mon, 19 Jan 1970 12:10:32 GMT",1598945672.015700,,"[{""name"":""heart"",""users"":[""U01733WAA1F""],""count"":1}]",1
+1599035247.032500,U01733WAA1F,"We could use nifty.ink for the kernel image art, and the contractor for the certificate :rainbow: It might just take some initial work to set up images and metadata we want, and eth addresses where the NFT will be sent","Mon, 19 Jan 1970 12:10:35 GMT",1598945672.015700,,"[{""name"":""heart"",""users"":[""U016C8XH6NR""],""count"":1}]",1
+1599118207.039700,U016C8XH6NR,"Sounds perfect <@U01733WAA1F>, lets do it. :party_parrot:","Mon, 19 Jan 1970 12:11:58 GMT",1598945672.015700,U01733WAA1F,,0
+1599127995.040400,U016BTBS3MM,"One side comment <@U01733WAA1F> - you probably thought of this, but we should try to make this as reproducible as possible so that future cohorts can mint their own KERNEL NFTs too.","Mon, 19 Jan 1970 12:12:07 GMT",1598945672.015700,U01733WAA1F,"[{""name"":""deciduous_tree"",""users"":[""U016HFP7P2A"",""U016C8XH6NR""],""count"":2}]",2
+1599135679.040600,U01733WAA1F,"Yeah <@U016BTBS3MM> for sure, i'll test out being able to add new cohorts easily :thumbsup:","Mon, 19 Jan 1970 12:12:15 GMT",1598945672.015700,U016BTBS3MM,"[{""name"":""fire"",""users"":[""U016BTBS3MM"",""U016HFP7P2A"",""U016C8XH6NR""],""count"":3}]",3
+1598835681.011200,U016Z7XQC7N,<@U016C8XH6NR> is there a way to output the info in slack? Will our access terminate at the end of kernel? If so how long will we access this? Lots of juicy bits I still need to nibble on ,"Mon, 19 Jan 1970 12:07:15 GMT",1598835681.011200,,,0
+1598853568.011700,U016C8XH6NR,Hey <@U016Z7XQC7N> — Your access wont terminate after KERNEL ends.,"Mon, 19 Jan 1970 12:07:33 GMT",1598835681.011200,U016Z7XQC7N,"[{""name"":""raised_hands"",""users"":[""U017EF8VBS4"",""U016Z7XQC7N""],""count"":2}]",2
+1598853575.011900,U016C8XH6NR,This Slack will stay :slightly_smiling_face:,"Mon, 19 Jan 1970 12:07:33 GMT",1598835681.011200,,"[{""name"":""heart"",""users"":[""U017EF8VBS4"",""U016Z7XQC7N"",""U0172G1A28H""],""count"":3}]",3
+1598855466.012600,U016Z7XQC7N,Awesome ,"Mon, 19 Jan 1970 12:07:35 GMT",1598835681.011200,,,0
+1598892037.014300,U0172CM3049,What about the messages? there’d be limited access no?,"Mon, 19 Jan 1970 12:08:12 GMT",1598835681.011200,,,0
+1598892344.014500,U016C8XH6NR,"Yes, later — messages will be archived by slack. So the magic you are doing with Sourcecred slack plugin will help a lot Angela. :rainbow:","Mon, 19 Jan 1970 12:08:12 GMT",1598835681.011200,,"[{""name"":""bouncingparrot"",""users"":[""U0172CM3049""],""count"":1}]",1
+1598892457.014800,U0172CM3049,"i have a script to retrieve all the messages, right now it gives in a very chaotic json format, let me know if it works for you Amy :smile: (can improve if you’d like)","Mon, 19 Jan 1970 12:08:12 GMT",1598835681.011200,,,0
+1598912994.015100,U016Z7XQC7N,Hey <@U0172CM3049> yes please!,"Mon, 19 Jan 1970 12:08:32 GMT",1598835681.011200,U0172CM3049,,0
+1598964173.020300,U017F30AFRP,"Hi <@U0172CM3049>, I'd love that too :smile:. Could you share that script with me too? Thank you","Mon, 19 Jan 1970 12:09:24 GMT",1598835681.011200,U0172CM3049,,0
+1598964237.020800,U0172CM3049,"yep, sure, how would you like to export the conversations though? .csv?","Mon, 19 Jan 1970 12:09:24 GMT",1598835681.011200,,,0
+1599336709.041400,U0172CM3049,"here’s a link to the `.csv` files: <https://gateway.pinata.cloud/ipfs/QmTtNNyiZpeRtD92pYM3AqUsjvNhZRM6omyHZ9bETbkWRt>
+and the script: <https://gist.github.com/nglglhtr/4ed8959a1143e8f5c1fbeb12ca4ba207>","Mon, 19 Jan 1970 12:15:36 GMT",1598835681.011200,,,0
+1598831958.003800,U016W4S9ZGU,"Hi all, I know things are winding down, but I'm doing research on universities and their relationship with the blockchain industry. What do you all consider to be:
+
+a) the most influential/important/largest projects in the space? I'm thinking, like, actually (currently) large... Coinbase, EF, Binance, entities that employ a lot of blockchain people; and
+b) who are the most influential/prolific/important academics in the space?
+
+Just taking a general poll, so there's no real way to be wrong! Have an internal list of academics and projects, but just want to make sure I'm not missing anything obvious  :slightly_smiling_face:
+
+Thanks all!!","Mon, 19 Jan 1970 12:07:11 GMT",1598831958.003800,,,0
+1598832300.009300,U017HN6F9NU,"Hi <@U016W4S9ZGU>. Undergrad researcher here. Basically within ASU Blockchain Research Lab the most popular topics are either contributing to core/infrastructure for Ethereum (moreso than Hyperledger) or building applications (in this case, Hyperledger moreso than Ethereum) as it’s easier to get funding for the latter
+
+There is a miscellaneous mix of other projects, like using NuCypher proxy reencryption or building our own platforms, but it’s highly contingent on the research interests of the faculty
+
+Overall although there are academics that make sound open-source contributions as to possible applications and theoretical scaling &amp; security mechanisms, people like <@U0180195551> and Vitalik Buterin are the role models because much of the notable R&amp;D is happening within their organizations","Mon, 19 Jan 1970 12:07:12 GMT",1598831958.003800,"U016W4S9ZGU,U0180195551",,0
+1598843965.011400,U016W4S9ZGU,"Thanks, <@U017HN6F9NU>!  Super fascinating.  May be interested in connecting to learn more about the ASU blockchain lab—poked around on the site a little but don't know much about it. Appreciate the info!","Mon, 19 Jan 1970 12:07:23 GMT",1598831958.003800,U017HN6F9NU,,0
+1598555284.053600,U016Q01RH5H,"is the supply of ETH going over 100 million, and the delay of ETH 2.0 related?","Mon, 19 Jan 1970 12:02:35 GMT",,,,0
+1598554202.052900,U0169FVV2LF,Anyone interested in doing a low key (all fun) web3 competition?,"Mon, 19 Jan 1970 12:02:34 GMT",1598554202.052900,,,0
+1598586584.053800,U016C8XH6NR,That sounds interesting <@U0169FVV2LF> Do you have anything in mind?,"Mon, 19 Jan 1970 12:03:06 GMT",1598554202.052900,U0169FVV2LF,,0
+1598884070.013300,U0169FVV2LF,Yeah <@U016C8XH6NR>. Have you heard of tryhackme?,"Mon, 19 Jan 1970 12:08:04 GMT",1598554202.052900,U016C8XH6NR,,0
+1598885882.013500,U016C8XH6NR,google says a cyber security platform.,"Mon, 19 Jan 1970 12:08:05 GMT",1598554202.052900,,,0
+1598885896.013700,U016C8XH6NR,"Dont tell me, are you thinking what i am thinking Val?","Mon, 19 Jan 1970 12:08:05 GMT",1598554202.052900,,,0
+1598885939.013900,U016C8XH6NR,Like cracking the protocols open kinda stuff?,"Mon, 19 Jan 1970 12:08:05 GMT",1598554202.052900,,,0
+1598969315.024200,U0169FVV2LF,Yes! Kind of like a bounty but more deliberate for learning. So we make solvable hacks or even just have tasks to build something. Godmode is a good fit for it too actually.,"Mon, 19 Jan 1970 12:09:29 GMT",1598554202.052900,,,0
+1598969365.025100,U0169FVV2LF,I also like the idea of having it be like live streamed competition head to head,"Mon, 19 Jan 1970 12:09:29 GMT",1598554202.052900,,,0
+1598976613.025900,U0169FVV2LF,Ooo I think ethernaut May be similar,"Mon, 19 Jan 1970 12:09:36 GMT",1598554202.052900,,,0
+1599029960.029300,U016HFP7P2A,Live streamed competition of people hacking Eth smart contracts sounds fucking cool. I think a bunch of people can benefit from this (me included).,"Mon, 19 Jan 1970 12:10:29 GMT",1598554202.052900,,,0
+1595412777.331700,U017EF8VBS4,<@U016M08G1M4> I am!,"Mon, 19 Jan 1970 11:10:12 GMT",,U016M08G1M4,"[{""name"":""raised_hands"",""users"":[""U016M08G1M4""],""count"":1}]",1
+1595410753.330500,U016M08G1M4,Is there anyone still looking for a team?,"Mon, 19 Jan 1970 11:10:10 GMT",,,,0
+1595407466.329800,U016T0QSCMT,Thoughts on Polkadot as it relates to ETH or just in general?,"Mon, 19 Jan 1970 11:10:07 GMT",1595407466.329800,,,0
+1595432479.342700,U016Q0F66FM,"I hacked around with it for a weekend, so I can share some of my thoughts. There's probably plenty of misconceptions I'm making since I don't have the deepest of understanding of the protocol and my experience with it is rather brief.
+
+It's a lot faster, more scalable, cheaper gas than ethereum. Time to finality is roughly 5-7 seconds, and the gas price is virtually unnoticeable from my experience with it. It also has the ability for people to build their own blockchains with unique core functionality using substrate, which is something (as I understand it) ETH2 won't necessarily support, though the vast majority of use cases don't need it's own blockhain. It's already out in mainnet after being relatively extensively tested in kusama, so it's cool to see a truly scalable layer one out in mainnet. In contrast, we still don't have to clear a date eth2 mainnet will be live in its full form, though perhaps for good reason because this sort of thing is important to get right early on. 
+
+That being said the amount of parachains it can have is limited to the scalability of the relay chain. The relay chain also introduces some degree of centralization, and ymmv as far as your concern thereof. 
+
+They other thing I did want to mention is that the devX for substrate is pretty bad. Atm the libraries and abstractions are quite clunky and hard to use unless you're quite familiar with the internals and really good at rust.","Mon, 19 Jan 1970 11:10:32 GMT",1595407466.329800,,"[{""name"":""raised_hands"",""users"":[""U016T0QSCMT""],""count"":1},{""name"":""+1"",""users"":[""U016T0QSCMT""],""count"":1},{""name"":""heart"",""users"":[""U016T0QSCMT""],""count"":1},{""name"":""heavy_check_mark"",""users"":[""U016T0QSCMT""],""count"":1}]",4
+1595432547.342900,U016Q0F66FM,"They also are planning to be very closely integrated with eth using some kind of bridge network, though I haven't looked into it so much.","Mon, 19 Jan 1970 11:10:32 GMT",1595407466.329800,,,0
+1595432628.343100,U016Q0F66FM,"In general due to the 'build your own blockhain' nature of Polkadot I think it leans towards being more useful for some use cases than others, specifically use cases that a homogenous blockchain like ethereum doesn't handle as well.","Mon, 19 Jan 1970 11:10:32 GMT",1595407466.329800,,"[{""name"":""fire"",""users"":[""U016T0QSCMT""],""count"":1}]",1
+1595432920.343300,U016Q0F66FM,"I don't think we should be opposed to other layer ones, and I don't think there will eventually be a 'one blockchain to rule them all' kind of situation because each has its own tradeoffs that make it more attractive for some use cases than others, and there are plenty of ways to connect blockchains to each other anyways, so I think it's good for us to keep experimenting with building stuff on other protocols rather than the 'one chain to rule them all' approach.","Mon, 19 Jan 1970 11:10:32 GMT",1595407466.329800,,,0
+1595433302.343800,U016Q0F66FM,"I accually really like NEAR protocol as an alternative layer one - IMHO its developer experience is probably at least on-par with ethereum and it’s constantly improving. Rust is a much better language for writing smart contracts than solidity because, well, solidity is kind of a mess - basically as if we were using JavaScript on a blockchain.","Mon, 19 Jan 1970 11:10:33 GMT",1595407466.329800,,"[{""name"":""+1"",""users"":[""U016T0QSCMT""],""count"":1}]",1
+1595454051.345700,U016T0QSCMT,<@U016Q0F66FM> thank you so much for your in-depth explanation arising from your experience. This is the most valuable piece of information I've read on the topic (as most the other information is from Polkadot). Thank you thank you thank you!,"Mon, 19 Jan 1970 11:10:54 GMT",1595407466.329800,U016Q0F66FM,,0
+1595454083.346100,U016T0QSCMT,And thanks for the recommend on NEAR.Will look into as well!,"Mon, 19 Jan 1970 11:10:54 GMT",1595407466.329800,,,0
+1595454517.346400,U016Q0F66FM,of course :slightly_smiling_face:,"Mon, 19 Jan 1970 11:10:54 GMT",1595407466.329800,,,0
+1595251027.318800,U0169FVV2LF,Hey yall. Im having trouble finding stuff on notion. For example. designer's garden--I missed the video call where I think this was covered and can't find any more info on it in notion right now. Can someone point me in the right direction?,"Mon, 19 Jan 1970 11:07:31 GMT",1595251027.318800,,,0
+1595252824.320300,U016Q117G67,"Hey <@U0169FVV2LF> not sure if this is exactly what you're looking for, but all the design resources + the two big talks from last week are also on the website: <https://kernel.community/resources/design-spec/>","Mon, 19 Jan 1970 11:07:32 GMT",1595251027.318800,U0169FVV2LF,,0
+1595252878.320600,U0169FVV2LF,"lol I'm not sure what I'm looking for either. What is ""designer's garden"" <@U016Q117G67>?","Mon, 19 Jan 1970 11:07:32 GMT",1595251027.318800,U016Q117G67,,0
+1595252972.320800,U016Q117G67,That was the name of last week's build track - nothing special really,"Mon, 19 Jan 1970 11:07:32 GMT",1595251027.318800,,,0
+1595253002.321000,U016Q117G67,Apart from the people who gave the talks etc - some real gems of insight in there,"Mon, 19 Jan 1970 11:07:33 GMT",1595251027.318800,,"[{""name"":""+1"",""users"":[""U0169FVV2LF""],""count"":1}]",1
+1595377810.327000,U016HFP7P2A,wondering if there are any recorded sessions of the talks,"Mon, 19 Jan 1970 11:09:37 GMT",1595251027.318800,,,0
+1595412049.330800,U016C8XH6NR,"Hey <@U0169FVV2LF> <@U016HFP7P2A>,
+
+You guys can find everything on the KERNEL Explorer,
+<https://www.notion.so/gitcoin/The-KERNEL-Explorer-c6c757dc9e844643a1ae89eb68243eae>","Mon, 19 Jan 1970 11:10:12 GMT",1595251027.318800,"U0169FVV2LF,U016HFP7P2A",,0
+1595412214.331200,U016HFP7P2A,awesome. thanks buddy,"Mon, 19 Jan 1970 11:10:12 GMT",1595251027.318800,,"[{""name"":""raised_hands"",""users"":[""U016C8XH6NR""],""count"":1}]",1
+1595243909.316700,U017J0ESE48,Anyone interested in being accountability buddies?,"Mon, 19 Jan 1970 11:07:23 GMT",1595243909.316700,,,0
+1595245911.317200,U016ZPHMHL4,Hi Piotr! <@U016BTBS3MM> has set up a channel that might help: <https://kernel-community.slack.com/archives/C016X4LLD9T/p1595156811259300>,"Mon, 19 Jan 1970 11:07:25 GMT",1595243909.316700,U016BTBS3MM,,0
+1595246743.317500,U017J0ESE48,thx Mike :slightly_smiling_face:,"Mon, 19 Jan 1970 11:07:26 GMT",1595243909.316700,,"[{""name"":""+1"",""users"":[""U016ZPHMHL4"",""U0172G1A28H""],""count"":2}]",2
+1595212858.314500,U0172BR9Q8H,"Hey all, the CommitPool team would love your help! Please take this very quick survey — it won’t take more than 1-2 minutes, and we won’t record your email address (unless you explicitly give it to us :slightly_smiling_face: ). <https://forms.gle/VVGoWaEzRKZm1yjx7>","Mon, 19 Jan 1970 11:06:52 GMT",1595212858.314500,,"[{""name"":""+1"",""users"":[""U016T0QSCMT"",""U016Q1TSFSN"",""U016HAELGES"",""U016W0C1FNG"",""U016ZPHMHL4"",""U017DKW89DW"",""U017E2A2KPS""],""count"":7},{""name"":""party_parrot"",""users"":[""U016T0QSCMT"",""U016W0C1FNG"",""U017E2A2KPS""],""count"":3}]",10
+1595213426.315000,U016T0QSCMT,Completed and interested to see where this goes,"Mon, 19 Jan 1970 11:06:53 GMT",1595212858.314500,,"[{""name"":""pray"",""users"":[""U0172BR9Q8H""],""count"":1}]",1
+1595213832.315600,U0172BR9Q8H,thanks so much <@U016T0QSCMT>! There’s a link to our first prototype in the weekly update I just posted to <#C0175KTG8TU|kernel-project-updates>,"Mon, 19 Jan 1970 11:06:53 GMT",1595212858.314500,U016T0QSCMT,"[{""name"":""+1"",""users"":[""U016T0QSCMT""],""count"":1}]",1
+1595228123.315900,U017ACMER3P,One of your questions is confusingly worded. Something about how often do you not cycle. You can get more clarity by rewording,"Mon, 19 Jan 1970 11:07:08 GMT",1595212858.314500,,"[{""name"":""+1"",""users"":[""U016C8XH6NR""],""count"":1},{""name"":""pray"",""users"":[""U0172BR9Q8H""],""count"":1}]",2
+1595245708.317000,U016ZPHMHL4,Done! My exercise of choice (rowing) was not included so picked swimming as a secondary.,"Mon, 19 Jan 1970 11:07:25 GMT",1595212858.314500,,"[{""name"":""pray"",""users"":[""U0172BR9Q8H""],""count"":1}]",1
+1595252722.320100,U0172BR9Q8H,"<@U017ACMER3P> , I appreciate the feedback! I’ve tweaked the phrasing to make it more clear ","Mon, 19 Jan 1970 11:07:32 GMT",1595212858.314500,U017ACMER3P,,0
+1595263051.322300,U017DKW89DW,"Done! I think some of the questions are confusing. Also, I am also into exercise so answering the questions in terms of how many times within a week would have been a better reflection of my activity as opposed to how many times a month. Hope that helps!","Mon, 19 Jan 1970 11:07:43 GMT",1595212858.314500,,,0
+1595273553.322800,U0172BR9Q8H,"thanks <@U017DKW89DW>! Other than the frequency thing, can you elaborate on what was confusing?","Mon, 19 Jan 1970 11:07:53 GMT",1595212858.314500,U017DKW89DW,,0
+1595278672.323000,U017DKW89DW,"Hey, <@U0172BR9Q8H>, I think that the questions were long or were structured in a way that I’m used to. I often had to read them twice to make sure that I was getting the meaning of the question.
+
+For example, “How often do you find it challenging to cycle / bike as often or as far as you would like in a given week?”
+
+I would prefer to the question to be broken down into two separate questions in the following format: “In a given week, how many times did you find it challenging to cycle / bike as often as you’d like”
+
+“In a given week, how many times did you find it challenging to cycle / bike as far as you’d like?”
+
+Hope that helps!","Mon, 19 Jan 1970 11:07:58 GMT",1595212858.314500,U0172BR9Q8H,"[{""name"":""pray"",""users"":[""U0172BR9Q8H""],""count"":1}]",1
+1595280796.323300,U016R8MQL4D,"Completed! One thing I wanted to note—I’m targeting a duration and weekly frequency instead of a total distance, though there was nowhere to specify this.","Mon, 19 Jan 1970 11:08:00 GMT",1595212858.314500,,"[{""name"":""pray"",""users"":[""U0172BR9Q8H""],""count"":1}]",1
+1595281110.323800,U0172BR9Q8H,"thanks <@U016R8MQL4D> that’s good feedback! The survey is meant to capture a general sense of “I find it challenging to do what I want to do”, and I included examples of distance and frequency, but as you point out duration is an important dimension as well. We’ll probably need some follow-up research (maybe a/b/c testing?) to figure out which is most relevant for our initial version :slightly_smiling_face:","Mon, 19 Jan 1970 11:08:01 GMT",1595212858.314500,U016R8MQL4D,,0
+1595298530.324800,U017E2A2KPS,Done:-),"Mon, 19 Jan 1970 11:08:18 GMT",1595212858.314500,,"[{""name"":""pray"",""users"":[""U0172BR9Q8H""],""count"":1}]",1
+1595203400.311300,U016PUP7D5Z,Is there any DEX where you can create buy/sell orders? I have never done this on any DEX and wondering whether it is even possible or not,"Mon, 19 Jan 1970 11:06:43 GMT",1595203400.311300,,,0
+1595203667.311500,U017E885WBA,"1inch and matcha <https://matcha.xyz/markets/ETH/DAI> have market and limit orders, maybe loopring as well
+<https://loopring.io/trade/ETH-USDT>
+
+but havent tried a sell order, hope this helps","Mon, 19 Jan 1970 11:06:43 GMT",1595203400.311300,,"[{""name"":""pray"",""users"":[""U016PUP7D5Z""],""count"":1}]",1
+1595204035.311800,U016PUP7D5Z,Loopring looks good. UX is familiar to CEXs,"Mon, 19 Jan 1970 11:06:44 GMT",1595203400.311300,,,0
+1595263754.322500,U0172CTQ3A5,Kyberswap launched limit orders too: <https://kyberswap.com/limit_order/>,"Mon, 19 Jan 1970 11:07:43 GMT",1595203400.311300,,,0
+1595196053.310400,U016Z7XQC7N,Sending pm about alt approach ,"Mon, 19 Jan 1970 11:06:36 GMT",,,,0
+1595185428.309300,U016PEM9U5B,"Anyone here know Ryan Zurrer? <https://twitter.com/rzurrer>
+
+He wrote *<https://drive.google.com/file/d/1D4jmU_TQ3TnEaBhMNpM-phs1tZvRwttn/view|Carbon Token Ecosystem - White Paper>:* A decentralized peer-to-peer self-organizing consensus mechanism and marketplace for carbon offset lifecycle management using cryptographic blockchain tokens.
+
+We would love an intro so we can talk to him about building on his work!","Mon, 19 Jan 1970 11:06:25 GMT",1595185428.309300,,,0
+1595377891.327200,U017E8UUTUZ,Did you ever get an intro? If not DM me and I can.,"Mon, 19 Jan 1970 11:09:37 GMT",1595185428.309300,,"[{""name"":""eyes"",""users"":[""U016PEM9U5B""],""count"":1},{""name"":""pray"",""users"":[""U016PEM9U5B""],""count"":1}]",2
+1595168662.307500,U016WQPK6J0,I'm doing a little user research on DeFi and savings. It just takes a min and will help us build something useful - many thanks! <https://goodghosting.typeform.com/to/Qe8nvbum> :slightly_smiling_face:,"Mon, 19 Jan 1970 11:06:08 GMT",1595168662.307500,,"[{""name"":""+1"",""users"":[""U016C8XH6NR"",""U0172MSC92A"",""U016Q1TSFSN"",""U016T0QSCMT"",""U016ZPHMHL4"",""U017DKW89DW""],""count"":6},{""name"":""party_parrot"",""users"":[""U016T0QSCMT"",""U017DKW89DW""],""count"":2}]",8
+1595261686.321600,U017DKW89DW,"Hey Rachel! Submitted. Only suggestion that I have is that you should consider specifying what currency for the amount for Question 5.
+
+I added my response for USD but not everyone is from the U.S. in KERNEL. Hope that is helpful.","Mon, 19 Jan 1970 11:07:41 GMT",1595168662.307500,,,0
+1595281076.323600,U016WQPK6J0,Good idea - thanks for the feedback <@U017DKW89DW> :slightly_smiling_face:,"Mon, 19 Jan 1970 11:08:01 GMT",1595168662.307500,U017DKW89DW,,0
+1595110416.304600,U017J0ESE48,"URGENT&gt;
+What's the best way to stop a ponzi scheme when u know it's happening, or something similar.
+I am NOT in US jurisdiction","Mon, 19 Jan 1970 11:05:10 GMT",1595110416.304600,,,0
+1595110633.304700,U016T0QSCMT,"High SEO content on the topic such as a blog post that illustrates how it can, does, will hurt investors (probably with visuals) in a way that when people search for it your post appears somewhere near the top. Also, you could advertise it to get it to the top. This could prevent alot of people from participating","Mon, 19 Jan 1970 11:05:10 GMT",1595110416.304600,,,0
+1595110804.304900,U017J0ESE48,"the case i'm facing is an individual scamming people borrowing money and never returning them, then honeypotting others over and over","Mon, 19 Jan 1970 11:05:10 GMT",1595110416.304600,,,0
+1595110807.305100,U017J0ESE48,nothing is onliny,"Mon, 19 Jan 1970 11:05:10 GMT",1595110416.304600,,,0
+1595376319.326000,U016WJZNNS0,Anyway to escalate/report to law enforcement?,"Mon, 19 Jan 1970 11:09:36 GMT",1595110416.304600,,,0
+1595411220.330600,U017J0ESE48,Yeah i explored that option,"Mon, 19 Jan 1970 11:10:11 GMT",1595110416.304600,,,0
+1595075903.298700,U017DKW89DW,Has / is anyone keep track of resources on how to get a blockchain job/where to find a blockchain job? Meeting lots of fellows who are transitioning into the space from other industries/fields.,"Mon, 19 Jan 1970 11:04:35 GMT",1595075903.298700,,,0
+1595077961.298900,U016T0QSCMT,"Most vcs that invest in the space have jobs pages where they list all their portfolio companies and jobs available. If youre going cold, this is a good place to start as you can often find jobs that arent posted on linkedin and other job boards. Also, going in cold, contributing to project githubs and developing relationships with the devteam via their public chat or via github comments is a great way to get noticed","Mon, 19 Jan 1970 11:04:37 GMT",1595075903.298700,,,0
+1595092858.302100,U016AMDF215,"WeekInEthereum newsletter, Bankless newsletter, Defiant newsletter, EthHub newsletter. If I'm not wrong, all of them have job posts.
+Regarding meetings, events, etc, there's a etherscan spreadsheet about 2020 events. Can't find it now, but I have the link on my laptop, I can send it later.
+<https://docs.google.com/spreadsheets/d/1HFxjdqF-lzMA5pfFiGXmgUAjnZ4fiVmKoLebriVrDZU/htmlview>","Mon, 19 Jan 1970 11:04:52 GMT",1595075903.298700,,,0
+1595107149.303700,U016Q1TSFSN,<https://cryptocurrencyjobs.substack.com/people/219155-cryptocurrency-jobs|https://cryptocurrencyjobs.substack.com/people/219155-cryptocurrency-jobs>,"Mon, 19 Jan 1970 11:05:07 GMT",1595075903.298700,,,0
